@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="add_pg_trgm_extensions" author="bwalter" runOnChange="true">
+        <sql>
+            CREATE EXTENSION IF NOT EXISTS pg_trgm;
+        </sql>
+    </changeSet>
+
+    <changeSet id="add_fuzzystrmatch_extensions" author="bwalter" runOnChange="true">
+        <sql>
+-- fuzzystrmatch is not needed to use the similarity function in psql queries, the pg_trgm extension is enough
+            DROP EXTENSION IF EXISTS fuzzystrmatch;
+        </sql>
+    </changeSet>
+
+    <changeSet id="add_committee_hearing_count_to_committees_table" author="bwalter">
+        <preConditions onFail="MARK_RAN">
+            <tableExists tableName="committees"/>
+            <not>
+                <columnExists tableName="committees" columnName="committee_hearing_count"/>
+                <columnExists tableName="committees" columnName="number_of_public_hearings_committee"/>
+            </not>
+        </preConditions>
+        <addColumn tableName="committees">
+            <column name="committee_hearing_count" type="integer"/>
+            <column name="number_of_public_hearings_committee" type="integer"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="sa_public_hearings_table" author="bwalter" runOnChange="true">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="sa_public_hearings"/>
+            </not>
+        </preConditions>
+        <createTable tableName="sa_public_hearings">
+            <column name="record_id" type="integer">
+                <constraints nullable="false"
+                             foreignKeyName="fk_record_saPubHearings"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="hearing_title" type="varchar"/>
+            <column name="hearing_date" type="date"/>
+            <column name="hearing_submission_count" type="integer"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="add_public_hearing_count_column_to_bill_main_table" author="bwalter">
+        <preConditions onFail="MARK_RAN">
+            <tableExists tableName="bill_main_table"/>
+            <not>
+                <columnExists tableName="bill_main_table" columnName="public_hearing_count"/>
+            </not>
+        </preConditions>
+
+        <addColumn tableName="bill_main_table">
+            <column name="public_hearing_count" type="integer"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="add_law_title_column_to_bill_main_table" author="bwalter">
+        <preConditions onFail="MARK_RAN">
+            <tableExists tableName="bill_main_table"/>
+            <not>
+                <columnExists tableName="bill_main_table" columnName="law_title"/>
+                <columnExists tableName="bill_main_table" columnName="gov_page_url"/>
+            </not>
+        </preConditions>
+        <addColumn tableName="bill_main_table">
+            <column name="law_title" type="varchar"/>
+            <column name="gov_page_url" type="varchar"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="create_sa_generic_id_seq" author="bwalter">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <sequenceExists sequenceName="sa_generic_id_seq"/>
+            </not>
+        </preConditions>
+
+        <createSequence incrementBy="1"
+                        maxValue="999999"
+                        sequenceName="sa_generic_id_seq"
+                        startValue="1"/>
+    </changeSet>
+
+    <changeSet id="rename_size_stage_to_debate_size" author="bwalter" runOnChange="true">
+        <preConditions onFail="MARK_RAN">
+            <columnExists tableName="legislative_stages" columnName="size_stage"/>
+        </preConditions>
+
+        <renameColumn
+                tableName="legislative_stages"
+                oldColumnName="size_stage"
+                newColumnName="debate_size"
+                columnDataType="integer"
+        />
+    </changeSet>
+
+    <changeSet id="delete_sa_act_url_table" author="walterbalint">
+        <preConditions onFail="MARK_RAN">
+            <tableExists tableName="sa_act_url_table"/>
+        </preConditions>
+        <dropTable tableName="sa_act_url_table"/>
+    </changeSet>
+
+    <changeSet id="delete_sa_all_originator_links" author="walterbalint">
+        <preConditions onFail="MARK_RAN">
+            <tableExists tableName="sa_all_originators_links"/>
+        </preConditions>
+        <dropTable tableName="sa_all_originators_links"/>
+    </changeSet>
+</databaseChangeLog>

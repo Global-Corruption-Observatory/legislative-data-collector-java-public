@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="create_sw_sequence" author="bsipos">
+        <createSequence sequenceName="sw_generic_id_seq"/>
+    </changeSet>
+
+    <changeSet id="country_spec_vars" author="bsipos">
+        <createTable tableName="sweden_spec_vars">
+            <column name="id" type="serial">
+                <constraints primaryKey="true"/>
+            </column>
+
+            <column name="record_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="bulgaria_country_spec"
+                             references="bill_main_table(id)"/>
+            </column>
+
+            <column name="forslagspunkter_page_url" type="varchar"/>
+            <column name="stage1_text_url" type="varchar"/>
+            <column name="affecting_laws_page_url" type="varchar"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="add_new_amendment_fields" author="bsipos">
+        <addColumn tableName="amendments">
+            <column name="amendment_page_url" type="varchar"/>
+        </addColumn>
+        <addColumn tableName="amendments">
+            <column name="amendment_title" type="varchar"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="add_report_id_col" author="bsipos">
+        <addColumn tableName="sweden_spec_vars">
+            <column name="report_id" type="varchar"/>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>

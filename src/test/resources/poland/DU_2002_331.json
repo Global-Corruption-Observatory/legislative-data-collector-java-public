@@ -1,0 +1,59 @@
+{
+  "ELI": "DU/2002/331",
+  "address": "WDU20020370331",
+  "announcementDate": "2002-03-20",
+  "changeDate": "2022-06-14T11:14:53",
+  "displayAddress": "Dz.U. 2002 nr 37 poz. 331",
+  "pos": 331,
+  "promulgation": "2002-04-12",
+  "publisher": "DU",
+  "status": "akt jednorazowy",
+  "textHTML": true,
+  "textPDF": true,
+  "title": "Ustawa z dnia 20 marca 2002 r. o ustanowieniu 2 maja Dniem Polonii i Polaków za Granicą.",
+  "type": "Ustawa",
+  "volume": 37,
+  "year": 2002,
+  "authorizedBody": [],
+  "directives": [],
+  "entryIntoForce": "2002-04-27",
+  "inForce": "IN_FORCE",
+  "keywords": [
+    "polonia"
+  ],
+  "keywordsNames": [],
+  "obligated": [],
+  "previousTitle": [],
+  "prints": [
+    {
+      "link": "https://orka.sejm.gov.pl/proc4.nsf/opisy/250.htm",
+      "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term4/prints/250",
+      "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term4/processes/250",
+      "number": "250",
+      "term": 4
+    }
+  ],
+  "references": {},
+  "releasedBy": [
+    "SEJM"
+  ],
+  "texts": [
+    {
+      "fileName": "text.html",
+      "type": "H"
+    },
+    {
+      "fileName": "D20020331.pdf",
+      "type": "O"
+    },
+    {
+      "fileName": "D20020331.pdf",
+      "type": "I"
+    },
+    {
+      "fileName": "D20020331L.pdf",
+      "type": "T"
+    }
+  ],
+  "validFrom": "2002-04-27"
+}

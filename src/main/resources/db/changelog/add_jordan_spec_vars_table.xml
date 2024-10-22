@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="remove_jordan_spec_var_columns" author="afarkas">
+        <preConditions onFail="MARK_RAN">
+            <and>
+                <columnExists tableName="bill_main_table" columnName="category"/>
+                <columnExists tableName="bill_main_table" columnName="leg_status"/>
+                <columnExists tableName="bill_main_table" columnName="related_total"/>
+                <columnExists tableName="bill_main_table" columnName="related_total"/>
+                <columnExists tableName="bill_main_table" columnName="related_regulation"/>
+                <columnExists tableName="bill_main_table" columnName="related_directions"/>
+                <columnExists tableName="bill_main_table" columnName="related_decisions"/>
+                <columnExists tableName="bill_main_table" columnName="related_explanation"/>
+            </and>
+        </preConditions>
+
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="category" />
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="leg_status" />
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="related_total" />
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="related_regulation" />
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="related_directions" />
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="related_decisions" />
+        <dropColumn tableName="BILL_MAIN_TABLE"  columnName="related_explanation" />
+    </changeSet>
+
+    <changeSet id="add_jordan_spec_vars_table" author="afarkas">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="jordan_spec_vars"/>
+            </not>
+        </preConditions>
+
+        <createTable tableName="jordan_spec_vars">
+            <column name="id" type="int">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="record_id" type="int"/>
+            <column name="affecting_laws_size_total" type="int"/>
+            <column name="affecting_laws_total_article_count" type="int"/>
+            <column name="category" type="varchar"/>
+            <column name="leg_status" type="varchar"/>
+            <column name="related_total" type="int"/>
+            <column name="related_regulation" type="int"/>
+            <column name="related_directions" type="int"/>
+            <column name="related_decisions" type="int"/>
+            <column name="related_explanation" type="int"/>
+        </createTable>
+    </changeSet>
+
+</databaseChangeLog>

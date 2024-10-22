@@ -1,0 +1,144 @@
+plugins {
+	id 'java'
+	id 'idea'
+	id 'org.springframework.boot' version '2.5.2'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'org.jetbrains.kotlin.jvm' version '1.6.21'
+}
+
+group = 'com.precognox'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+	maven {
+		url "https://projectlombok.org/edge-releases"
+	}
+}
+
+idea {
+	module {
+		downloadJavadoc = true
+		downloadSources = true
+	}
+}
+
+dependencies {
+	//Lombok
+    compileOnly 'org.projectlombok:lombok:1.18.34'
+	annotationProcessor 'org.projectlombok:lombok:1.18.34'
+
+	//DB
+	runtimeOnly 'org.postgresql:postgresql'
+	implementation 'org.liquibase:liquibase-core'
+	implementation 'net.lbruun.springboot:preliquibase-spring-boot-starter:1.1.0'
+
+	//Kotlin
+	implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
+	implementation 'org.jetbrains.kotlin:kotlin-reflect:1.7.22'
+	testImplementation 'org.jetbrains.kotlin:kotlin-test:1.7.22'
+
+	//Spring
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework:spring-aspects:5.3.23'
+	implementation 'org.springframework.retry:spring-retry:1.3.3'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	//Selenium
+	implementation 'org.seleniumhq.selenium:selenium-api:4.19.1'
+	implementation 'org.seleniumhq.selenium:selenium-java:4.19.1'
+	implementation 'org.seleniumhq.selenium:selenium-chrome-driver:4.19.1'
+	implementation 'org.seleniumhq.selenium:selenium-remote-driver:4.19.1'
+	implementation 'org.seleniumhq.selenium:htmlunit-driver:3.61.0'
+	implementation 'org.seleniumhq.selenium:selenium-support:4.19.1'
+	implementation group: 'org.seleniumhq.selenium', name: 'selenium-devtools-v123', version: '4.19.1'
+
+	//Playwright
+	implementation group: 'com.microsoft.playwright', name: 'playwright', version: '1.37.0'
+
+	implementation 'org.jsoup:jsoup:1.14.3'
+
+	//Jaunt
+	implementation files('libs/jaunt1.6.1.jar')
+	implementation files('libs/jauntium0.9.jar')
+
+	//Jackson
+	implementation 'com.fasterxml.jackson.core:jackson-core:2.13.3'
+	implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.3'
+	implementation 'com.fasterxml.jackson.core:jackson-annotations:2.13.3'
+
+	//Parsers
+	implementation 'net.sf.saxon:Saxon-HE:11.3'
+	implementation 'com.jayway.jsonpath:json-path:2.7.0'
+
+	//Apache Commons
+	implementation 'commons-io:commons-io:2.11.0'
+	implementation 'org.apache.commons:commons-text:1.12.0'
+	implementation 'org.apache.commons:commons-lang3:3.14.0'
+	implementation 'org.apache.commons:commons-pool2:2.11.1'
+	implementation 'org.apache.commons:commons-csv:1.9.0'
+
+	//PDF, MS office tools
+	implementation 'org.apache.poi:poi:5.2.2'
+	implementation 'org.apache.poi:poi-ooxml:5.2.2'
+	implementation 'org.apache.poi:poi-scratchpad:5.2.2'
+	implementation 'org.apache.pdfbox:pdfbox:3.0.0'
+	implementation 'org.apache.tika:tika-core:2.9.2'
+	implementation 'org.apache.tika:tika-parsers-standard-package:2.9.2'
+
+	implementation 'com.konghq:unirest-java:3.13.12'
+	implementation "io.github.java-diff-utils:java-diff-utils:4.11"
+	implementation 'one.util:streamex:0.8.2'
+	implementation 'me.xdrop:fuzzywuzzy:1.4.0'
+	implementation 'net.sourceforge.htmlcleaner:htmlcleaner:2.26'
+	implementation 'com.opencsv:opencsv:5.9'
+
+	//JUnit
+	implementation('junit:junit:4.13.2') //todo remove if possible
+	implementation 'org.junit.jupiter:junit-jupiter:5.9.0'
+	implementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
+	implementation "com.github.tomakehurst:wiremock-jre8:2.33.2"
+
+	//Mockito
+	testImplementation "org.mockito:mockito-inline:5.2.0"  // includes "core"
+	testImplementation "org.mockito:mockito-junit-jupiter:5.2.0"
+
+
+	//String diff for ChangeDetector
+	implementation 'org.bitbucket.cowwoc:diff-match-patch:1.2'
+}
+
+test {
+	useJUnitPlatform()
+}
+
+jar {
+	enabled = false
+}
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
+}
+
+compileKotlin {
+	kotlinOptions {
+		jvmTarget = "17"
+	}
+}
+
+compileTestKotlin {
+	kotlinOptions {
+		jvmTarget = "17"
+	}
+}

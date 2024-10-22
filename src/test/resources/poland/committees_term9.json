@@ -1,0 +1,5015 @@
+[
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "ASW",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "Lewica",
+        "function": "przewodniczący",
+        "id": 366,
+        "lastFirstName": "Szczepański Wiesław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 137,
+        "lastFirstName": "Hreniak Paweł"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 150,
+        "lastFirstName": "Kaleta Piotr"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 301,
+        "lastFirstName": "Polaczek Jerzy"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 343,
+        "lastFirstName": "Sipiera Zdzisław"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 381,
+        "lastFirstName": "Szymański Tomasz"
+      },
+      {
+        "club": "Lewica",
+        "id": 2,
+        "lastFirstName": "Adamczyk Rafał"
+      },
+      {
+        "club": "PiS",
+        "id": 18,
+        "lastFirstName": "Baszko Mieczysław"
+      },
+      {
+        "club": "KP",
+        "id": 24,
+        "lastFirstName": "Biernacki Marek"
+      },
+      {
+        "club": "KO",
+        "id": 26,
+        "lastFirstName": "Bochenek Mateusz"
+      },
+      {
+        "club": "KO",
+        "id": 31,
+        "lastFirstName": "Borys Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 44,
+        "lastFirstName": "Chrzan Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 47,
+        "lastFirstName": "Cieślak Michał"
+      },
+      {
+        "club": "KO",
+        "id": 49,
+        "lastFirstName": "Cyrański Adam"
+      },
+      {
+        "club": "KO",
+        "id": 57,
+        "lastFirstName": "Czernow Zofia"
+      },
+      {
+        "club": "PiS",
+        "id": 59,
+        "lastFirstName": "Czochara Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 68,
+        "lastFirstName": "Duda Elżbieta"
+      },
+      {
+        "club": "KO",
+        "id": 76,
+        "lastFirstName": "Dzikowski Waldy"
+      },
+      {
+        "club": "PiS",
+        "id": 83,
+        "lastFirstName": "Filipiak Ewa"
+      },
+      {
+        "club": "KO",
+        "id": 86,
+        "lastFirstName": "Frysztak Konrad"
+      },
+      {
+        "club": "PiS",
+        "id": 111,
+        "lastFirstName": "Gontarz Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 464,
+        "lastFirstName": "Gosek Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 148,
+        "lastFirstName": "Kaczyński Filip"
+      },
+      {
+        "club": "Lewica",
+        "id": 191,
+        "lastFirstName": "Krutul Paweł"
+      },
+      {
+        "club": "KO",
+        "id": 210,
+        "lastFirstName": "Lenartowicz Gabriela"
+      },
+      {
+        "club": "KO",
+        "id": 222,
+        "lastFirstName": "Łącki Artur"
+      },
+      {
+        "club": "KP",
+        "id": 270,
+        "lastFirstName": "Nowogórska Urszula"
+      },
+      {
+        "club": "PiS",
+        "id": 289,
+        "lastFirstName": "Pawłowska Monika"
+      },
+      {
+        "club": "KO",
+        "id": 290,
+        "lastFirstName": "Pępek Małgorzata"
+      },
+      {
+        "club": "KO",
+        "id": 296,
+        "lastFirstName": "Piekarska Katarzyna Maria"
+      },
+      {
+        "club": "PiS",
+        "id": 465,
+        "lastFirstName": "Pogoda Szymon"
+      },
+      {
+        "club": "KP",
+        "id": 357,
+        "lastFirstName": "Sroka Magdalena"
+      },
+      {
+        "club": "PiS",
+        "id": 369,
+        "lastFirstName": "Szczurek-Żelazko Józefa"
+      },
+      {
+        "club": "Lewica",
+        "id": 374,
+        "lastFirstName": "Szopiński Jan"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 401,
+        "lastFirstName": "Tuduj Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 425,
+        "lastFirstName": "Wilczyński Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 431,
+        "lastFirstName": "Wojtyszek Agata Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 435,
+        "lastFirstName": "Woźniak Grzegorz Adam"
+      },
+      {
+        "club": "PiS",
+        "id": 436,
+        "lastFirstName": "Woźniak Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 449,
+        "lastFirstName": "Zieliński Jarosław"
+      },
+      {
+        "club": "Polska2050",
+        "id": 452,
+        "lastFirstName": "Zimoch Tomasz"
+      }
+    ],
+    "name": "Komisja Administracji i Spraw Wewnętrznych",
+    "nameGenitive": "Komisji Administracji i Spraw Wewnętrznych",
+    "phone": "(22) 694-18-44, 694-14-93, 694-19-38, FAX 694-28-53",
+    "scope": "Do zakresu działania Komisji należą sprawy administracji państwowej oraz bezpieczeństwa, ładu i porządku publicznego."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "ENM",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 358,
+        "lastFirstName": "Stachowiak-Różecka Mirosława"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 64,
+        "lastFirstName": "Dolata Zbigniew"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 73,
+        "lastFirstName": "Dziambor Artur"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 160,
+        "lastFirstName": "Klimczak Dariusz"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 377,
+        "lastFirstName": "Szumilas Krystyna"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 433,
+        "lastFirstName": "Wontor Bogusław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 450,
+        "lastFirstName": "Zieliński Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 29,
+        "lastFirstName": "Borowiak Joanna"
+      },
+      {
+        "club": "KO",
+        "id": 31,
+        "lastFirstName": "Borys Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 38,
+        "lastFirstName": "Burzyńska Lidia"
+      },
+      {
+        "club": "PiS",
+        "id": 45,
+        "lastFirstName": "Cicholska Anna Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 52,
+        "lastFirstName": "Czarnecki Witold"
+      },
+      {
+        "club": "Lewica",
+        "id": 75,
+        "lastFirstName": "Dziemianowicz-Bąk Agnieszka"
+      },
+      {
+        "club": "KO",
+        "id": 79,
+        "lastFirstName": "Fabisiak Joanna"
+      },
+      {
+        "club": "KO",
+        "id": 89,
+        "lastFirstName": "Gajewska Kinga"
+      },
+      {
+        "club": "KO",
+        "id": 92,
+        "lastFirstName": "Gapińska Elżbieta"
+      },
+      {
+        "club": "PS",
+        "id": 102,
+        "lastFirstName": "Girzyński Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 115,
+        "lastFirstName": "Górska Agnieszka"
+      },
+      {
+        "club": "Polska2050",
+        "id": 120,
+        "lastFirstName": "Gramatyka Michał"
+      },
+      {
+        "club": "KO",
+        "id": 122,
+        "lastFirstName": "Grupiński Rafał"
+      },
+      {
+        "club": "PiS",
+        "id": 125,
+        "lastFirstName": "Gwiazdowski Kazimierz"
+      },
+      {
+        "club": "KO",
+        "id": 185,
+        "lastFirstName": "Krawczyk Michał"
+      },
+      {
+        "club": "Lewica",
+        "id": 186,
+        "lastFirstName": "Kretkowska Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 192,
+        "lastFirstName": "Kryj Andrzej"
+      },
+      {
+        "club": "Lewica",
+        "id": 200,
+        "lastFirstName": "Kulasek Marcin"
+      },
+      {
+        "club": "PiS",
+        "id": 202,
+        "lastFirstName": "Kurowska Maria"
+      },
+      {
+        "club": "PiS",
+        "id": 203,
+        "lastFirstName": "Kurowski Władysław"
+      },
+      {
+        "club": "PiS",
+        "id": 462,
+        "lastFirstName": "Kurzępa Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 207,
+        "lastFirstName": "Kwitek Marek"
+      },
+      {
+        "club": "KO",
+        "id": 208,
+        "lastFirstName": "Lasek Maciej"
+      },
+      {
+        "club": "KO",
+        "id": 220,
+        "lastFirstName": "Lubnauer Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 251,
+        "lastFirstName": "Moskal Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 253,
+        "lastFirstName": "Mrówczyński Aleksander"
+      },
+      {
+        "club": "KO",
+        "id": 266,
+        "lastFirstName": "Nowacka Barbara"
+      },
+      {
+        "club": "PiS",
+        "id": 317,
+        "lastFirstName": "Rusecka Urszula"
+      },
+      {
+        "club": "PiS",
+        "id": 345,
+        "lastFirstName": "Skwarek Sławomir"
+      },
+      {
+        "club": "PiS",
+        "id": 399,
+        "lastFirstName": "Trepka Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 412,
+        "lastFirstName": "Wargocka Teresa"
+      },
+      {
+        "club": "KO",
+        "id": 419,
+        "lastFirstName": "Wcisło Marta"
+      },
+      {
+        "club": "PiS",
+        "id": 430,
+        "lastFirstName": "Wojciechowski Grzegorz"
+      },
+      {
+        "club": "KO",
+        "id": 439,
+        "lastFirstName": "Wypij Michał"
+      }
+    ],
+    "name": "Komisja Edukacji, Nauki i Młodzieży",
+    "nameGenitive": "Komisji Edukacji, Nauki i Młodzieży",
+    "phone": "(22) 694-12-99, 694-20-85",
+    "scope": "Do zakresu działania Komisji należą sprawy kształcenia i wychowania przedszkolnego, podstawowego, ogólnokształcącego, zawodowego, pomaturalnego i wyższego, oświaty dorosłych, kształcenia, dokształcania i doskonalenia zawodowego nauczycieli oraz kadr naukowych, wypoczynku, kultury fizycznej i sportu dzieci i młodzieży, opieki nad dziećmi i młodzieżą, archiwów, polityki rozwoju nauki i postępu technicznego, organizacji i kierowania nauką, badań naukowych, jednostek badowczo - rozwojowych, wdrożeń wyników badań do praktyki, wynalazczości i racjonalizacji, metrologii i jakości, korporacji i stowarzyszeń naukowych, współpracy naukowej za granicą, samorządu uczniowskiego i studenckiego oraz w jednostkach badawczo - rozwojowych, a także sprawy realizacji aspiracji młodego pokolenia oraz społeczno - zawodowej adaptacji młodzieży; przedmiotowy zakres działania Komisji nie zwalnia innych komisji od szczególnej troski o sprawy postępu naukowo - technicznego w dziedzinach należących do ich właściwości."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "FPB",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 172,
+        "lastFirstName": "Kosztowniak Andrzej"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 46,
+        "lastFirstName": "Cichoń Janusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 48,
+        "lastFirstName": "Cymański Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 94,
+        "lastFirstName": "Gawęda Adam"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 213,
+        "lastFirstName": "Leszczyna Izabela"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 344,
+        "lastFirstName": "Skowrońska Krystyna"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 463,
+        "lastFirstName": "Szlachta Andrzej"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 380,
+        "lastFirstName": "Szymańska Ewa"
+      },
+      {
+        "club": "KP",
+        "id": 37,
+        "lastFirstName": "Bukowiec Stanisław"
+      },
+      {
+        "club": "PiS",
+        "id": 45,
+        "lastFirstName": "Cicholska Anna Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 50,
+        "lastFirstName": "Czarnecki Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 57,
+        "lastFirstName": "Czernow Zofia"
+      },
+      {
+        "club": "PiS",
+        "id": 66,
+        "lastFirstName": "Dorywalski Bartłomiej"
+      },
+      {
+        "club": "niez.",
+        "id": 91,
+        "lastFirstName": "Galla Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 97,
+        "lastFirstName": "Gaża Grzegorz"
+      },
+      {
+        "club": "PS",
+        "id": 102,
+        "lastFirstName": "Girzyński Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 104,
+        "lastFirstName": "Glenc Teresa"
+      },
+      {
+        "club": "KO",
+        "id": 107,
+        "lastFirstName": "Golbik Marta"
+      },
+      {
+        "club": "PiS",
+        "id": 110,
+        "lastFirstName": "Gonciarz Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 111,
+        "lastFirstName": "Gontarz Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 115,
+        "lastFirstName": "Górska Agnieszka"
+      },
+      {
+        "club": "Polska2050",
+        "id": 132,
+        "lastFirstName": "Hennig-Kloska Paulina"
+      },
+      {
+        "club": "KO",
+        "id": 144,
+        "lastFirstName": "Jaros Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 148,
+        "lastFirstName": "Kaczyński Filip"
+      },
+      {
+        "club": "KO",
+        "id": 159,
+        "lastFirstName": "Kierwiński Marcin"
+      },
+      {
+        "club": "KO",
+        "id": 165,
+        "lastFirstName": "Konwiński Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 181,
+        "lastFirstName": "Krajewski Jarosław"
+      },
+      {
+        "club": "Lewica",
+        "id": 186,
+        "lastFirstName": "Kretkowska Katarzyna"
+      },
+      {
+        "club": "niez.",
+        "id": 201,
+        "lastFirstName": "Kulesza Jakub"
+      },
+      {
+        "club": "PiS",
+        "id": 218,
+        "lastFirstName": "Lorek Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 232,
+        "lastFirstName": "Małecki Jerzy"
+      },
+      {
+        "club": "KO",
+        "id": 234,
+        "lastFirstName": "Marchewka Arkadiusz"
+      },
+      {
+        "club": "PiS",
+        "id": 237,
+        "lastFirstName": "Materna Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 240,
+        "lastFirstName": "Matuszewski Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 468,
+        "lastFirstName": "Ołdakowski Adam"
+      },
+      {
+        "club": "PiS",
+        "id": 283,
+        "lastFirstName": "Pamuła Teresa"
+      },
+      {
+        "club": "KP",
+        "id": 286,
+        "lastFirstName": "Paszyk Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 291,
+        "lastFirstName": "Piątkowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 302,
+        "lastFirstName": "Polak Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 303,
+        "lastFirstName": "Polak Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 307,
+        "lastFirstName": "Porzucek Marcin"
+      },
+      {
+        "club": "KP",
+        "id": 310,
+        "lastFirstName": "Protasiewicz Jacek"
+      },
+      {
+        "club": "KO",
+        "id": 315,
+        "lastFirstName": "Rosati Dariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 321,
+        "lastFirstName": "Rychlik Paweł"
+      },
+      {
+        "club": "Kukiz15",
+        "id": 325,
+        "lastFirstName": "Sachajko Jarosław"
+      },
+      {
+        "club": "KO",
+        "id": 327,
+        "lastFirstName": "Saługa Wojciech"
+      },
+      {
+        "club": "KO",
+        "id": 339,
+        "lastFirstName": "Sibińska Krystyna"
+      },
+      {
+        "club": "KP",
+        "id": 340,
+        "lastFirstName": "Siekierski Czesław"
+      },
+      {
+        "club": "PiS",
+        "id": 343,
+        "lastFirstName": "Sipiera Zdzisław"
+      },
+      {
+        "club": "PiS",
+        "id": 350,
+        "lastFirstName": "Soin Agnieszka"
+      },
+      {
+        "club": "KO",
+        "id": 354,
+        "lastFirstName": "Sowa Marek"
+      },
+      {
+        "club": "Lewica",
+        "id": 355,
+        "lastFirstName": "Sowińska Anita"
+      },
+      {
+        "club": "Lewica",
+        "id": 398,
+        "lastFirstName": "Trela Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 402,
+        "lastFirstName": "Tułajew Sylwester"
+      },
+      {
+        "club": "KO",
+        "id": 406,
+        "lastFirstName": "Urbaniak Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 412,
+        "lastFirstName": "Wargocka Teresa"
+      },
+      {
+        "club": "PiS",
+        "id": 422,
+        "lastFirstName": "Wicher Patryk"
+      },
+      {
+        "club": "Lewica",
+        "id": 423,
+        "lastFirstName": "Wieczorek Dariusz"
+      },
+      {
+        "club": "KO",
+        "id": 424,
+        "lastFirstName": "Wielichowska Monika"
+      }
+    ],
+    "name": "Komisja Finansów Publicznych",
+    "nameGenitive": "Komisji Finansów Publicznych",
+    "phone": "(22) 694-10-42, 694-14-21, 694-10-40",
+    "scope": "Do zakresu działania Komisji należą sprawy systemu pieniężnego, kredytowego i podatkowego, płac i dochodów, budżetu i planów finansowych państwa, funduszy celowych, agencji i fundacji z udziałem Skarbu Państwa, ubezpieczeń majątkowych oraz ceł i statystyki. "
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "GOR",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 390,
+        "lastFirstName": "Tchórzewski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 143,
+        "lastFirstName": "Janyska Maria Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 184,
+        "lastFirstName": "Krasulski Leonard"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 230,
+        "lastFirstName": "Malik Ewa"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 271,
+        "lastFirstName": "Nykiel Mirosława"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 454,
+        "lastFirstName": "Zubowski Wojciech"
+      },
+      {
+        "club": "KO",
+        "id": 12,
+        "lastFirstName": "Aziewicz Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 19,
+        "lastFirstName": "Bąk Dariusz"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 33,
+        "lastFirstName": "Bosak Krzysztof"
+      },
+      {
+        "club": "Lewica",
+        "id": 39,
+        "lastFirstName": "Buż Wiesław"
+      },
+      {
+        "club": "KO",
+        "id": 46,
+        "lastFirstName": "Cichoń Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 50,
+        "lastFirstName": "Czarnecki Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 85,
+        "lastFirstName": "Frydrych Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 90,
+        "lastFirstName": "Galemba Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 94,
+        "lastFirstName": "Gawęda Adam"
+      },
+      {
+        "club": "PiS",
+        "id": 96,
+        "lastFirstName": "Gawron Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 110,
+        "lastFirstName": "Gonciarz Jarosław"
+      },
+      {
+        "club": "niez.",
+        "id": 114,
+        "lastFirstName": "Gowin Jarosław"
+      },
+      {
+        "club": "KO",
+        "id": 118,
+        "lastFirstName": "Grabczuk Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 144,
+        "lastFirstName": "Jaros Michał"
+      },
+      {
+        "club": "KP",
+        "id": 157,
+        "lastFirstName": "Kasprzak Mieczysław"
+      },
+      {
+        "club": "KO",
+        "id": 171,
+        "lastFirstName": "Kostuś Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 179,
+        "lastFirstName": "Kozik Krzysztof Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 183,
+        "lastFirstName": "Krajewski Wiesław"
+      },
+      {
+        "club": "PiS",
+        "id": 188,
+        "lastFirstName": "Król Piotr"
+      },
+      {
+        "club": "niez.",
+        "id": 226,
+        "lastFirstName": "Maciejewska Beata"
+      },
+      {
+        "club": "KO",
+        "id": 248,
+        "lastFirstName": "Miszalski Aleksander"
+      },
+      {
+        "club": "PiS",
+        "id": 268,
+        "lastFirstName": "Nowicka Danuta"
+      },
+      {
+        "club": "PiS",
+        "id": 461,
+        "lastFirstName": "Olejniczak Waldemar"
+      },
+      {
+        "club": "KO",
+        "id": 346,
+        "lastFirstName": "Sługocki Waldemar"
+      },
+      {
+        "club": "PS",
+        "id": 352,
+        "lastFirstName": "Sośnierz Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 358,
+        "lastFirstName": "Stachowiak-Różecka Mirosława"
+      },
+      {
+        "club": "Polska2050",
+        "id": 362,
+        "lastFirstName": "Suchoń Mirosław"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szulowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 414,
+        "lastFirstName": "Warzecha Jan"
+      },
+      {
+        "club": "KO",
+        "id": 419,
+        "lastFirstName": "Wcisło Marta"
+      },
+      {
+        "club": "Lewica",
+        "id": 432,
+        "lastFirstName": "Wolski Zdzisław"
+      },
+      {
+        "club": "Lewica",
+        "id": 442,
+        "lastFirstName": "Zandberg Adrian"
+      },
+      {
+        "club": "PiS",
+        "id": 444,
+        "lastFirstName": "Zawiślak Sławomir"
+      }
+    ],
+    "name": "Komisja Gospodarki i Rozwoju",
+    "nameGenitive": "Komisji Gospodarki i Rozwoju",
+    "phone": "(22) 694-20-45, 694-17-95",
+    "scope": "Do zakresu działania Komisji należą sprawy polityki gospodarczej, a w szczególności: restrukturyzacji gospodarki, efektywności przemysłu, handlu międzynarodowego i wewnętrznego, technologii, normalizacji, inwestycji bezpośrednich i udziału kapitału zagranicznego, a także samorządu pracowniczego, gospodarczego i pracodawców, oraz sprawy związane z tworzeniem właściwych podstaw prawnych dla funkcjonowania i rozwoju mikroprzedsiębiorców, małych i średnich przedsiębiorców, dostosowywania norm prawnych do potrzeb i możliwości działania takich przedsiębiorców, sprawy rozwoju rzemiosła, spółdzielczości oraz działalności gospodarczej w zakresie drobnej wytwórczości oraz usług, a także sprawy ochrony przed działaniem monopoli, w szczególności monopoli naturalnych, zapewniania wolności konkurencji na rynku, zasadności koncesjonowania zawodów i działalności gospodarczej, przeciwdziałania monopolizacji oraz ochrony praw konsumenta"
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "INF",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KO",
+        "function": "przewodniczący",
+        "id": 277,
+        "lastFirstName": "Olszewski Paweł"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 117,
+        "lastFirstName": "Grabarczyk Cezary"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 188,
+        "lastFirstName": "Król Piotr"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 245,
+        "lastFirstName": "Milczanowska Anna"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 301,
+        "lastFirstName": "Polaczek Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 8,
+        "lastFirstName": "Ardanowski Jan Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 40,
+        "lastFirstName": "Chmiel Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "id": 44,
+        "lastFirstName": "Chrzan Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 47,
+        "lastFirstName": "Cieślak Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 94,
+        "lastFirstName": "Gawęda Adam"
+      },
+      {
+        "club": "KO",
+        "id": 101,
+        "lastFirstName": "Gill-Piątek Hanna"
+      },
+      {
+        "club": "PiS",
+        "id": 137,
+        "lastFirstName": "Hreniak Paweł"
+      },
+      {
+        "club": "KO",
+        "id": 146,
+        "lastFirstName": "Joński Dariusz"
+      },
+      {
+        "club": "Lewica",
+        "id": 167,
+        "lastFirstName": "Kopiec Maciej"
+      },
+      {
+        "club": "KP",
+        "id": 182,
+        "lastFirstName": "Krajewski Stefan"
+      },
+      {
+        "club": "PiS",
+        "id": 202,
+        "lastFirstName": "Kurowska Maria"
+      },
+      {
+        "club": "LD",
+        "id": 205,
+        "lastFirstName": "Kwiatkowski Robert"
+      },
+      {
+        "club": "KO",
+        "id": 208,
+        "lastFirstName": "Lasek Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 368,
+        "lastFirstName": "Łapiak Aleksandra"
+      },
+      {
+        "club": "PiS",
+        "id": 221,
+        "lastFirstName": "Ławniczak Tomasz"
+      },
+      {
+        "club": "Lewica",
+        "id": 242,
+        "lastFirstName": "Matysiak Paulina"
+      },
+      {
+        "club": "KO",
+        "id": 252,
+        "lastFirstName": "Mroczek Czesław"
+      },
+      {
+        "club": "PiS",
+        "id": 253,
+        "lastFirstName": "Mrówczyński Aleksander"
+      },
+      {
+        "club": "PiS",
+        "id": 282,
+        "lastFirstName": "Paluch Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 287,
+        "lastFirstName": "Paul Jerzy"
+      },
+      {
+        "club": "KO",
+        "id": 288,
+        "lastFirstName": "Pawliczak Karolina"
+      },
+      {
+        "club": "KO",
+        "id": 318,
+        "lastFirstName": "Rusiecki Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 321,
+        "lastFirstName": "Rychlik Paweł"
+      },
+      {
+        "club": "KO",
+        "id": 339,
+        "lastFirstName": "Sibińska Krystyna"
+      },
+      {
+        "club": "PiS",
+        "id": 345,
+        "lastFirstName": "Skwarek Sławomir"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 353,
+        "lastFirstName": "Sośnierz Dobromir"
+      },
+      {
+        "club": "KO",
+        "id": 354,
+        "lastFirstName": "Sowa Marek"
+      },
+      {
+        "club": "KO",
+        "id": 360,
+        "lastFirstName": "Sterczewski Franciszek"
+      },
+      {
+        "club": "Polska2050",
+        "id": 362,
+        "lastFirstName": "Suchoń Mirosław"
+      },
+      {
+        "club": "Lewica",
+        "id": 366,
+        "lastFirstName": "Szczepański Wiesław"
+      },
+      {
+        "club": "PiS",
+        "id": 387,
+        "lastFirstName": "Śnieżek Adam"
+      },
+      {
+        "club": "KP",
+        "id": 395,
+        "lastFirstName": "Tomczak Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 399,
+        "lastFirstName": "Trepka Mariusz"
+      },
+      {
+        "club": "KO",
+        "id": 400,
+        "lastFirstName": "Truskolaski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 413,
+        "lastFirstName": "Warwas Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 431,
+        "lastFirstName": "Wojtyszek Agata Katarzyna"
+      }
+    ],
+    "name": "Komisja Infrastruktury",
+    "nameGenitive": "Komisji Infrastruktury",
+    "phone": "(22) 694-18-73, 694-10-33, 694-21-31, 694-16-96",
+    "scope": "Do zakresu działania Komisji należą sprawy budownictwa oraz gospodarki przestrzennej i mieszkaniowej, sprawy transportu lądowego i powietrznego, poczty oraz geodezji i kartografii."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "LPG",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KO",
+        "function": "przewodniczący",
+        "id": 404,
+        "lastFirstName": "Tyszkiewicz Robert"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 12,
+        "lastFirstName": "Aziewicz Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 38,
+        "lastFirstName": "Burzyńska Lidia"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 67,
+        "lastFirstName": "Drabek Przemysław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 184,
+        "lastFirstName": "Krasulski Leonard"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 323,
+        "lastFirstName": "Rzepa Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 18,
+        "lastFirstName": "Baszko Mieczysław"
+      },
+      {
+        "club": "PiS",
+        "id": 32,
+        "lastFirstName": "Borys-Szopa Bożena"
+      },
+      {
+        "club": "PiS",
+        "id": 41,
+        "lastFirstName": "Chmielowiec Zbigniew"
+      },
+      {
+        "club": "KO",
+        "id": 49,
+        "lastFirstName": "Cyrański Adam"
+      },
+      {
+        "club": "KO",
+        "id": 79,
+        "lastFirstName": "Fabisiak Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 113,
+        "lastFirstName": "Gosiewska Małgorzata"
+      },
+      {
+        "club": "KO",
+        "id": 140,
+        "lastFirstName": "Jachira Klaudia"
+      },
+      {
+        "club": "PiS",
+        "id": 150,
+        "lastFirstName": "Kaleta Piotr"
+      },
+      {
+        "club": "KO",
+        "id": 161,
+        "lastFirstName": "Kluzik-Rostkowska Joanna"
+      },
+      {
+        "club": "KO",
+        "id": 171,
+        "lastFirstName": "Kostuś Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 192,
+        "lastFirstName": "Kryj Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Kubiak Marta"
+      },
+      {
+        "club": "PiS",
+        "id": 209,
+        "lastFirstName": "Latos Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 214,
+        "lastFirstName": "Lichocka Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 238,
+        "lastFirstName": "Mateusiak-Pielucha Beata"
+      },
+      {
+        "club": "Lewica",
+        "id": 242,
+        "lastFirstName": "Matysiak Paulina"
+      },
+      {
+        "club": "KO",
+        "id": 275,
+        "lastFirstName": "Olichwer Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 283,
+        "lastFirstName": "Pamuła Teresa"
+      },
+      {
+        "club": "KP",
+        "id": 285,
+        "lastFirstName": "Pasławska Urszula"
+      },
+      {
+        "club": "PiS",
+        "id": 299,
+        "lastFirstName": "Płażyński Kacper"
+      },
+      {
+        "club": "PiS",
+        "id": 307,
+        "lastFirstName": "Porzucek Marcin"
+      },
+      {
+        "club": "KO",
+        "id": 322,
+        "lastFirstName": "Rząsa Marek"
+      },
+      {
+        "club": "Lewica",
+        "id": 334,
+        "lastFirstName": "Sekuła-Szmajdzińska Małgorzata"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 338,
+        "lastFirstName": "Siarkowska Anna Maria"
+      },
+      {
+        "club": "PiS",
+        "id": 348,
+        "lastFirstName": "Sobolewski Krzysztof"
+      },
+      {
+        "club": "niez.",
+        "id": 351,
+        "lastFirstName": "Sonik Bogusław"
+      },
+      {
+        "club": "PiS",
+        "id": 463,
+        "lastFirstName": "Szlachta Andrzej"
+      },
+      {
+        "club": "Lewica",
+        "id": 405,
+        "lastFirstName": "Ueberhan Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 416,
+        "lastFirstName": "Wassermann Małgorzata"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 427,
+        "lastFirstName": "Winnicki Robert"
+      },
+      {
+        "club": "KO",
+        "id": 451,
+        "lastFirstName": "Zientarski Piotr Benedykt"
+      }
+    ],
+    "name": "Komisja Łączności z Polakami za Granicą",
+    "nameGenitive": "Komisji Łączności z Polakami za Granicą ",
+    "phone": "(22) 694-19-56",
+    "scope": "Do zakresu działania Komisji należą sprawy więzi z krajem Polaków i osób pochodzenia polskiego zamieszkałych za granicą na stałe lub czasowo."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "OBN",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 139,
+        "lastFirstName": "Jach Michał"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 6,
+        "lastFirstName": "Andzel Waldemar"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 20,
+        "lastFirstName": "Bejda Paweł"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 150,
+        "lastFirstName": "Kaleta Piotr"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 177,
+        "lastFirstName": "Kownacki Bartosz"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 191,
+        "lastFirstName": "Krutul Paweł"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 200,
+        "lastFirstName": "Kulasek Marcin"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 252,
+        "lastFirstName": "Mroczek Czesław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 431,
+        "lastFirstName": "Wojtyszek Agata Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 41,
+        "lastFirstName": "Chmielowiec Zbigniew"
+      },
+      {
+        "club": "KO",
+        "id": 49,
+        "lastFirstName": "Cyrański Adam"
+      },
+      {
+        "club": "PiS",
+        "id": 63,
+        "lastFirstName": "Dobrzyński Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 77,
+        "lastFirstName": "Dziuk Barbara"
+      },
+      {
+        "club": "PiS",
+        "id": 84,
+        "lastFirstName": "Fogiel Radosław"
+      },
+      {
+        "club": "PiS",
+        "id": 472,
+        "lastFirstName": "Głuchowski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 117,
+        "lastFirstName": "Grabarczyk Cezary"
+      },
+      {
+        "club": "PiS",
+        "id": 137,
+        "lastFirstName": "Hreniak Paweł"
+      },
+      {
+        "club": "KO",
+        "id": 161,
+        "lastFirstName": "Kluzik-Rostkowska Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 170,
+        "lastFirstName": "Kossakowski Wojciech"
+      },
+      {
+        "club": "PiS",
+        "id": 473,
+        "lastFirstName": "Kowalczyk Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 178,
+        "lastFirstName": "Kozanecka Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 462,
+        "lastFirstName": "Kurzępa Jacek"
+      },
+      {
+        "club": "KO",
+        "id": 208,
+        "lastFirstName": "Lasek Maciej"
+      },
+      {
+        "club": "KP",
+        "id": 219,
+        "lastFirstName": "Lubczyk Radosław"
+      },
+      {
+        "club": "PiS",
+        "id": 227,
+        "lastFirstName": "Macierewicz Antoni"
+      },
+      {
+        "club": "Lewica",
+        "id": 272,
+        "lastFirstName": "Obaz Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 289,
+        "lastFirstName": "Pawłowska Monika"
+      },
+      {
+        "club": "KO",
+        "id": 298,
+        "lastFirstName": "Plocke Kazimierz"
+      },
+      {
+        "club": "KO",
+        "id": 305,
+        "lastFirstName": "Poncyljusz Paweł"
+      },
+      {
+        "club": "LD",
+        "id": 316,
+        "lastFirstName": "Rozenek Andrzej"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 338,
+        "lastFirstName": "Siarkowska Anna Maria"
+      },
+      {
+        "club": "KO",
+        "id": 341,
+        "lastFirstName": "Siemoniak Tomasz"
+      },
+      {
+        "club": "KO",
+        "id": 342,
+        "lastFirstName": "Sienkiewicz Bartłomiej"
+      },
+      {
+        "club": "Polska2050",
+        "id": 362,
+        "lastFirstName": "Suchoń Mirosław"
+      },
+      {
+        "club": "PiS",
+        "id": 364,
+        "lastFirstName": "Szałabawka Artur"
+      },
+      {
+        "club": "Lewica",
+        "id": 366,
+        "lastFirstName": "Szczepański Wiesław"
+      },
+      {
+        "club": "KO",
+        "id": 372,
+        "lastFirstName": "Szewiński Andrzej"
+      },
+      {
+        "club": "KO",
+        "id": 375,
+        "lastFirstName": "Szramka Paweł"
+      },
+      {
+        "club": "PiS",
+        "id": 387,
+        "lastFirstName": "Śnieżek Adam"
+      },
+      {
+        "club": "KO",
+        "id": 396,
+        "lastFirstName": "Tomczyk Cezary"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 401,
+        "lastFirstName": "Tuduj Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 402,
+        "lastFirstName": "Tułajew Sylwester"
+      }
+    ],
+    "name": "Komisja Obrony Narodowej",
+    "nameGenitive": "Komisji Obrony Narodowej",
+    "phone": "(22) 694-11-47, 694-17-91",
+    "scope": "Do zakresu działania Komisji należą sprawy obrony państwa, dotyczące zwłaszcza działalności sił zbrojnych, systemu oraz funkcjonowania obrony terytorialnej kraju i obrony cywilnej, wykonywania obowiązków w dziedzinie umacniania obronności przez organy państwowe i przedsiębiorstwa państwowe, organizacje spółdzielcze i społeczne oraz przez obywateli, a także sprawy zakładów przemysłu obronnego."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "OSZ",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KP",
+        "function": "przewodniczący",
+        "id": 285,
+        "lastFirstName": "Pasławska Urszula"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 19,
+        "lastFirstName": "Bąk Dariusz"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 72,
+        "lastFirstName": "Dyduch Marek"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 282,
+        "lastFirstName": "Paluch Anna"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 448,
+        "lastFirstName": "Zielińska Urszula"
+      },
+      {
+        "club": "KP",
+        "id": 37,
+        "lastFirstName": "Bukowiec Stanisław"
+      },
+      {
+        "club": "PiS",
+        "id": 41,
+        "lastFirstName": "Chmielowiec Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 69,
+        "lastFirstName": "Duda Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 77,
+        "lastFirstName": "Dziuk Barbara"
+      },
+      {
+        "club": "KO",
+        "id": 88,
+        "lastFirstName": "Gajewska Aleksandra"
+      },
+      {
+        "club": "PiS",
+        "id": 90,
+        "lastFirstName": "Galemba Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 97,
+        "lastFirstName": "Gaża Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 472,
+        "lastFirstName": "Głuchowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 109,
+        "lastFirstName": "Gołojuch Kazimierz"
+      },
+      {
+        "club": "Lewica",
+        "id": 112,
+        "lastFirstName": "Gosek-Popiołek Daria"
+      },
+      {
+        "club": "PiS",
+        "id": 115,
+        "lastFirstName": "Górska Agnieszka"
+      },
+      {
+        "club": "PiS",
+        "id": 116,
+        "lastFirstName": "Górski Maciej"
+      },
+      {
+        "club": "KP",
+        "id": 123,
+        "lastFirstName": "Grzyb Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 125,
+        "lastFirstName": "Gwiazdowski Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 128,
+        "lastFirstName": "Hałas Teresa"
+      },
+      {
+        "club": "KO",
+        "id": 129,
+        "lastFirstName": "Hanajczyk Agnieszka"
+      },
+      {
+        "club": "KO",
+        "id": 140,
+        "lastFirstName": "Jachira Klaudia"
+      },
+      {
+        "club": "Lewica",
+        "id": 166,
+        "lastFirstName": "Koperski Przemysław"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Kubiak Marta"
+      },
+      {
+        "club": "PiS",
+        "id": 474,
+        "lastFirstName": "Kurowska Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 202,
+        "lastFirstName": "Kurowska Maria"
+      },
+      {
+        "club": "KO",
+        "id": 210,
+        "lastFirstName": "Lenartowicz Gabriela"
+      },
+      {
+        "club": "KO",
+        "id": 224,
+        "lastFirstName": "Łośko Magdalena"
+      },
+      {
+        "club": "PiS",
+        "id": 241,
+        "lastFirstName": "Matuszny Kazimierz"
+      },
+      {
+        "club": "KO",
+        "id": 248,
+        "lastFirstName": "Miszalski Aleksander"
+      },
+      {
+        "club": "Polska2050",
+        "id": 255,
+        "lastFirstName": "Mucha Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 268,
+        "lastFirstName": "Nowicka Danuta"
+      },
+      {
+        "club": "PiS",
+        "id": 276,
+        "lastFirstName": "Olszewski Dariusz"
+      },
+      {
+        "club": "KO",
+        "id": 304,
+        "lastFirstName": "Pomaska Agnieszka"
+      },
+      {
+        "club": "KP",
+        "id": 329,
+        "lastFirstName": "Sawicki Marek"
+      },
+      {
+        "club": "niez.",
+        "id": 351,
+        "lastFirstName": "Sonik Bogusław"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 353,
+        "lastFirstName": "Sośnierz Dobromir"
+      },
+      {
+        "club": "Lewica",
+        "id": 355,
+        "lastFirstName": "Sowińska Anita"
+      },
+      {
+        "club": "Kukiz15",
+        "id": 459,
+        "lastFirstName": "Żuk Stanisław"
+      }
+    ],
+    "name": "Komisja Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa",
+    "nameGenitive": "Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa",
+    "phone": "(22) 694-21-85, 694-16-84, 694-10-50",
+    "scope": "Do zakresu działania Komisji należą sprawy ochrony i kształtowania środowiska oraz ochrony nieodnawialnych jego zasobów, geologii oraz leśnictwa i gospodarki leśnej."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "PSR",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 317,
+        "lastFirstName": "Rusecka Urszula"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 274,
+        "lastFirstName": "Okła-Drewnowicz Marzena"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 412,
+        "lastFirstName": "Wargocka Teresa"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 413,
+        "lastFirstName": "Warwas Robert"
+      },
+      {
+        "club": "Lewica",
+        "id": 2,
+        "lastFirstName": "Adamczyk Rafał"
+      },
+      {
+        "club": "Lewica",
+        "id": 22,
+        "lastFirstName": "Biejat Magdalena"
+      },
+      {
+        "club": "PiS",
+        "id": 29,
+        "lastFirstName": "Borowiak Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 32,
+        "lastFirstName": "Borys-Szopa Bożena"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 34,
+        "lastFirstName": "Braun Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 43,
+        "lastFirstName": "Chorosińska Dominika"
+      },
+      {
+        "club": "PiS",
+        "id": 62,
+        "lastFirstName": "Dąbrowska-Banaszek Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 63,
+        "lastFirstName": "Dobrzyński Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 68,
+        "lastFirstName": "Duda Elżbieta"
+      },
+      {
+        "club": "Lewica",
+        "id": 75,
+        "lastFirstName": "Dziemianowicz-Bąk Agnieszka"
+      },
+      {
+        "club": "KO",
+        "id": 85,
+        "lastFirstName": "Frydrych Joanna"
+      },
+      {
+        "club": "KO",
+        "id": 88,
+        "lastFirstName": "Gajewska Aleksandra"
+      },
+      {
+        "club": "PiS",
+        "id": 104,
+        "lastFirstName": "Glenc Teresa"
+      },
+      {
+        "club": "KO",
+        "id": 131,
+        "lastFirstName": "Hartwich Iwona"
+      },
+      {
+        "club": "KO",
+        "id": 163,
+        "lastFirstName": "Kołodziej Ewa"
+      },
+      {
+        "club": "Lewica",
+        "id": 173,
+        "lastFirstName": "Kotula Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 178,
+        "lastFirstName": "Kozanecka Ewa"
+      },
+      {
+        "club": "KO",
+        "id": 180,
+        "lastFirstName": "Kozłowska Iwona Maria"
+      },
+      {
+        "club": "KO",
+        "id": 185,
+        "lastFirstName": "Krawczyk Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 203,
+        "lastFirstName": "Kurowski Władysław"
+      },
+      {
+        "club": "KO",
+        "id": 235,
+        "lastFirstName": "Marczułajtis-Walczak Jagna"
+      },
+      {
+        "club": "PiS",
+        "id": 239,
+        "lastFirstName": "Matusiak Grzegorz"
+      },
+      {
+        "club": "KP",
+        "id": 243,
+        "lastFirstName": "Michałek Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 268,
+        "lastFirstName": "Nowicka Danuta"
+      },
+      {
+        "club": "Lewica",
+        "id": 272,
+        "lastFirstName": "Obaz Robert"
+      },
+      {
+        "club": "KO",
+        "id": 314,
+        "lastFirstName": "Rosa Monika"
+      },
+      {
+        "club": "PiS",
+        "id": 361,
+        "lastFirstName": "Strzałka Beata"
+      },
+      {
+        "club": "PiS",
+        "id": 386,
+        "lastFirstName": "Śniadek Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 387,
+        "lastFirstName": "Śnieżek Adam"
+      },
+      {
+        "club": "Lewica",
+        "id": 393,
+        "lastFirstName": "Tomaszewski Tadeusz"
+      },
+      {
+        "club": "KO",
+        "id": 467,
+        "lastFirstName": "Wojciechowska Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 430,
+        "lastFirstName": "Wojciechowski Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 471,
+        "lastFirstName": "Zielińska Elżbieta"
+      },
+      {
+        "club": "KP",
+        "id": 458,
+        "lastFirstName": "Żelazowska Bożena"
+      }
+    ],
+    "name": "Komisja Polityki Społecznej i Rodziny",
+    "nameGenitive": "Komisji Polityki Społecznej i Rodziny",
+    "phone": "(22) 694-18-51, 694-26-58",
+    "scope": "Do zakresu działania Komisji należą sprawy kształtowania polityki społecznej państwa, problemów socjalnych, ubezpieczeń społecznych, świadczeń socjalnych, pomocy społecznej, komunalnego budownictwa mieszkaniowego i problemów osób niepełnosprawnych i kombatantów oraz sprawy prawa pracy, w tym ochrony pracowników, bezpieczeństwa i higieny pracy, równego traktowania w zatrudnieniu, a także systemów płac i kosztów utrzymania, walki z bezrobociem, rynku pracy, kosztów pracy, zatrudnienia i ochrony praw pracowniczych obywateli polskich w krajach Unii Europejskiej, zatrudnienia absolwentów, a także sprawy wynikające bezpośrednio z funkcjonowania rodziny, wypełniania jej ról i zadań oraz występowania z propozycjami regulacji prawnych dotyczących tych zagadnień oraz sprawy dotyczące ochrony praw kobiet i zapewnienia im równych szans w życiu zawodowym i społecznym, a także sprawy związane z przestrzeganiem konstytucyjnej zasady równych praw kobiet i mężczyzn."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "RRW",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 90,
+        "lastFirstName": "Galemba Leszek"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 125,
+        "lastFirstName": "Gwiazdowski Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 232,
+        "lastFirstName": "Małecki Jerzy"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 263,
+        "lastFirstName": "Niedziela Dorota"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 283,
+        "lastFirstName": "Pamuła Teresa"
+      },
+      {
+        "club": "Kukiz15",
+        "function": "zastępca przewodniczącego",
+        "id": 325,
+        "lastFirstName": "Sachajko Jarosław"
+      },
+      {
+        "club": "Lewica",
+        "id": 4,
+        "lastFirstName": "Ajchler Romuald"
+      },
+      {
+        "club": "niez.",
+        "id": 469,
+        "lastFirstName": "Ajchler Zbigniew"
+      },
+      {
+        "club": "KO",
+        "id": 7,
+        "lastFirstName": "Aniśko Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 8,
+        "lastFirstName": "Ardanowski Jan Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 19,
+        "lastFirstName": "Bąk Dariusz"
+      },
+      {
+        "club": "KO",
+        "id": 28,
+        "lastFirstName": "Borowczak Jerzy"
+      },
+      {
+        "club": "KO",
+        "id": 31,
+        "lastFirstName": "Borys Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 42,
+        "lastFirstName": "Choma Kazimierz"
+      },
+      {
+        "club": "Lewica",
+        "id": 56,
+        "lastFirstName": "Czerniak Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 64,
+        "lastFirstName": "Dolata Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 69,
+        "lastFirstName": "Duda Jan"
+      },
+      {
+        "club": "KO",
+        "id": 82,
+        "lastFirstName": "Filiks Magdalena"
+      },
+      {
+        "club": "PiS",
+        "id": 109,
+        "lastFirstName": "Gołojuch Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 116,
+        "lastFirstName": "Górski Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 128,
+        "lastFirstName": "Hałas Teresa"
+      },
+      {
+        "club": "Lewica",
+        "id": 138,
+        "lastFirstName": "Iwaniak Arkadiusz"
+      },
+      {
+        "club": "PiS",
+        "id": 147,
+        "lastFirstName": "Kaczmarczyk Norbert"
+      },
+      {
+        "club": "PiS",
+        "id": 156,
+        "lastFirstName": "Kapinos Fryderyk"
+      },
+      {
+        "club": "KP",
+        "id": 182,
+        "lastFirstName": "Krajewski Stefan"
+      },
+      {
+        "club": "Lewica",
+        "id": 200,
+        "lastFirstName": "Kulasek Marcin"
+      },
+      {
+        "club": "PiS",
+        "id": 474,
+        "lastFirstName": "Kurowska Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 207,
+        "lastFirstName": "Kwitek Marek"
+      },
+      {
+        "club": "KO",
+        "id": 212,
+        "lastFirstName": "Lenz Tomasz"
+      },
+      {
+        "club": "KP",
+        "id": 231,
+        "lastFirstName": "Maliszewski Mirosław"
+      },
+      {
+        "club": "PiS",
+        "id": 468,
+        "lastFirstName": "Ołdakowski Adam"
+      },
+      {
+        "club": "KO",
+        "id": 298,
+        "lastFirstName": "Plocke Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 361,
+        "lastFirstName": "Strzałka Beata"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szulowski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 397,
+        "lastFirstName": "Tracz Małgorzata"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 407,
+        "lastFirstName": "Urbaniak Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 408,
+        "lastFirstName": "Uruski Piotr"
+      },
+      {
+        "club": "KO",
+        "id": 419,
+        "lastFirstName": "Wcisło Marta"
+      },
+      {
+        "club": "KO",
+        "id": 467,
+        "lastFirstName": "Wojciechowska Anna"
+      },
+      {
+        "club": "KP",
+        "id": 447,
+        "lastFirstName": "Ziejewski Zbigniew"
+      },
+      {
+        "club": "KO",
+        "id": 475,
+        "lastFirstName": "Żmijan Stanisław"
+      }
+    ],
+    "name": "Komisja Rolnictwa i Rozwoju Wsi",
+    "nameGenitive": "Komisji Rolnictwa i Rozwoju Wsi",
+    "phone": "(22) 694-10-08, 694-17-84, 694-14-12, TEL./FAX 694-18-01",
+    "scope": "Do zakresu działania Komisji należą sprawy rolnictwa, ogrodnictwa, sadownictwa, skupu płodów rolnych, hodowli, spółdzielczości rolniczej, gospodarki i ochrony gruntów rolnych i leśnych, zaopatrzenia wsi i rolnictwa w środki produkcji, w tym melioracji i zaopatrzenia wsi w wodę, przemysłu spożywczego oraz przetwórstwa rybnego, społeczno-zawodowych organizacji rolników i sytuacji socjalno-bytowej ludności wiejskiej; do zakresu działania Komisji należą również sprawy określania kierunków demonopolizacji organów i struktur zajmujących się powyższą działalnością oraz rozwoju i modernizacji infrastruktury wsi oraz problematyka związana z oświatą i doradztwem rolniczym."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "ZDR",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 209,
+        "lastFirstName": "Latos Tomasz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 133,
+        "lastFirstName": "Hoc Czesław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 206,
+        "lastFirstName": "Kwiecień Anna"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 247,
+        "lastFirstName": "Miller Rajmund"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 292,
+        "lastFirstName": "Piecha Bolesław"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 424,
+        "lastFirstName": "Wielichowska Monika"
+      },
+      {
+        "club": "niez.",
+        "id": 469,
+        "lastFirstName": "Ajchler Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 43,
+        "lastFirstName": "Chorosińska Dominika"
+      },
+      {
+        "club": "PiS",
+        "id": 44,
+        "lastFirstName": "Chrzan Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 47,
+        "lastFirstName": "Cieślak Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 62,
+        "lastFirstName": "Dąbrowska-Banaszek Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 70,
+        "lastFirstName": "Duszek Marcin"
+      },
+      {
+        "club": "PiS",
+        "id": 77,
+        "lastFirstName": "Dziuk Barbara"
+      },
+      {
+        "club": "KO",
+        "id": 99,
+        "lastFirstName": "Gelert Elżbieta"
+      },
+      {
+        "club": "KO",
+        "id": 107,
+        "lastFirstName": "Golbik Marta"
+      },
+      {
+        "club": "KO",
+        "id": 130,
+        "lastFirstName": "Hardie-Douglas Jerzy"
+      },
+      {
+        "club": "KO",
+        "id": 135,
+        "lastFirstName": "Hok Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 142,
+        "lastFirstName": "Janowska Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "id": 156,
+        "lastFirstName": "Kapinos Fryderyk"
+      },
+      {
+        "club": "KP",
+        "id": 160,
+        "lastFirstName": "Klimczak Dariusz"
+      },
+      {
+        "club": "KP",
+        "id": 169,
+        "lastFirstName": "Kosiniak-Kamysz Władysław"
+      },
+      {
+        "club": "KO",
+        "id": 180,
+        "lastFirstName": "Kozłowska Iwona Maria"
+      },
+      {
+        "club": "KP",
+        "id": 219,
+        "lastFirstName": "Lubczyk Radosław"
+      },
+      {
+        "club": "KO",
+        "id": 220,
+        "lastFirstName": "Lubnauer Katarzyna"
+      },
+      {
+        "club": "niez.",
+        "id": 228,
+        "lastFirstName": "Maksymowicz Wojciech"
+      },
+      {
+        "club": "PiS",
+        "id": 300,
+        "lastFirstName": "Płonka Elżbieta"
+      },
+      {
+        "club": "PiS",
+        "id": 301,
+        "lastFirstName": "Polaczek Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 306,
+        "lastFirstName": "Porowska Violetta"
+      },
+      {
+        "club": "KO",
+        "id": 314,
+        "lastFirstName": "Rosa Monika"
+      },
+      {
+        "club": "Lewica",
+        "id": 319,
+        "lastFirstName": "Rutka Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 321,
+        "lastFirstName": "Rychlik Paweł"
+      },
+      {
+        "club": "KO",
+        "id": 344,
+        "lastFirstName": "Skowrońska Krystyna"
+      },
+      {
+        "club": "PS",
+        "id": 352,
+        "lastFirstName": "Sośnierz Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 369,
+        "lastFirstName": "Szczurek-Żelazko Józefa"
+      },
+      {
+        "club": "Lewica",
+        "id": 374,
+        "lastFirstName": "Szopiński Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szulowski Krzysztof"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 403,
+        "lastFirstName": "Tyszka Stanisław"
+      },
+      {
+        "club": "PiS",
+        "id": 422,
+        "lastFirstName": "Wicher Patryk"
+      },
+      {
+        "club": "Lewica",
+        "id": 432,
+        "lastFirstName": "Wolski Zdzisław"
+      },
+      {
+        "club": "Lewica",
+        "id": 443,
+        "lastFirstName": "Zawisza Marcelina"
+      }
+    ],
+    "name": "Komisja Zdrowia",
+    "nameGenitive": "Komisji Zdrowia",
+    "phone": "(22) 694-10-20,  694-21-03, 694-18-27",
+    "scope": "Do zakresu działania Komisji należą sprawy ochrony zdrowia."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "KFS",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KO",
+        "function": "przewodniczący",
+        "id": 320,
+        "lastFirstName": "Rutnicki Jakub"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 18,
+        "lastFirstName": "Baszko Mieczysław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 239,
+        "lastFirstName": "Matusiak Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 240,
+        "lastFirstName": "Matuszewski Marek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 264,
+        "lastFirstName": "Niemczyk Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 276,
+        "lastFirstName": "Olszewski Dariusz"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 393,
+        "lastFirstName": "Tomaszewski Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 42,
+        "lastFirstName": "Choma Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 51,
+        "lastFirstName": "Czarnecki Przemysław"
+      },
+      {
+        "club": "PiS",
+        "id": 67,
+        "lastFirstName": "Drabek Przemysław"
+      },
+      {
+        "club": "niez.",
+        "id": 73,
+        "lastFirstName": "Dziambor Artur"
+      },
+      {
+        "club": "KO",
+        "id": 118,
+        "lastFirstName": "Grabczuk Krzysztof"
+      },
+      {
+        "club": "Lewica",
+        "id": 138,
+        "lastFirstName": "Iwaniak Arkadiusz"
+      },
+      {
+        "club": "PiS",
+        "id": 152,
+        "lastFirstName": "Kałużny Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 170,
+        "lastFirstName": "Kossakowski Wojciech"
+      },
+      {
+        "club": "PiS",
+        "id": 474,
+        "lastFirstName": "Kurowska Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 209,
+        "lastFirstName": "Latos Tomasz"
+      },
+      {
+        "club": "KO",
+        "id": 222,
+        "lastFirstName": "Łącki Artur"
+      },
+      {
+        "club": "KO",
+        "id": 235,
+        "lastFirstName": "Marczułajtis-Walczak Jagna"
+      },
+      {
+        "club": "PiS",
+        "id": 251,
+        "lastFirstName": "Moskal Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 253,
+        "lastFirstName": "Mrówczyński Aleksander"
+      },
+      {
+        "club": "KO",
+        "id": 284,
+        "lastFirstName": "Papke Paweł"
+      },
+      {
+        "club": "PiS",
+        "id": 295,
+        "lastFirstName": "Pieczarka Anna"
+      },
+      {
+        "club": "KO",
+        "id": 309,
+        "lastFirstName": "Protas Jacek"
+      },
+      {
+        "club": "KP",
+        "id": 312,
+        "lastFirstName": "Raś Ireneusz"
+      },
+      {
+        "club": "KO",
+        "id": 372,
+        "lastFirstName": "Szewiński Andrzej"
+      },
+      {
+        "club": "KO",
+        "id": 375,
+        "lastFirstName": "Szramka Paweł"
+      },
+      {
+        "club": "PiS",
+        "id": 408,
+        "lastFirstName": "Uruski Piotr"
+      },
+      {
+        "club": "Lewica",
+        "id": 433,
+        "lastFirstName": "Wontor Bogusław"
+      },
+      {
+        "club": "KO",
+        "id": 439,
+        "lastFirstName": "Wypij Michał"
+      }
+    ],
+    "name": "Komisja Kultury Fizycznej, Sportu i Turystyki",
+    "nameGenitive": "Komisji Kultury Fizycznej, Sportu i Turystyki",
+    "phone": "(22) 694-17-77, 694-15-17, FAX 694-17-19",
+    "scope": "Do zakresu działania Komisji należą sprawy kultury fizycznej, sportu oraz turystyki."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "KSP",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 14,
+        "lastFirstName": "Babinetz Piotr"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 214,
+        "lastFirstName": "Lichocka Joanna"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 331,
+        "lastFirstName": "Scheuring-Wielgus Joanna"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 363,
+        "lastFirstName": "Suski Marek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 384,
+        "lastFirstName": "Śledzińska-Katarasińska Iwona"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 458,
+        "lastFirstName": "Żelazowska Bożena"
+      },
+      {
+        "club": "KO",
+        "id": 3,
+        "lastFirstName": "Adamowicz Piotr"
+      },
+      {
+        "club": "KO",
+        "id": 11,
+        "lastFirstName": "Augustyn Urszula"
+      },
+      {
+        "club": "PiS",
+        "id": 43,
+        "lastFirstName": "Chorosińska Dominika"
+      },
+      {
+        "club": "PiS",
+        "id": 67,
+        "lastFirstName": "Drabek Przemysław"
+      },
+      {
+        "club": "PiS",
+        "id": 152,
+        "lastFirstName": "Kałużny Mariusz"
+      },
+      {
+        "club": "KO",
+        "id": 158,
+        "lastFirstName": "Kidawa-Błońska Małgorzata"
+      },
+      {
+        "club": "KO",
+        "id": 189,
+        "lastFirstName": "Król Wojciech"
+      },
+      {
+        "club": "PiS",
+        "id": 368,
+        "lastFirstName": "Łapiak Aleksandra"
+      },
+      {
+        "club": "KO",
+        "id": 244,
+        "lastFirstName": "Mieszkowski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 275,
+        "lastFirstName": "Olichwer Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 276,
+        "lastFirstName": "Olszewski Dariusz"
+      },
+      {
+        "club": "KO",
+        "id": 291,
+        "lastFirstName": "Piątkowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 306,
+        "lastFirstName": "Porowska Violetta"
+      },
+      {
+        "club": "Lewica",
+        "id": 308,
+        "lastFirstName": "Prokop-Paczkowska Małgorzata"
+      },
+      {
+        "club": "KP",
+        "id": 323,
+        "lastFirstName": "Rzepa Jarosław"
+      },
+      {
+        "club": "LD",
+        "id": 336,
+        "lastFirstName": "Senyszyn Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 343,
+        "lastFirstName": "Sipiera Zdzisław"
+      },
+      {
+        "club": "PiS",
+        "id": 345,
+        "lastFirstName": "Skwarek Sławomir"
+      },
+      {
+        "club": "PiS",
+        "id": 350,
+        "lastFirstName": "Soin Agnieszka"
+      },
+      {
+        "club": "PiS",
+        "id": 388,
+        "lastFirstName": "Świat Jacek"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 407,
+        "lastFirstName": "Urbaniak Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 449,
+        "lastFirstName": "Zieliński Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 450,
+        "lastFirstName": "Zieliński Tomasz"
+      }
+    ],
+    "name": "Komisja Kultury i Środków Przekazu",
+    "nameGenitive": "Komisji Kultury i Środków Przekazu",
+    "phone": "(22) 694-18-25, 694-10-56",
+    "scope": "Do zakresu działania Komisji należą sprawy polityki kulturalnej i informacyjnej państwa, w tym rozwoju kultury i sztuki, twórczości, upowszechniania kultury, ochrony dziedzictwa kulturalnego, prasy, radia i telewizji, wydawnictw, społecznego ruchu kulturalnego oraz współpracy kulturalnej z zagranicą."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "STR",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 221,
+        "lastFirstName": "Ławniczak Tomasz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 207,
+        "lastFirstName": "Kwitek Marek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 309,
+        "lastFirstName": "Protas Jacek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 346,
+        "lastFirstName": "Sługocki Waldemar"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 435,
+        "lastFirstName": "Woźniak Grzegorz Adam"
+      },
+      {
+        "club": "KO",
+        "id": 26,
+        "lastFirstName": "Bochenek Mateusz"
+      },
+      {
+        "club": "Lewica",
+        "id": 39,
+        "lastFirstName": "Buż Wiesław"
+      },
+      {
+        "club": "KO",
+        "id": 76,
+        "lastFirstName": "Dzikowski Waldy"
+      },
+      {
+        "club": "Lewica",
+        "id": 80,
+        "lastFirstName": "Falej Monika"
+      },
+      {
+        "club": "niez.",
+        "id": 91,
+        "lastFirstName": "Galla Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 96,
+        "lastFirstName": "Gawron Andrzej"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 153,
+        "lastFirstName": "Kamiński Krystian"
+      },
+      {
+        "club": "PiS",
+        "id": 172,
+        "lastFirstName": "Kosztowniak Andrzej"
+      },
+      {
+        "club": "KO",
+        "id": 185,
+        "lastFirstName": "Krawczyk Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 206,
+        "lastFirstName": "Kwiecień Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 218,
+        "lastFirstName": "Lorek Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 232,
+        "lastFirstName": "Małecki Jerzy"
+      },
+      {
+        "club": "KP",
+        "id": 243,
+        "lastFirstName": "Michałek Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 245,
+        "lastFirstName": "Milczanowska Anna"
+      },
+      {
+        "club": "KP",
+        "id": 270,
+        "lastFirstName": "Nowogórska Urszula"
+      },
+      {
+        "club": "Lewica",
+        "id": 272,
+        "lastFirstName": "Obaz Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 287,
+        "lastFirstName": "Paul Jerzy"
+      },
+      {
+        "club": "KO",
+        "id": 290,
+        "lastFirstName": "Pępek Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "id": 465,
+        "lastFirstName": "Pogoda Szymon"
+      },
+      {
+        "club": "PiS",
+        "id": 359,
+        "lastFirstName": "Stefaniuk Dariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 361,
+        "lastFirstName": "Strzałka Beata"
+      },
+      {
+        "club": "PiS",
+        "id": 369,
+        "lastFirstName": "Szczurek-Żelazko Józefa"
+      },
+      {
+        "club": "Lewica",
+        "id": 398,
+        "lastFirstName": "Trela Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 399,
+        "lastFirstName": "Trepka Mariusz"
+      },
+      {
+        "club": "KO",
+        "id": 425,
+        "lastFirstName": "Wilczyński Ryszard"
+      },
+      {
+        "club": "KP",
+        "id": 458,
+        "lastFirstName": "Żelazowska Bożena"
+      }
+    ],
+    "name": "Komisja Samorządu Terytorialnego i Polityki Regionalnej",
+    "nameGenitive": "Komisji Samorządu Terytorialnego i Polityki Regionalnej",
+    "phone": "(22) 694-16-99, 694-22-38",
+    "scope": "Do zakresu działania Komisji należą sprawy organizacji i funkcjonowania struktur samorządu terytorialnego, zarządu mieniem komunalnym, gospodarki komunalnej, zagospodarowania przestrzennego oraz rozwoju regionów i społeczności lokalnych; do zakresu działania Komisji należy także rozpatrywanie założeń polityki regionalnej państwa."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "SZA",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 84,
+        "lastFirstName": "Fogiel Radosław"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 16,
+        "lastFirstName": "Bartoszewski Władysław Teofil"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 17,
+        "lastFirstName": "Bartuś Barbara"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 51,
+        "lastFirstName": "Czarnecki Przemysław"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 164,
+        "lastFirstName": "Konieczny Maciej"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 174,
+        "lastFirstName": "Kowal Paweł"
+      },
+      {
+        "club": "PiS",
+        "id": 14,
+        "lastFirstName": "Babinetz Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 42,
+        "lastFirstName": "Choma Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 59,
+        "lastFirstName": "Czochara Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 68,
+        "lastFirstName": "Duda Elżbieta"
+      },
+      {
+        "club": "Lewica",
+        "id": 98,
+        "lastFirstName": "Gdula Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 126,
+        "lastFirstName": "Gwóźdź Marcin"
+      },
+      {
+        "club": "PiS",
+        "id": 139,
+        "lastFirstName": "Jach Michał"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 153,
+        "lastFirstName": "Kamiński Krystian"
+      },
+      {
+        "club": "PiS",
+        "id": 192,
+        "lastFirstName": "Kryj Andrzej"
+      },
+      {
+        "club": "KO",
+        "id": 193,
+        "lastFirstName": "Krząkała Marek"
+      },
+      {
+        "club": "KO",
+        "id": 212,
+        "lastFirstName": "Lenz Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 214,
+        "lastFirstName": "Lichocka Joanna"
+      },
+      {
+        "club": "KO",
+        "id": 265,
+        "lastFirstName": "Nitras Sławomir"
+      },
+      {
+        "club": "PiS",
+        "id": 461,
+        "lastFirstName": "Olejniczak Waldemar"
+      },
+      {
+        "club": "PiS",
+        "id": 289,
+        "lastFirstName": "Pawłowska Monika"
+      },
+      {
+        "club": "KO",
+        "id": 330,
+        "lastFirstName": "Schetyna Grzegorz"
+      },
+      {
+        "club": "KP",
+        "id": 340,
+        "lastFirstName": "Siekierski Czesław"
+      },
+      {
+        "club": "Lewica",
+        "id": 371,
+        "lastFirstName": "Szejna Andrzej"
+      },
+      {
+        "club": "KO",
+        "id": 373,
+        "lastFirstName": "Szłapka Adam"
+      },
+      {
+        "club": "PiS",
+        "id": 380,
+        "lastFirstName": "Szymańska Ewa"
+      },
+      {
+        "club": "KO",
+        "id": 397,
+        "lastFirstName": "Tracz Małgorzata"
+      },
+      {
+        "club": "KO",
+        "id": 404,
+        "lastFirstName": "Tyszkiewicz Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 436,
+        "lastFirstName": "Woźniak Tadeusz"
+      },
+      {
+        "club": "Polska2050",
+        "id": 441,
+        "lastFirstName": "Zalewski Paweł"
+      }
+    ],
+    "name": "Komisja Spraw Zagranicznych",
+    "nameGenitive": "Komisji Spraw Zagranicznych",
+    "phone": "(22) 694-21-72, 694-14-07, 694-19-74",
+    "scope": "Do zakresu działania Komisji należą sprawy polityki zagranicznej państwa, w tym opiniowanie kandydatów na pełnomocnych przedstawicieli Rzeczypospolitej Polskiej w innym państwie lub przy organizacji międzynarodowej."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "SPC",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 10,
+        "lastFirstName": "Ast Marek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 93,
+        "lastFirstName": "Gasiuk-Pihowicz Kamila"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 215,
+        "lastFirstName": "Lipiec Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 245,
+        "lastFirstName": "Milczanowska Anna"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 286,
+        "lastFirstName": "Paszyk Krzysztof"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 460,
+        "lastFirstName": "Żukowska Anna Maria"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 21,
+        "lastFirstName": "Berkowicz Konrad"
+      },
+      {
+        "club": "KO",
+        "id": 65,
+        "lastFirstName": "Dolniak Barbara"
+      },
+      {
+        "club": "PiS",
+        "id": 70,
+        "lastFirstName": "Duszek Marcin"
+      },
+      {
+        "club": "KO",
+        "id": 82,
+        "lastFirstName": "Filiks Magdalena"
+      },
+      {
+        "club": "PiS",
+        "id": 83,
+        "lastFirstName": "Filipiak Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 464,
+        "lastFirstName": "Gosek Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 152,
+        "lastFirstName": "Kałużny Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 177,
+        "lastFirstName": "Kownacki Bartosz"
+      },
+      {
+        "club": "PiS",
+        "id": 462,
+        "lastFirstName": "Kurzępa Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 246,
+        "lastFirstName": "Milewski Daniel"
+      },
+      {
+        "club": "KO",
+        "id": 260,
+        "lastFirstName": "Myrcha Arkadiusz"
+      },
+      {
+        "club": "KO",
+        "id": 279,
+        "lastFirstName": "Osos Katarzyna"
+      },
+      {
+        "club": "KO",
+        "id": 296,
+        "lastFirstName": "Piekarska Katarzyna Maria"
+      },
+      {
+        "club": "PiS",
+        "id": 300,
+        "lastFirstName": "Płonka Elżbieta"
+      },
+      {
+        "club": "KO",
+        "id": 318,
+        "lastFirstName": "Rusiecki Grzegorz"
+      },
+      {
+        "club": "Kukiz15",
+        "id": 325,
+        "lastFirstName": "Sachajko Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 326,
+        "lastFirstName": "Sak Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 347,
+        "lastFirstName": "Smoliński Kazimierz"
+      },
+      {
+        "club": "KP",
+        "id": 357,
+        "lastFirstName": "Sroka Magdalena"
+      },
+      {
+        "club": "KO",
+        "id": 367,
+        "lastFirstName": "Szczerba Michał"
+      },
+      {
+        "club": "Lewica",
+        "id": 385,
+        "lastFirstName": "Śmiszek Krzysztof"
+      },
+      {
+        "club": "Lewica",
+        "id": 405,
+        "lastFirstName": "Ueberhan Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 436,
+        "lastFirstName": "Woźniak Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 438,
+        "lastFirstName": "Wróblewski Bartłomiej"
+      },
+      {
+        "club": "Polska2050",
+        "id": 452,
+        "lastFirstName": "Zimoch Tomasz"
+      }
+    ],
+    "name": "Komisja Sprawiedliwości i Praw Człowieka",
+    "nameGenitive": "Komisji Sprawiedliwości i Praw Człowieka",
+    "phone": "(22) 694-23-93, 694-24-44",
+    "scope": "Do zakresu działania Komisji należą sprawy przestrzegania prawa i praworządności, sądów, prokuratury, notariatu, adwokatury i obsługi prawnej, funkcjonowania samorządów adwokackiego i radcowskiego, sprawy przestrzegania praw człowieka."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "UST",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KO",
+        "function": "przewodniczący",
+        "id": 260,
+        "lastFirstName": "Myrcha Arkadiusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 10,
+        "lastFirstName": "Ast Marek"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 17,
+        "lastFirstName": "Bartuś Barbara"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 197,
+        "lastFirstName": "Kucharska-Dziedzic Anita"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 218,
+        "lastFirstName": "Lorek Grzegorz"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 451,
+        "lastFirstName": "Zientarski Piotr Benedykt"
+      },
+      {
+        "club": "PiS",
+        "id": 9,
+        "lastFirstName": "Arent Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 13,
+        "lastFirstName": "Babalski Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 14,
+        "lastFirstName": "Babinetz Piotr"
+      },
+      {
+        "club": "KP",
+        "id": 20,
+        "lastFirstName": "Bejda Paweł"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 33,
+        "lastFirstName": "Bosak Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 36,
+        "lastFirstName": "Budka Borys"
+      },
+      {
+        "club": "PiS",
+        "id": 69,
+        "lastFirstName": "Duda Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 83,
+        "lastFirstName": "Filipiak Ewa"
+      },
+      {
+        "club": "KO",
+        "id": 92,
+        "lastFirstName": "Gapińska Elżbieta"
+      },
+      {
+        "club": "KO",
+        "id": 93,
+        "lastFirstName": "Gasiuk-Pihowicz Kamila"
+      },
+      {
+        "club": "KO",
+        "id": 129,
+        "lastFirstName": "Hanajczyk Agnieszka"
+      },
+      {
+        "club": "PiS",
+        "id": 183,
+        "lastFirstName": "Krajewski Wiesław"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Kubiak Marta"
+      },
+      {
+        "club": "PiS",
+        "id": 246,
+        "lastFirstName": "Milewski Daniel"
+      },
+      {
+        "club": "Polska2050",
+        "id": 255,
+        "lastFirstName": "Mucha Joanna"
+      },
+      {
+        "club": "KO",
+        "id": 264,
+        "lastFirstName": "Niemczyk Małgorzata"
+      },
+      {
+        "club": "KO",
+        "id": 279,
+        "lastFirstName": "Osos Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 287,
+        "lastFirstName": "Paul Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 302,
+        "lastFirstName": "Polak Marek"
+      },
+      {
+        "club": "KO",
+        "id": 322,
+        "lastFirstName": "Rząsa Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 359,
+        "lastFirstName": "Stefaniuk Dariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 365,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "Lewica",
+        "id": 371,
+        "lastFirstName": "Szejna Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 438,
+        "lastFirstName": "Wróblewski Bartłomiej"
+      },
+      {
+        "club": "KO",
+        "id": 445,
+        "lastFirstName": "Zembaczyński Witold"
+      }
+    ],
+    "name": "Komisja Ustawodawcza",
+    "nameGenitive": "Komisji Ustawodawczej",
+    "phone": "(22) 694-16-08, FAX 694-26-16",
+    "scope": "Do zakresu działania Komisji należą sprawy problematyki legislacyjnej i spójności prawa, współdziałania w organizowaniu procesu ustawodawczego i zapewnienia jego prawidłowości, rozpatrywania projektów ustaw i uchwał o szczególnym znaczeniu prawnym lub o znacznym stopniu złożoności legislacyjnej, sprawy związane z postępowaniem przed Trybunałem Konstytucyjnym oraz wynikające z orzecznictwa Trybunału Konstytucyjnego, a także współudział w przeprowadzaniu kontroli wprowadzania w życie i wykonywania ustaw i uchwał Sejmu oraz koordynacja tych działań."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "CNT",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KO",
+        "function": "przewodniczący",
+        "id": 119,
+        "lastFirstName": "Grabiec Jan"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 52,
+        "lastFirstName": "Czarnecki Witold"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 110,
+        "lastFirstName": "Gonciarz Jarosław"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 159,
+        "lastFirstName": "Kierwiński Marcin"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 261,
+        "lastFirstName": "Napieralski Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 59,
+        "lastFirstName": "Czochara Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 84,
+        "lastFirstName": "Fogiel Radosław"
+      },
+      {
+        "club": "KO",
+        "id": 86,
+        "lastFirstName": "Frysztak Konrad"
+      },
+      {
+        "club": "Lewica",
+        "id": 95,
+        "lastFirstName": "Gawkowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 111,
+        "lastFirstName": "Gontarz Robert"
+      },
+      {
+        "club": "Polska2050",
+        "id": 120,
+        "lastFirstName": "Gramatyka Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 126,
+        "lastFirstName": "Gwóźdź Marcin"
+      },
+      {
+        "club": "PiS",
+        "id": 156,
+        "lastFirstName": "Kapinos Fryderyk"
+      },
+      {
+        "club": "PiS",
+        "id": 473,
+        "lastFirstName": "Kowalczyk Leszek"
+      },
+      {
+        "club": "LD",
+        "id": 205,
+        "lastFirstName": "Kwiatkowski Robert"
+      },
+      {
+        "club": "KO",
+        "id": 234,
+        "lastFirstName": "Marchewka Arkadiusz"
+      },
+      {
+        "club": "PiS",
+        "id": 241,
+        "lastFirstName": "Matuszny Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 295,
+        "lastFirstName": "Pieczarka Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 359,
+        "lastFirstName": "Stefaniuk Dariusz"
+      },
+      {
+        "club": "KP",
+        "id": 395,
+        "lastFirstName": "Tomczak Jacek"
+      },
+      {
+        "club": "Lewica",
+        "id": 442,
+        "lastFirstName": "Zandberg Adrian"
+      }
+    ],
+    "name": "Komisja Cyfryzacji, Innowacyjności i Nowoczesnych Technologii",
+    "nameGenitive": "Komisji Cyfryzacji, Innowacyjności i Nowoczesnych Technologii",
+    "phone": "(22) 694-10-06, 694-20-57",
+    "scope": "Do zakresu działania Komisji należą sprawy łączności radiowej i telefonicznej, sieci komputerowych oraz telekomunikacji, innowacyjności, informatyzacji oraz rozwoju społeczeństwa informacyjnego."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "KOP",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 365,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 32,
+        "lastFirstName": "Borys-Szopa Bożena"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 223,
+        "lastFirstName": "Łopata Jan"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 327,
+        "lastFirstName": "Saługa Wojciech"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 386,
+        "lastFirstName": "Śniadek Janusz"
+      },
+      {
+        "club": "KO",
+        "id": 85,
+        "lastFirstName": "Frydrych Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 464,
+        "lastFirstName": "Gosek Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 147,
+        "lastFirstName": "Kaczmarczyk Norbert"
+      },
+      {
+        "club": "Lewica",
+        "id": 166,
+        "lastFirstName": "Koperski Przemysław"
+      },
+      {
+        "club": "KO",
+        "id": 171,
+        "lastFirstName": "Kostuś Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 251,
+        "lastFirstName": "Moskal Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 326,
+        "lastFirstName": "Sak Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 348,
+        "lastFirstName": "Sobolewski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 425,
+        "lastFirstName": "Wilczyński Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 471,
+        "lastFirstName": "Zielińska Elżbieta"
+      }
+    ],
+    "name": "Komisja do Spraw Kontroli Państwowej",
+    "nameGenitive": "Komisji do Spraw Kontroli Państwowej",
+    "phone": "(22) 694-22-83, 694-23-02",
+    "scope": "Do zakresu działania Komisji należą sprawy działalności Najwyższej Izby Kontroli oraz Państwowej Inspekcji Pracy, a w szczególności opiniowanie planów pracy Najwyższej Izby Kontroli i rocznych sprawozdań z działalności Najwyższej Izby Kontroli oraz Państwowej Inspekcji Pracy, ich budżetów i sprawozdań z ich wykonania, opiniowanie projektu statutu Najwyższej Izby Kontroli oraz statutu Państwowej Inspekcji Pracy, opiniowanie innych rozstrzygnięć organów Sejmu oraz wniosków i materiałów wynikających z ustawy o Najwyższej Izbie Kontroli, składanie Sejmowi wniosków o niezwłoczne przekazanie informacji o wynikach kontroli przeprowadzonych przez Najwyższą Izbę Kontroli, przeprowadzanie okresowych ocen działalności Najwyższej Izby Kontroli oraz Państwowej Inspekcji Pracy, w tym analizy przeprowadzonych kontroli i realizacji wystąpień pokontrolnych i przedkładanie ich Marszałkowi Sejmu, a także sprawy działalności regionalnych izb obrachunkowych. "
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "PET",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KO",
+        "function": "przewodniczący",
+        "id": 293,
+        "lastFirstName": "Piechota Sławomir Jan"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 11,
+        "lastFirstName": "Augustyn Urszula"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 27,
+        "lastFirstName": "Bochenek Rafał"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 254,
+        "lastFirstName": "Mrzygłocka Izabela Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 295,
+        "lastFirstName": "Pieczarka Anna"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 388,
+        "lastFirstName": "Świat Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 70,
+        "lastFirstName": "Duszek Marcin"
+      },
+      {
+        "club": "KO",
+        "id": 135,
+        "lastFirstName": "Hok Marek"
+      },
+      {
+        "club": "Lewica",
+        "id": 197,
+        "lastFirstName": "Kucharska-Dziedzic Anita"
+      },
+      {
+        "club": "KP",
+        "id": 231,
+        "lastFirstName": "Maliszewski Mirosław"
+      },
+      {
+        "club": "KO",
+        "id": 247,
+        "lastFirstName": "Miller Rajmund"
+      },
+      {
+        "club": "PiS",
+        "id": 461,
+        "lastFirstName": "Olejniczak Waldemar"
+      },
+      {
+        "club": "PiS",
+        "id": 292,
+        "lastFirstName": "Piecha Bolesław"
+      },
+      {
+        "club": "Lewica",
+        "id": 308,
+        "lastFirstName": "Prokop-Paczkowska Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "id": 413,
+        "lastFirstName": "Warwas Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 430,
+        "lastFirstName": "Wojciechowski Grzegorz"
+      }
+    ],
+    "name": "Komisja do Spraw Petycji",
+    "nameGenitive": "Komisji do Spraw Petycji",
+    "phone": "(22) 694-28-34, FAX 694-15-28",
+    "scope": "Do zakresu działania Komisji należy rozpatrywanie petycji złożonych do Sejmu."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "GMZ",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KP",
+        "function": "przewodniczący",
+        "id": 329,
+        "lastFirstName": "Sawicki Marek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 234,
+        "lastFirstName": "Marchewka Arkadiusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 237,
+        "lastFirstName": "Materna Jerzy"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 299,
+        "lastFirstName": "Płażyński Kacper"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 364,
+        "lastFirstName": "Szałabawka Artur"
+      },
+      {
+        "club": "KO",
+        "id": 7,
+        "lastFirstName": "Aniśko Tomasz"
+      },
+      {
+        "club": "KO",
+        "id": 12,
+        "lastFirstName": "Aziewicz Tadeusz"
+      },
+      {
+        "club": "KO",
+        "id": 28,
+        "lastFirstName": "Borowczak Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 48,
+        "lastFirstName": "Cymański Tadeusz"
+      },
+      {
+        "club": "Lewica",
+        "id": 112,
+        "lastFirstName": "Gosek-Popiołek Daria"
+      },
+      {
+        "club": "PiS",
+        "id": 133,
+        "lastFirstName": "Hoc Czesław"
+      },
+      {
+        "club": "PiS",
+        "id": 179,
+        "lastFirstName": "Kozik Krzysztof Janusz"
+      },
+      {
+        "club": "KO",
+        "id": 222,
+        "lastFirstName": "Łącki Artur"
+      },
+      {
+        "club": "PiS",
+        "id": 300,
+        "lastFirstName": "Płonka Elżbieta"
+      },
+      {
+        "club": "PiS",
+        "id": 465,
+        "lastFirstName": "Pogoda Szymon"
+      },
+      {
+        "club": "PiS",
+        "id": 380,
+        "lastFirstName": "Szymańska Ewa"
+      },
+      {
+        "club": "Konfederacja",
+        "id": 407,
+        "lastFirstName": "Urbaniak Michał"
+      },
+      {
+        "club": "Lewica",
+        "id": 423,
+        "lastFirstName": "Wieczorek Dariusz"
+      }
+    ],
+    "name": "Komisja Gospodarki Morskiej i Żeglugi Śródlądowej",
+    "nameGenitive": "Komisji Gospodarki Morskiej i Żeglugi Śródlądowej",
+    "phone": "(22) 694-20-13 ,694-26-02",
+    "scope": "Do zakresu działania Komisji należą sprawy gospodarki morskiej, w tym transportu morskiego i żeglugi morskiej, obszarów morskich, portów i przystani morskich, ochrony środowiska morskiego, rybołówstwa morskiego i popularyzacji problematyki morskiej, a także sprawy żeglugi śródlądowej, dróg wodnych śródlądowych i rybactwa śródlądowego oraz gospodarki wodnej, meterologii i hydrologii."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "MNE",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "Lewica",
+        "function": "przewodniczący",
+        "id": 269,
+        "lastFirstName": "Nowicka Wanda"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 91,
+        "lastFirstName": "Galla Ryszard"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 165,
+        "lastFirstName": "Konwiński Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 241,
+        "lastFirstName": "Matuszny Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 454,
+        "lastFirstName": "Zubowski Wojciech"
+      },
+      {
+        "club": "KO",
+        "id": 60,
+        "lastFirstName": "Czykwin Eugeniusz"
+      },
+      {
+        "club": "PiS",
+        "id": 104,
+        "lastFirstName": "Glenc Teresa"
+      },
+      {
+        "club": "PiS",
+        "id": 116,
+        "lastFirstName": "Górski Maciej"
+      },
+      {
+        "club": "Lewica",
+        "id": 167,
+        "lastFirstName": "Kopiec Maciej"
+      },
+      {
+        "club": "KO",
+        "id": 194,
+        "lastFirstName": "Krzywonos-Strycharska Henryka"
+      },
+      {
+        "club": "PiS",
+        "id": 215,
+        "lastFirstName": "Lipiec Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 314,
+        "lastFirstName": "Rosa Monika"
+      },
+      {
+        "club": "PiS",
+        "id": 317,
+        "lastFirstName": "Rusecka Urszula"
+      },
+      {
+        "club": "KP",
+        "id": 323,
+        "lastFirstName": "Rzepa Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 450,
+        "lastFirstName": "Zieliński Tomasz"
+      },
+      {
+        "club": "KO",
+        "id": 475,
+        "lastFirstName": "Żmijan Stanisław"
+      }
+    ],
+    "name": "Komisja Mniejszości Narodowych i Etnicznych",
+    "nameGenitive": "Komisji Mniejszości Narodowych i Etnicznych",
+    "phone": "(22) 694-18-29, 694-20-48",
+    "scope": "Do zakresu działania Komisji należą sprawy związane z utrzymaniem dziedzictwa kulturowego mniejszości narodowych, etnicznych i językowych oraz ochrony ich praw, a także realizacją zasady równego traktowania osób bez względu na ich pochodzenie etniczne i rasowe oraz narodowość. "
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "ODK",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 9,
+        "lastFirstName": "Arent Iwona"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 262,
+        "lastFirstName": "Neumann Sławomir"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 416,
+        "lastFirstName": "Wassermann Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "id": 6,
+        "lastFirstName": "Andzel Waldemar"
+      },
+      {
+        "club": "PiS",
+        "id": 10,
+        "lastFirstName": "Ast Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 133,
+        "lastFirstName": "Hoc Czesław"
+      },
+      {
+        "club": "KO",
+        "id": 145,
+        "lastFirstName": "Jaśkowiak Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 177,
+        "lastFirstName": "Kownacki Bartosz"
+      },
+      {
+        "club": "KO",
+        "id": 189,
+        "lastFirstName": "Król Wojciech"
+      },
+      {
+        "club": "KO",
+        "id": 266,
+        "lastFirstName": "Nowacka Barbara"
+      },
+      {
+        "club": "PiS",
+        "id": 282,
+        "lastFirstName": "Paluch Anna"
+      },
+      {
+        "club": "Lewica",
+        "id": 334,
+        "lastFirstName": "Sekuła-Szmajdzińska Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "id": 358,
+        "lastFirstName": "Stachowiak-Różecka Mirosława"
+      },
+      {
+        "club": "KO",
+        "id": 451,
+        "lastFirstName": "Zientarski Piotr Benedykt"
+      },
+      {
+        "club": "Lewica",
+        "id": 460,
+        "lastFirstName": "Żukowska Anna Maria"
+      }
+    ],
+    "name": "Komisja Odpowiedzialności Konstytucyjnej",
+    "nameGenitive": "Komisji Odpowiedzialności Konstytucyjnej",
+    "phone": "(22) 694-17-54, 694-17-67",
+    "scope": "Do zakresu działania Komisji należy prowadzenie postępowania w sprawie badania zasadności skierowanych do niej wniosków wstępnych o pociągnięcie do odpowiedzialności konstytucyjnej, podejmowanie uchwał w tym przedmiocie oraz przedstawianie Sejmowi sprawozdań z przeprowadzonych prac. "
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "PSN",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 29,
+        "lastFirstName": "Borowiak Joanna"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 38,
+        "lastFirstName": "Burzyńska Lidia"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 148,
+        "lastFirstName": "Kaczyński Filip"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 242,
+        "lastFirstName": "Matysiak Paulina"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 367,
+        "lastFirstName": "Szczerba Michał"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 444,
+        "lastFirstName": "Zawiślak Sławomir"
+      },
+      {
+        "club": "PiS",
+        "id": 13,
+        "lastFirstName": "Babalski Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 45,
+        "lastFirstName": "Cicholska Anna Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 472,
+        "lastFirstName": "Głuchowski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 163,
+        "lastFirstName": "Kołodziej Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 203,
+        "lastFirstName": "Kurowski Władysław"
+      },
+      {
+        "club": "KO",
+        "id": 224,
+        "lastFirstName": "Łośko Magdalena"
+      },
+      {
+        "club": "KO",
+        "id": 274,
+        "lastFirstName": "Okła-Drewnowicz Marzena"
+      },
+      {
+        "club": "PiS",
+        "id": 306,
+        "lastFirstName": "Porowska Violetta"
+      },
+      {
+        "club": "KO",
+        "id": 320,
+        "lastFirstName": "Rutnicki Jakub"
+      }
+    ],
+    "name": "Komisja Polityki Senioralnej",
+    "nameGenitive": "Komisji Polityki Senioralnej",
+    "phone": "(22) 694-10-84",
+    "scope": "Do zakresu działania Komisji należą sprawy kształtowania polityki państwa dotyczącej osób starszych."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "RSP",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 347,
+        "lastFirstName": "Smoliński Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 13,
+        "lastFirstName": "Babalski Zbigniew"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 173,
+        "lastFirstName": "Kotula Katarzyna"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 406,
+        "lastFirstName": "Urbaniak Jarosław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 449,
+        "lastFirstName": "Zieliński Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 64,
+        "lastFirstName": "Dolata Zbigniew"
+      },
+      {
+        "club": "KO",
+        "id": 106,
+        "lastFirstName": "Głogowski Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 184,
+        "lastFirstName": "Krasulski Leonard"
+      },
+      {
+        "club": "KO",
+        "id": 189,
+        "lastFirstName": "Król Wojciech"
+      },
+      {
+        "club": "KO",
+        "id": 194,
+        "lastFirstName": "Krzywonos-Strycharska Henryka"
+      },
+      {
+        "club": "KP",
+        "id": 223,
+        "lastFirstName": "Łopata Jan"
+      },
+      {
+        "club": "Lewica",
+        "id": 319,
+        "lastFirstName": "Rutka Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 348,
+        "lastFirstName": "Sobolewski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 384,
+        "lastFirstName": "Śledzińska-Katarasińska Iwona"
+      },
+      {
+        "club": "PiS",
+        "id": 386,
+        "lastFirstName": "Śniadek Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 390,
+        "lastFirstName": "Tchórzewski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 408,
+        "lastFirstName": "Uruski Piotr"
+      }
+    ],
+    "name": "Komisja Regulaminowa, Spraw Poselskich i Immunitetowych",
+    "nameGenitive": "Komisji Regulaminowej, Spraw Poselskich i Immunitetowych",
+    "phone": "(22) 694-15-16, 694-27-89, TEL./FAX 694-10-26",
+    "scope": "Do zakresu działania Komisji należą sprawy związane z wyrażeniem przez Sejm zgody\nna pociągnięcie posła, Rzecznika Praw Obywatelskich, Prezesa Najwyższej Izby Kontroli, Rzecznika Praw\nDziecka, Prezesa Urzędu Ochrony Danych Osobowych oraz Prezesa Instytutu Pamięci Narodowej -\nKomisji Ścigania Zbrodni przeciwko Narodowi Polskiemu do odpowiedzialności za przestępstwa lub wykroczenia\nalbo aresztowanie bądź zatrzymanie, z warunkami wykonywania przez posłów mandatu poselskiego, jego\nwygaśnięcia, z działalnością biur poselskich, dotyczące wykładni i stosowania Regulaminu Sejmu oraz dokonywania\nanaliz skarg i wniosków kierowanych do Sejmu i jego organów; rozpatrywanie zarzutów niewykonywania\nprzez posłów obowiązków poselskich; sprawowanie stałego nadzoru nad pracą Kancelarii Sejmu."
+  },
+  {
+    "appointmentDate": "2019-11-19",
+    "code": "KSS",
+    "compositionDate": "2019-11-19",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 6,
+        "lastFirstName": "Andzel Waldemar"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 181,
+        "lastFirstName": "Krajewski Jarosław"
+      },
+      {
+        "club": "KP",
+        "id": 24,
+        "lastFirstName": "Biernacki Marek"
+      },
+      {
+        "club": "Lewica",
+        "id": 98,
+        "lastFirstName": "Gdula Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 139,
+        "lastFirstName": "Jach Michał"
+      },
+      {
+        "club": "PiS",
+        "id": 363,
+        "lastFirstName": "Suski Marek"
+      },
+      {
+        "club": "KO",
+        "id": 373,
+        "lastFirstName": "Szłapka Adam"
+      }
+    ],
+    "name": "Komisja do Spraw Służb Specjalnych",
+    "nameGenitive": "Komisji do Spraw Służb Specjalnych",
+    "phone": "(22) 694-19-59",
+    "scope": "Do zakresu działania Komisji należy opiniowanie projektów ustaw, rozporządzeń, zarządzeń oraz innych aktów normatywnych dotyczących służb specjalnych, w tym regulujących działalność tych służb, opiniowanie kierunków działań i rozpatrywanie corocznych sprawozdań szefów służb specjalnych, opiniowanie projektu budżetu w zakresie dotyczącym służb specjalnych, rozpatrywanie corocznego sprawozdania z jego wykonania oraz innych informacji finansowych służb specjalnych, opiniowanie wniosków w sprawie powołania i odwołania poszczególnych osób na stanowiska szefów służb specjalnych i ich zastępców, zapoznawanie się z informacjami służb specjalnych o szczególnie istotnych wydarzeniach z ich działalności, w tym dotyczących podejrzeń występowania nieprawidłowości w działalności służb specjalnych oraz podejrzeń naruszenia prawa przez te służby, poprzez dostęp i wgląd do informacji, dokumentów i materiałów uzyskanych w wyniku wykonania zadań ustawowych, zgodnie z przepisami ustawy o ochronie informacji niejawnych oraz ustaw regulujących działalność służb specjalnych; ocena współdziałania służb specjalnych z innymi organami, służbami i instytucjami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych w zakresie podejmowanych przez nie działań dla ochrony bezpieczeństwa państwa, ocena współdziałania służb specjalnych z Siłami Zbrojnymi, organami administracji rządowej, organami ścigania i innymi instytucjami państwowymi oraz organami jednostek samorządu terytorialnego, właściwymi organami i służbami specjalnymi innych państw, ocena ochrony informacji niejawnych oraz badanie skarg dotyczących działalności służb specjalnych, a także rozpatrywanie okresowych informacji, sprawozdań lub raportów z działalności instytucji i organów władzy państwowej, innych niż służby specjalne, zawierających informacje uzyskane w toku wykonywania przez nie czynności operacyjno-rozpoznawczych oraz czynności i działań profilaktycznych."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "EPS",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "KP",
+        "function": "przewodniczący",
+        "id": 223,
+        "lastFirstName": "Łopata Jan"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 80,
+        "lastFirstName": "Falej Monika"
+      },
+      {
+        "club": "KO",
+        "id": 254,
+        "lastFirstName": "Mrzygłocka Izabela Katarzyna"
+      },
+      {
+        "club": "PiS",
+        "id": 388,
+        "lastFirstName": "Świat Jacek"
+      }
+    ],
+    "name": "Komisja Etyki Poselskiej",
+    "nameGenitive": "Komisji Etyki Poselskiej",
+    "phone": "(22) 694-21-45, 694-17-63, FAX 694-28-52",
+    "scope": "Do zakresu działania Komisji należą sprawy opracowania \"Zasad Etyki Poselskiej\", ich uzupełniania i korygowania oraz upowszechnianie ich wśród posłów, rozpatrywanie spraw posłów, którzy zachowują się w sposób nie odpowiadający godności posła, rozpatrywanie spraw wynikających z Rejestru Korzyści i majątkowych oświadczeń poselskich."
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "SUE",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 299,
+        "lastFirstName": "Płażyński Kacper"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 303,
+        "lastFirstName": "Polak Piotr"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 304,
+        "lastFirstName": "Pomaska Agnieszka"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 396,
+        "lastFirstName": "Tomczyk Cezary"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 402,
+        "lastFirstName": "Tułajew Sylwester"
+      },
+      {
+        "club": "PiS",
+        "id": 27,
+        "lastFirstName": "Bochenek Rafał"
+      },
+      {
+        "club": "PiS",
+        "id": 48,
+        "lastFirstName": "Cymański Tadeusz"
+      },
+      {
+        "club": "Lewica",
+        "id": 56,
+        "lastFirstName": "Czerniak Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 62,
+        "lastFirstName": "Dąbrowska-Banaszek Anna"
+      },
+      {
+        "club": "KO",
+        "id": 87,
+        "lastFirstName": "Gadowski Krzysztof"
+      },
+      {
+        "club": "Lewica",
+        "id": 95,
+        "lastFirstName": "Gawkowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 97,
+        "lastFirstName": "Gaża Grzegorz"
+      },
+      {
+        "club": "KO",
+        "id": 106,
+        "lastFirstName": "Głogowski Tomasz"
+      },
+      {
+        "club": "PiS",
+        "id": 109,
+        "lastFirstName": "Gołojuch Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 113,
+        "lastFirstName": "Gosiewska Małgorzata"
+      },
+      {
+        "club": "KP",
+        "id": 123,
+        "lastFirstName": "Grzyb Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 126,
+        "lastFirstName": "Gwóźdź Marcin"
+      },
+      {
+        "club": "Lewica",
+        "id": 138,
+        "lastFirstName": "Iwaniak Arkadiusz"
+      },
+      {
+        "club": "KO",
+        "id": 146,
+        "lastFirstName": "Joński Dariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 170,
+        "lastFirstName": "Kossakowski Wojciech"
+      },
+      {
+        "club": "KP",
+        "id": 182,
+        "lastFirstName": "Krajewski Stefan"
+      },
+      {
+        "club": "KO",
+        "id": 193,
+        "lastFirstName": "Krząkała Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 206,
+        "lastFirstName": "Kwiecień Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 215,
+        "lastFirstName": "Lipiec Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 230,
+        "lastFirstName": "Malik Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 237,
+        "lastFirstName": "Materna Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 238,
+        "lastFirstName": "Mateusiak-Pielucha Beata"
+      },
+      {
+        "club": "PiS",
+        "id": 240,
+        "lastFirstName": "Matuszewski Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 246,
+        "lastFirstName": "Milewski Daniel"
+      },
+      {
+        "club": "KO",
+        "id": 265,
+        "lastFirstName": "Nitras Sławomir"
+      },
+      {
+        "club": "KO",
+        "id": 267,
+        "lastFirstName": "Nowak Tomasz Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 292,
+        "lastFirstName": "Piecha Bolesław"
+      },
+      {
+        "club": "PiS",
+        "id": 307,
+        "lastFirstName": "Porzucek Marcin"
+      },
+      {
+        "club": "KP",
+        "id": 310,
+        "lastFirstName": "Protasiewicz Jacek"
+      },
+      {
+        "club": "KO",
+        "id": 315,
+        "lastFirstName": "Rosati Dariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 350,
+        "lastFirstName": "Soin Agnieszka"
+      },
+      {
+        "club": "Lewica",
+        "id": 385,
+        "lastFirstName": "Śmiszek Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 400,
+        "lastFirstName": "Truskolaski Krzysztof"
+      },
+      {
+        "club": "KO",
+        "id": 410,
+        "lastFirstName": "Wałęsa Jarosław"
+      },
+      {
+        "club": "KO",
+        "id": 428,
+        "lastFirstName": "Witczak Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 435,
+        "lastFirstName": "Woźniak Grzegorz Adam"
+      },
+      {
+        "club": "PiS",
+        "id": 444,
+        "lastFirstName": "Zawiślak Sławomir"
+      },
+      {
+        "club": "KO",
+        "id": 455,
+        "lastFirstName": "Zwiefka Tadeusz"
+      }
+    ],
+    "name": "Komisja do Spraw Unii Europejskiej",
+    "nameGenitive": "Komisji do Spraw Unii Europejskiej",
+    "phone": "(22) 694-20-60, 694-15-14, FAX 694-28-47",
+    "scope": "Do zakresu działania Komisji należą sprawy związane z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, w szczególności zajmowanie stanowisk i wyrażanie opinii na temat projektów aktów prawnych Unii Europejskiej, projektów umów międzynarodowych, których stroną mają być Unia Europejska lub Europejska Wspólnota Energii Atomowej, planów pracy Rady i rocznych planów legislacyjnych Komisji Europejskiej, formułowanie zaleceń dla Rady Ministrów dotyczących stanowiska Rzeczypospolitej Polskiej, jakie Rada Ministrów ma zamiar zająć podczas rozpatrywania projektu w Radzie oraz rozpatrywanie informacji i innych dokumentów przedkładanych przez Radę Ministrów, a także opiniowanie kandydatur na niektóre stanowiska w Unii Europejskiej. "
+  },
+  {
+    "appointmentDate": "2020-01-23",
+    "code": "NKK",
+    "compositionDate": "2020-01-23",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 326,
+        "lastFirstName": "Sak Piotr"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 17,
+        "lastFirstName": "Bartuś Barbara"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 36,
+        "lastFirstName": "Budka Borys"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 65,
+        "lastFirstName": "Dolniak Barbara"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 66,
+        "lastFirstName": "Dorywalski Bartłomiej"
+      },
+      {
+        "club": "PiS",
+        "id": 10,
+        "lastFirstName": "Ast Marek"
+      },
+      {
+        "club": "Lewica",
+        "id": 80,
+        "lastFirstName": "Falej Monika"
+      },
+      {
+        "club": "PiS",
+        "id": 96,
+        "lastFirstName": "Gawron Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 110,
+        "lastFirstName": "Gonciarz Jarosław"
+      },
+      {
+        "club": "PiS",
+        "id": 111,
+        "lastFirstName": "Gontarz Robert"
+      },
+      {
+        "club": "KO",
+        "id": 145,
+        "lastFirstName": "Jaśkowiak Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 218,
+        "lastFirstName": "Lorek Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 368,
+        "lastFirstName": "Łapiak Aleksandra"
+      },
+      {
+        "club": "KO",
+        "id": 254,
+        "lastFirstName": "Mrzygłocka Izabela Katarzyna"
+      },
+      {
+        "club": "KP",
+        "id": 286,
+        "lastFirstName": "Paszyk Krzysztof"
+      },
+      {
+        "club": "Lewica",
+        "id": 371,
+        "lastFirstName": "Szejna Andrzej"
+      },
+      {
+        "club": "KO",
+        "id": 455,
+        "lastFirstName": "Zwiefka Tadeusz"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do spraw zmian w kodyfikacjach",
+    "nameGenitive": "Komisji Nadzwyczajnej do spraw zmian w kodyfikacjach",
+    "phone": "(22) 694-21-30, 694-18-26"
+  },
+  {
+    "appointmentDate": "2019-11-13",
+    "code": "ESK",
+    "compositionDate": "2019-11-13",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 363,
+        "lastFirstName": "Suski Marek"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 157,
+        "lastFirstName": "Kasprzak Mieczysław"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 230,
+        "lastFirstName": "Malik Ewa"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 267,
+        "lastFirstName": "Nowak Tomasz Piotr"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 414,
+        "lastFirstName": "Warzecha Jan"
+      },
+      {
+        "club": "Konfederacja",
+        "function": "zastępca przewodniczącego",
+        "id": 427,
+        "lastFirstName": "Winnicki Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 9,
+        "lastFirstName": "Arent Iwona"
+      },
+      {
+        "club": "KP",
+        "id": 16,
+        "lastFirstName": "Bartoszewski Władysław Teofil"
+      },
+      {
+        "club": "PiS",
+        "id": 27,
+        "lastFirstName": "Bochenek Rafał"
+      },
+      {
+        "club": "PiS",
+        "id": 52,
+        "lastFirstName": "Czarnecki Witold"
+      },
+      {
+        "club": "KO",
+        "id": 87,
+        "lastFirstName": "Gadowski Krzysztof"
+      },
+      {
+        "club": "Polska2050",
+        "id": 132,
+        "lastFirstName": "Hennig-Kloska Paulina"
+      },
+      {
+        "club": "PiS",
+        "id": 142,
+        "lastFirstName": "Janowska Małgorzata"
+      },
+      {
+        "club": "Lewica",
+        "id": 164,
+        "lastFirstName": "Konieczny Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 178,
+        "lastFirstName": "Kozanecka Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 179,
+        "lastFirstName": "Kozik Krzysztof Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 183,
+        "lastFirstName": "Krajewski Wiesław"
+      },
+      {
+        "club": "PiS",
+        "id": 188,
+        "lastFirstName": "Król Piotr"
+      },
+      {
+        "club": "KO",
+        "id": 210,
+        "lastFirstName": "Lenartowicz Gabriela"
+      },
+      {
+        "club": "niez.",
+        "id": 226,
+        "lastFirstName": "Maciejewska Beata"
+      },
+      {
+        "club": "PiS",
+        "id": 238,
+        "lastFirstName": "Mateusiak-Pielucha Beata"
+      },
+      {
+        "club": "PiS",
+        "id": 239,
+        "lastFirstName": "Matusiak Grzegorz"
+      },
+      {
+        "club": "niez.",
+        "id": 466,
+        "lastFirstName": "Mejza Łukasz"
+      },
+      {
+        "club": "KO",
+        "id": 262,
+        "lastFirstName": "Neumann Sławomir"
+      },
+      {
+        "club": "KO",
+        "id": 271,
+        "lastFirstName": "Nykiel Mirosława"
+      },
+      {
+        "club": "KO",
+        "id": 305,
+        "lastFirstName": "Poncyljusz Paweł"
+      },
+      {
+        "club": "PiS",
+        "id": 390,
+        "lastFirstName": "Tchórzewski Krzysztof"
+      },
+      {
+        "club": "KP",
+        "id": 395,
+        "lastFirstName": "Tomczak Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 416,
+        "lastFirstName": "Wassermann Małgorzata"
+      },
+      {
+        "club": "Lewica",
+        "id": 423,
+        "lastFirstName": "Wieczorek Dariusz"
+      },
+      {
+        "club": "KP",
+        "id": 447,
+        "lastFirstName": "Ziejewski Zbigniew"
+      },
+      {
+        "club": "KO",
+        "id": 448,
+        "lastFirstName": "Zielińska Urszula"
+      },
+      {
+        "club": "PiS",
+        "id": 454,
+        "lastFirstName": "Zubowski Wojciech"
+      },
+      {
+        "club": "Kukiz15",
+        "id": 459,
+        "lastFirstName": "Żuk Stanisław"
+      }
+    ],
+    "name": "Komisja do Spraw Energii, Klimatu i Aktywów Państwowych",
+    "nameGenitive": "Komisji do Spraw Energii, Klimatu i Aktywów Państwowych",
+    "phone": "(22) 694-10-78, 694-19-64",
+    "scope": "Do zakresu działania Komisji należą sprawy polityki energetycznej państwa, w tym sprawy funkcjonowania otwartego zintegrowanego rynku energii i mechanizmów zapewnienia bezpieczeństwa energetycznego państwa oraz sprawy gospodarki surowcami mineralnymi o charakterze paliw kopalnych, sprawy klimatu a także sprawy przekształceń form własności, w tym głównie sektora państwowego, oraz nadzoru nad własnością publiczną w gospodarce."
+  },
+  {
+    "appointmentDate": "2021-07-21",
+    "code": "NDR",
+    "compositionDate": "2021-07-23",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 438,
+        "lastFirstName": "Wróblewski Bartłomiej"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 96,
+        "lastFirstName": "Gawron Andrzej"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 97,
+        "lastFirstName": "Gaża Grzegorz"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 144,
+        "lastFirstName": "Jaros Michał"
+      },
+      {
+        "club": "KO",
+        "id": 143,
+        "lastFirstName": "Janyska Maria Małgorzata"
+      },
+      {
+        "club": "KP",
+        "id": 157,
+        "lastFirstName": "Kasprzak Mieczysław"
+      },
+      {
+        "club": "Lewica",
+        "id": 167,
+        "lastFirstName": "Kopiec Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 289,
+        "lastFirstName": "Pawłowska Monika"
+      },
+      {
+        "club": "PiS",
+        "id": 422,
+        "lastFirstName": "Wicher Patryk"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do spraw deregulacji",
+    "nameGenitive": "Komisji Nadzwyczajnej do spraw deregulacji",
+    "phone": "(22) 694-21-30, 694-18-26"
+  },
+  {
+    "appointmentDate": "2022-12-14",
+    "code": "NZK",
+    "compositionDate": "2022-12-14",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 10,
+        "lastFirstName": "Ast Marek"
+      },
+      {
+        "club": "KO",
+        "function": "zastępca przewodniczącego",
+        "id": 187,
+        "lastFirstName": "Kropiwnicki Robert"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 347,
+        "lastFirstName": "Smoliński Kazimierz"
+      },
+      {
+        "club": "KP",
+        "function": "zastępca przewodniczącego",
+        "id": 395,
+        "lastFirstName": "Tomczak Jacek"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 416,
+        "lastFirstName": "Wassermann Małgorzata"
+      },
+      {
+        "club": "Lewica",
+        "function": "zastępca przewodniczącego",
+        "id": 460,
+        "lastFirstName": "Żukowska Anna Maria"
+      },
+      {
+        "club": "PiS",
+        "id": 177,
+        "lastFirstName": "Kownacki Bartosz"
+      },
+      {
+        "club": "PiS",
+        "id": 245,
+        "lastFirstName": "Milczanowska Anna"
+      },
+      {
+        "club": "KO",
+        "id": 260,
+        "lastFirstName": "Myrcha Arkadiusz"
+      },
+      {
+        "club": "KO",
+        "id": 315,
+        "lastFirstName": "Rosati Dariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 454,
+        "lastFirstName": "Zubowski Wojciech"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia projektu ustawy o zmianie Konstytucji Rzeczypospolitej Polskiej",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia projektu ustawy o zmianie Konstytucji Rzeczypospolitej Polskiej",
+    "phone": "(22) 694-17-54, 694-17-67"
+  }
+]

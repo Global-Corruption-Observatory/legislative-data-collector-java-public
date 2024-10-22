@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="text_source_table_create" author="asoos">
+        <createTable tableName="text_source">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="country" type="varchar">
+                <constraints nullable="false"/>
+            </column>
+            <column name="text_type" type="varchar">
+                <constraints nullable="false"/>
+            </column>
+            <column name="download_url" type="varchar">
+                <constraints nullable="true"/>
+            </column>
+            <column name="text_content" type="varchar">
+                <constraints nullable="false"/>
+            </column>
+            <column name="text_identifier" type="varchar">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addAutoIncrement columnDataType="bigint"
+                          columnName="id"
+                          incrementBy="1"
+                          startWith="1"
+                          tableName="text_source"/>
+
+    </changeSet>
+
+</databaseChangeLog>

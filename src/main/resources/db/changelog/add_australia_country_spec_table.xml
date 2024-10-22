@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="australia_country_specific_table" author="afarkas">
+        <createTable tableName="australia_spec_vars">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="record_id" type ="int">
+                <constraints nullable="false"
+                             foreignKeyName="australia_country_spec"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="bill_summary" type="varchar"/>
+            <column name="portfolio" type="varchar"/>
+            <column name="public_hearing_count" type="int"/>
+            <column name="public_hearing_submission_count" type="int"/>
+            <column name="public_hearing_government_response_date" type="date"/>
+
+            <column name="em_text" type="varchar"/>
+            <column name="em_title" type="varchar"/>
+            <column name="em_date" type="date"/>
+            <column name="em_dummy" type="int"/>
+            <column name="em_size" type="int"/>
+
+            <column name="related_bills_count" type="int"/>
+
+        </createTable>
+        <addAutoIncrement columnDataType="bigint"
+                          columnName="id"
+                          incrementBy="1"
+                          startWith="1"
+                          tableName="australia_spec_vars"/>
+    </changeSet>
+
+    <changeSet id="create_australia_public_hearing" author="afarkas">
+        <createTable tableName="public_hearing">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="country_spec_id" type ="int">
+                <constraints nullable="false"
+                             foreignKeyName="australia_public_hearing_kex"
+                             references="australia_spec_vars(id)"/>
+            </column>
+            <column name="public_hearing_date" type="date"/>
+
+        </createTable>
+        <addAutoIncrement columnDataType="bigint"
+                          columnName="id"
+                          incrementBy="1"
+                          startWith="1"
+                          tableName="public_hearing"/>
+    </changeSet>
+
+    <changeSet id="add_act_number_column" author="bwalter">
+        <addColumn tableName="australia_spec_vars">
+            <column name="act_number" type="varchar"/>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>

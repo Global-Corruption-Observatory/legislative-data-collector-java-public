@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="brazil_country_specific_variables" author="asoos">
+        <createTable tableName="brazil_spec_vars">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name ="record_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="fk_record_brazil_spec_vars"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="camara_page_url" type="varchar"/>
+            <column name="senado_page_url" type="varchar"/>
+            <column name="votes_page_url" type="varchar"/>
+            <column name="stages_page_url" type="varchar"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="brazil_create_alt_bill_ids_table" author="bsipos">
+        <createTable tableName="br_alternative_bill_ids">
+            <column name="spec_vars_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="fk_br_spec_vars_alternative_bill_ids"
+                             references="brazil_spec_vars(id)"/>
+            </column>
+            <column name="alt_bill_id" type="varchar"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="brazil_create_amendment_links_table" author="bsipos">
+        <createTable tableName="br_amendment_page_links">
+            <column name="spec_vars_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="fk_br_spec_vars_amendment_links"
+                             references="brazil_spec_vars(id)"/>
+            </column>
+            <column name="amendment_link" type="varchar"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="brazil_add_publication_date_col" author="bsipos">
+        <addColumn tableName="brazil_spec_vars">
+            <column name="publication_date" type="date"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="brazil_add_affecting_laws_table" author="bsipos">
+        <createTable tableName="affecting_law_ids">
+            <column name="spec_vars_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="fk_br_spec_vars_affecting_law_ids"
+                             references="brazil_spec_vars(id)"/>
+            </column>
+            <column name="affecting_law_id" type="varchar"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="brazil_add_alternative_law_id_col" author="bsipos">
+        <addColumn tableName="brazil_spec_vars">
+            <column name="alternative_law_id" type="varchar"/>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>

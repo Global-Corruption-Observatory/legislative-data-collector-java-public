@@ -1,0 +1,16 @@
+description,query
+"Empty bill ID","select * from bill_main_table where bill_id is null"
+"Empty bill title","select * from bill_main_table where bill_title is null"
+"Passed with missing law ID","select * from bill_main_table where bill_status = 'PASS' and law_id is null"
+"Passed without date passing","select * from bill_main_table where bill_status = 'PASS' and date_passing is null"
+"Passed without law text URL","select * from bill_main_table where bill_status = 'PASS' and law_text_url is null"
+"Law text missing","select * from bill_main_table where law_text_url is not null AND law_text is null"
+"Rejected bill with date passing","select * from bill_main_table where bill_status = 'REJECT' AND date_passing is not null"
+"Rejected bill with law ID","select * from bill_main_table where bill_status = 'REJECT' AND law_id is not null"
+"Short bill text","select * from bill_main_table where length(bill_text) < 500"
+"Short law text","select * from bill_main_table where length(law_text) < 500"
+"Missing bill size","select * from bill_main_table where bill_text is not null and bill_size is null"
+"Date entering force earlier than date passing","select * from bill_main_table where date_entering_into_force < date_passing"
+"Original law with modified laws","select * from bill_main_table where original_law = true and modified_laws_count > 0"
+"Passed without stages","select * from bill_main_table where bill_status = 'PASS' and (stages_count = 0 or stages_count is null)"
+Non-passed bill with modified laws,select * from bill_main_table where bill_status <> 'PASS' and modified_laws_count > 0

@@ -1,0 +1,151 @@
+{
+  "ELI": "DU/1998/375",
+  "address": "WDU19980590375",
+  "announcementDate": "1997-06-26",
+  "changeDate": "2017-06-13T00:00:00",
+  displayAddress": "Dz.U. 1998 nr 59 poz. 375",
+  "pos": 375,
+  "promulgation": "1998-05-15",
+  "publisher": "DU",
+  "status": "obowiązujący",
+  "textHTML": true,
+  "textPDF": true,
+  "title": "Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw.",
+  "type": "Ustawa",
+  "volume": 59,
+  "year": 1998,
+  "authorizedBody": [],
+  "directives": [],
+  "entryIntoForce": "1998-05-30",
+  "inForce": "IN_FORCE",
+  "keywords": [
+    "wyznania",
+    "rejestry",
+    "kościoły",
+    "nieruchomości"
+  ],
+  "keywordsNames": [
+    "Polski Autokefaliczny Kościół Prawosławny",
+    "Kościół Ewangelicko-Augsburski",
+    "Kościół Zielonoświątkowy",
+    "Kościół Ewangelicko-Metodystyczny",
+    "Kościół Ewangelicko-Reformowany",
+    "Kościół Adwentystów Dnia Siódmego",
+    "Kościół Katolicki",
+    "Kościół Polskokatolicki",
+    "Kościół Katolicki Mariawitów",
+    "Kościół Chrześcijan Baptystów",
+    "Międzykościelna Komisja Regulacyjna"
+  ],
+  "obligated": [
+    "RADA MINISTRÓW",
+    "MIN. SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  ],
+  "previousTitle": [],
+  "prints": [],
+  "references": {
+    "Akty wykonawcze": [
+      {
+        "id": "DU/2000/319"
+      }
+    ],
+    "Akty zmienione": [
+      {
+        "id": "DU/1997/254",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1997/253",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1997/252",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1997/251",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1995/482",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1995/481",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1995/480",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1995/479",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1994/324",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1994/323",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1991/287",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1989/155",
+        "date": "1998-05-30"
+      },
+      {
+        "id": "DU/1989/154",
+        "date": "1998-05-30"
+      }
+    ],
+    "Odesłania": [
+      {
+        "id": "DU/1990/191"
+      },
+      {
+        "id": "DU/1989/104"
+      },
+      {
+        "id": "DU/1964/59"
+      },
+      {
+        "id": "DU/1960/168"
+      }
+    ],
+    "Orzeczenie TK": [
+      {
+        "id": "DU/2005/1939"
+      },
+      {
+        "id": "DU/1998/381"
+      }
+    ]
+  },
+  "releasedBy": [
+    "SEJM"
+  ],
+  "texts": [
+    {
+      "fileName": "text.html",
+      "type": "H"
+    },
+    {
+      "fileName": "D19980375.pdf",
+      "type": "O"
+    },
+    {
+      "fileName": "D19980375.pdf",
+      "type": "I"
+    },
+    {
+      "fileName": "D19980375L.pdf",
+      "type": "T"
+    }
+  ],
+  "validFrom": "1998-05-30"
+}

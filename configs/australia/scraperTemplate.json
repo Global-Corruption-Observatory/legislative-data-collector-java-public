@@ -1,0 +1,461 @@
+{
+  "config_name": "AU scraper",
+  "debug": true,
+  "target_connection_data": {
+    "type1": "result",
+    "type0": "none",
+    "type": "elastic",
+    "elastic_host_l": "127.0.0.1",
+    "elastic_host": "127.0.0.1",
+    "elastic_port": 9280,
+    "user": "***",
+    "pass": "***",
+    "index": "au_data",
+    "id": "url"
+  },
+  "target_connection_data2": {
+    "type": "db",
+    "db_host": "127.0.0.1",
+    "db_port": "5432",
+    "db_user": "***",
+    "db_pass": "***",
+    "db_database": "***"
+  },
+  "connection_data": {
+    "cache": {
+      "db_host": "127.0.0.1",
+      "db_port": "5437",
+      "db_user": "***",
+      "db_pass": "***",
+      "db_database": "legislative_data",
+      "db_table": "legislative_data_au_new.page_cache"
+    },
+    "method": "GET"
+  },
+  "globalScripts": {
+    "strip": "def strip(text): text.strip() if text not in ([], None, '') else ''"
+  },
+  "templates": {
+    "item": {
+      "key": "item_from_template",
+      "collapse": true,
+      "items": [
+        {
+          "key": "collection_date",
+          "script": "datetime.datetime.now().strftime(\"%Y/%m/%d %H:%M:%S\")"
+        },
+        {
+          "key": "bill_title",
+          "path": "//div[@id='main_0_header']//h1",
+          "script": "text.strip()"
+        },
+        {
+          "key": "bill_summary",
+          "path": "//div[@id=\"main_0_summaryPanel\"]/p",
+          "script": "text.strip() if text not in ([], None, '') else ''"
+        },
+        {
+          "key": "original_law",
+          "script": "'amends' not in result['bill_summary'].lower()"
+        },
+        {
+          "key": "origin_type",
+          "path": "//dt[text()=\"Type\"]//following-sibling::dd",
+          "script": "text.strip()"
+        },
+        {
+          "key": "bill_status",
+          "path": "//dt[text()=\"Status\"]//following-sibling::dd",
+          "script": "text.strip()"
+        },
+        {
+          "key": "origin_name",
+          "path": "//dt[text()=\"Sponsor(s)\"]//following-sibling::dd",
+          "script": "text.strip()"
+        },
+        {
+          "key": "senator_name",
+          "enabled": "result.get('origin_type', '') == 'Private'",
+          "script": "result['origin_name'].replace('Sen ', '').replace(', MP', '').replace(', ', '+').strip()",
+          "temporary": false
+        },
+        {
+          "key": "Senators_and_Members",
+          "enabled": "result.get('senator_name', '') not in (None, '')",
+          "script": "openUrl('https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=' + result['senator_name'].replace(' ', '+') + '&mem=1&sen=1&par=-1&gen=0&ps=12')",
+          "script_orig": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=CLARE+Jason&mem=1&sen=1&par=-1&gen=0&ps=12",
+          "collapse": true,
+          "items": [
+            {
+              "key": "originator_affiliation",
+              "path": "//dt[text()=\"Party\"]//following-sibling::dd",
+              "script": "text.strip()"
+            }
+          ]
+        },
+        {
+          "key": "portfolio",
+          "path": "//dt[text()=\"Portfolio\"]//following-sibling::dd",
+          "script": "text.strip()"
+        },
+        {
+          "key": "government_link",
+          "enabled": "result['origin_type'] == 'Government'",
+          "path": "//a[contains(text(), 'Explanatory memorandum') or contains(text(), 'Explanatory Memorandum')]/ancestor::td/following-sibling::td//a[img[@alt='PDF Format']]/@href",
+          "temporary": true
+        },
+        {
+          "key": "government_link_result",
+          "enabled": "result['origin_type'] == 'Government'",
+          "script": "openUrl(result['government_link'])",
+          "collapse": true,
+          "items": [
+            {
+              "key": "originator_text",
+              "prep_script": "clean_pdf(content)",
+              "path": "[(]Circulated by the authority of ([^)]+)[)]",
+              "pathType": "regex",
+              "collapse": true,
+              "items": [
+                {
+                  "key": "originator_affiliation",
+                  "enabled": "content and ',' in content",
+                  "script": "re.split(',', content)[0].strip()",
+                  "default_value": ""
+                },
+                {
+                  "key": "origin_name",
+                  "enabled": "content and ',' in content",
+                  "script": "re.split(',', content)[1].strip()",
+                  "default_value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "date_stage1",
+          "path": "//th[text()='House of Representatives']/ancestor::table//span[text()='Introduced and read a first time']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "date_stage2",
+          "path": "//th[text()='House of Representatives']/ancestor::table//span[text()='Second reading moved']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "date_stage3",
+          "path": "//th[text()='House of Representatives']/ancestor::table//span[text()='Third reading agreed to']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "date_stage4",
+          "path": "//th[text()='Senate']/ancestor::table//span[text()='Introduced and read a first time']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "date_stage5",
+          "path": "//th[text()='Senate']/ancestor::table//span[text()='Second reading moved']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "date_stage6",
+          "path": "//th[text()='Senate']/ancestor::table//span[text()='Third reading agreed to']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "date_passing",
+          "path": "//span[text()='Assent']/ancestor::td/following-sibling::td",
+          "script": "text.strip()"
+        },
+        {
+          "key": "site_stage1_text",
+          "path": "//a[contains(text(), 'First reading')]/ancestor::td/following-sibling::td//a[img[@alt='PDF Format']]/@href",
+          "temporary": true,
+          "script": "openUrl(text.strip())"
+        },
+        {
+          "key": "site_stage1",
+          "script": ""
+        },
+        {
+          "key": "site_stage_2_or_5_list_page",
+          "path": "//a[contains(text(), 'All second reading speeches')]/@href",
+          "script": "openUrl(text.strip())",
+          "collapse": true,
+          "items": [
+            {
+              "key": "stage_type",
+              "enabled": "content and ',' in content",
+              "path": "//dt[contains(text(), 'Chamber')]/following-sibling::dd",
+              "script": "text.strip()",
+              "default_value": "",
+              "temporary": true
+            },
+            {
+              "key": "site_stage_2_page",
+              "enabled": "result.get('stage_type', '') != 'Senate'",
+              "path": "//h4/a/@href",
+              "script": "openUrl(text.strip())",
+              "collapse": true,
+              "items": [
+                {
+                  "key": "site_stage_2_text",
+                  "path": "//div[@id='documentContentPanel']",
+                  "script": "text.strip()",
+                  "default_value": ""
+                }
+              ]
+            },
+            {
+              "key": "site_stage_5_page",
+              "enabled": "result.get('stage_type', '') == 'Senate'",
+              "path": "//h4/a/@href",
+              "script": "openUrl(text.strip())",
+              "collapse": true,
+              "items": [
+                {
+                  "key": "site_stage_5_text",
+                  "path": "//div[@id='documentContentPanel']",
+                  "script": "text.strip()",
+                  "default_value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "committee",
+          "path": "//h3[text()='Notes']/following-sibling::ul/li[contains(text(), 'Committee')]",
+          "multi_value": true,
+          "items": [
+            {
+              "key": "committee_date",
+              "path": "(?ms)[(]([^)]+)[)]:",
+              "pathType": "regex",
+              "default_value": ""
+            },
+            {
+              "key": "committee_name",
+              "path": "(?ms)[)][:]([^;]+)[;]",
+              "pathType": "regex",
+              "default_value": ""
+            },
+            {
+              "key": "committee_report_link",
+              "path": "//a/@href"
+            }
+          ]
+        },
+        {
+          "key": "committee_report_page_url",
+          "path": "//h3[text()='Notes']/following-sibling::ul/li[contains(text(), 'Committee')]//a/@href"
+        },
+        {
+          "key": "committee_report_page",
+          "path": "//h3[text()='Notes']/following-sibling::ul/li[contains(text(), 'Committee')]//a/@href",
+          "script": "openUrl(text.strip())",
+          "collapse": true,
+          "items": [
+            {
+              "key": "public_hearing_page",
+              "path": "//a[text()='Public Hearings']/@href",
+              "script": "openUrl('https://www.aph.gov.au'+text.strip()) if text not in ([], None, '') else ''",
+              "collapse": true,
+              "items": [
+                {
+                  "key": "public_hearing",
+                  "path": "//div[@id='main_0_content_0_RadGrid3']/table/tbody/tr",
+                  "multi_value": true,
+                  "items": [
+                    {
+                      "key": "public_hearing_date",
+                      "path": "/td[1]",
+                      "script": "text.strip()",
+                      "default_value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "public_hearing_submission_url",
+              "path": "//a[text()='Submissions']/@href",
+              "script": "text.strip()",
+              "default_value": ""
+              },
+            {
+              "key": "submissions",
+              "path": "//a[text()='Submissions']/@href",
+              "script": "openUrl('https://www.aph.gov.au'+text.strip()) if text not in ([], None, '') else ''",
+              "collapse": true,
+              "items": [
+                {
+                  "key": "public_hearing_submission_count",
+                  "path": "//div[@id='main_0_content_1_RadGrid1']/table//div[@class=\"rgWrap rgInfoPart\"]/strong | //div[@id='main_0_content_1_RadGrid1']/table/tbody/tr[last()]/td[1]",
+                  "script": "text.strip()",
+                  "default_value": ""
+                }
+              ]
+            },
+            {
+              "key": "government",
+              "path": "//a[text()='Government Response']/@href",
+              "script": "openUrl('https://www.aph.gov.au'+text.strip()) if text not in ([], None, '') else ''",
+              "collapse": true,
+              "items": [
+                {
+                  "key": "public_hearing_government_response_date",
+                  "path": "//div[contains(@id, 'main_0_content')]//strong",
+                  "script": "text.strip()",
+                  "default_value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "amendments",
+          "path": "//tr[contains(@id, 'AmendmentsRepeater')]",
+          "multi_value": true,
+          "items": [
+            {
+              "key": "amendment_plenary",
+              "path": "/preceding::h4[1]",
+              "script": "text.strip()",
+              "default_value": ""
+            },
+            {
+              "key": "amendment_id",
+              "path": "//span",
+              "script": "text.strip()",
+              "default_value": ""
+            },
+            {
+              "key": "amendment_text_url",
+              "path": "//a[img[@alt=\"PDF Format\"]]/@href",
+              "script": "text.strip() if text not in ([], None, '') else ''",
+              "default_value": ""
+            },
+            {
+              "key": "amendment_text",
+              "script": "openUrl(result['amendment_text_url']) if result['amendment_text_url'] not in ([], None, '') else ''",
+              "default_value": ""
+            },
+            {
+              "key": "amendment_originators_list",
+              "path": "//li//a",
+              "multi_value": true
+            },
+            {
+              "key": "amendment_originators",
+              "path": "//li//a/@outerHTML",
+              "multi_value": true,
+              "items": [
+                {
+                  "key": "name",
+                  "path": "//a",
+                  "pathType": "xpath",
+                  "script": "text.strip()",
+                  "default_value": ""
+                },
+                {
+                  "key": "aff_page_url",
+                  "path": "//a/@href",
+                  "pathType": "xpath",
+                  "script": "'https://www.aph.gov.au'+text.strip() if text not in ([], None, '') else ''",
+                  "default_value": ""
+                },
+                {
+                  "key": "aff_page",
+                  "path": "//a/@href",
+                  "pathType": "xpath",
+                  "script": "openUrl(result['aff_page_url']) if result['aff_page_url'] not in ([], None, '') else ''",
+                  "collapse": true,
+                  "items": [
+                    {
+                      "key": "aff",
+                      "path": "//dt[text()=\"Party\"]//following-sibling::dd",
+                      "script": "text.strip()",
+                      "default_value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "explanatory_memorandum_page",
+          "path": "//a[contains(text(), 'Explanatory memorandum') or contains(text(), 'Explanatory Memorandum')]/@href",
+          "script": "openUrl(text.strip())",
+          "collapse": true,
+          "items": [
+            {
+              "key": "em_text",
+              "path": "//a[img[@title=\"Download PDF\"]]/@href",
+              "script": "openUrl('https://parlinfo.aph.gov.au'+text.strip()) if text not in ([], None, '') else ''"
+            },
+            {
+              "key": "ia_dummy",
+              "path": "//a[img[@title=\"Download PDF\"]]/@href",
+              "script": "'Financial impact' in result['em_text'].lower() if result['em_text'] not in ([], None, '') else False"
+            },
+            {
+              "key": "em_title",
+              "path": "//dt[text()=\"Title\"]//following-sibling::dd/p",
+              "script": "text.strip() if text not in ([], None, '') else ''"
+            },
+            {
+              "key": "em_date",
+              "path": "//dt[text()=\"Date\"]//following-sibling::dd/p",
+              "script": "text.strip() if text not in ([], None, '') else ''"
+            }
+          ]
+        },
+        {
+          "key": "final_vote_page_url",
+          "script": "'https://divisions.aph.gov.au/api/division/recent/bill/'+ result['bill_id']",
+          "default_value": ""
+        },
+        {
+          "key": "final_vote_page",
+          "path_in_page": "//h3[text()='Divisions']/following-sibling::a/@href",
+          "script": "openUrl('https://divisions.aph.gov.au/api/division/recent/bill/'+ result['bill_id']) if result['bill_id'] not in ([], None, '') else ''",
+          "collapse": true,
+          "items": [
+            {
+              "key": "final_vote_for",
+              "path": "$..ayes"
+            },
+            {
+              "key": "final_vote_against",
+              "path": "$..noes"
+            },
+            {
+              "key": "parliamentNumber",
+              "path": "$..parliamentNumber"
+            }
+          ]
+        },
+        {
+          "key": "bill_text_url",
+          "path": "//a[contains(text(), 'First reading')]/ancestor::td/following-sibling::td//a[img[@alt='PDF Format']]/@href",
+          "script": "text.strip()"
+        },
+        {
+          "key": "bill_text",
+          "script": "openUrl(result['bill_text_url'])"
+        },
+        {
+          "key": "law_text_url",
+          "path": "//a[contains(text(), 'As passed by both Houses')]/ancestor::td/following-sibling::td//a[img[@alt='PDF Format']]/@href"
+        },
+        {
+          "key": "law_text",
+          "script": "openUrl(result['law_text_url'])"
+        }
+      ]
+    }
+  }
+}

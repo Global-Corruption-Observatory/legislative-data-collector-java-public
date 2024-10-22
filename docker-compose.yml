@@ -1,0 +1,22 @@
+version: '3'
+services:
+  legislative-postgres:
+    image: postgres:15.4-alpine
+    command: postgres -c 'max_connections=250'
+    container_name: legislative-postgres
+    volumes:
+      - './sql-init-scripts:/docker-entrypoint-initdb.d'
+      - './dbdata:/var/lib/postgresql/data'
+      - './shared:/shared'
+    shm_size: '2gb'
+    networks:
+      - ceu-legislative-data-network
+    expose:
+      - 5432
+    environment:
+      - POSTGRES_DB=legislative_data
+      - POSTGRES_PASSWORD=<NEED-TO-ADD-PASSWORD>
+      - POSTGRES_USER=<NEED-TO-ADD-USERNAME>
+networks:
+  ceu-legislative-data-network:
+    driver: bridge

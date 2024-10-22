@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="add_page_source_diff_results_table_2" author="bwalter">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="page_source_diff_results"/>
+            </not>
+        </preConditions>
+
+        <createTable tableName="page_source_diff_results">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="country" type="varchar">
+                <constraints nullable="false"/>
+            </column>
+            <column name="page_type" type="varchar">
+                <constraints nullable="false"/>
+            </column>
+            <column name="affected_pages" type="int">
+                <constraints nullable="false"/>
+            </column>
+
+            <column name="comparison_date" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+
+        <addAutoIncrement columnDataType="bigint"
+                          columnName="id"
+                          incrementBy="1"
+                          startWith="1"
+                          tableName="page_source_diff_results"/>
+    </changeSet>
+</databaseChangeLog>

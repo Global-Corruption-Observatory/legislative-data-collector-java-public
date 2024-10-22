@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="add_original_law_column" author="bsipos">
+        <preConditions onFail="MARK_RAN">
+            <tableExists tableName="bill_main_table"/>
+            <not>
+                <columnExists tableName="bill_main_table" columnName="original_law"/>
+            </not>
+        </preConditions>
+        <addColumn tableName="bill_main_table">
+            <column name="original_law" type="bool"/>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>

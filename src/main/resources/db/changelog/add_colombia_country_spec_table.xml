@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="colombia_country_specific_table" author="asoos">
+        <createTable tableName="colombia_spec_vars">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="record_id" type ="int">
+                <constraints nullable="false"
+                             foreignKeyName="colombia_country_spec"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="origin_type_co" type="varchar"/>
+            <column name="bill_main_topic" type="varchar"/>
+            <column name="bill_secondary_topic" type="varchar"/>
+            <column name="bill_summary" type="varchar"/>
+            <column name="bill_status_co" type="varchar"/>
+            <column name="bill_type_co" type="varchar"/>
+            <column name="house_bill_id" type="varchar"/>
+            <column name="senate_bill_id" type="varchar"/>
+        </createTable>
+        <addAutoIncrement columnDataType="bigint"
+                          columnName="id"
+                          incrementBy="1"
+                          startWith="1"
+                          tableName="colombia_spec_vars"/>
+    </changeSet>
+
+    <changeSet id="country_specific_table_legislative_stages_update" author="asoos">
+        <addColumn tableName="colombia_spec_vars">
+            <column name = "procedural_defect_dummy"
+                    type="boolean"/>
+            <column name="gazette_number_stage_0"
+                    type="varchar"/>
+            <column name="gazette_number_stage_1"
+                    type="varchar"/>
+            <column name="gazette_number_stage_2"
+                    type="varchar"/>
+            <column name="gazette_number_stage_3"
+                    type="varchar"/>
+            <column name="gazette_number_stage_4"
+                    type="varchar"/>
+            <column name="gazette_number_stage_5"
+                    type="varchar"/>
+            <column name="gazette_number_stage_6"
+                    type="varchar"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="add_amendment_char_diff_colombia" author="asoos">
+        <addColumn tableName="colombia_spec_vars">
+            <column name="amendment_stage_1"
+                    type="int"/>
+            <column name="amendment_stage_2"
+                    type="int"/>
+            <column name="amendment_stage_3"
+                    type="int"/>
+            <column name="amendment_stage_4"
+                    type="int"/>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>

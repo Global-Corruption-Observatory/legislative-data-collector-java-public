@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="chile_country_specific_variables" author="asoos">
+        <createTable tableName="chile_spec_vars">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name ="record_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="fk_record_chilespec"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="law_id2"  type="varchar"/>
+            <column name="date_publication"  type="date"/>
+            <column name="affected_organisms"  type="varchar"/>
+            <column name="law_title"  type="varchar"/>
+            <column name="number_enacted_law"  type="varchar"/>
+            <column name="date_final_into_force"  type="date"/>
+            <column name="bill_type_ch" type="varchar"/>
+            <column name="bill_main_topic" type="varchar"/>
+            <column name="bill_summary" type="varchar"/>
+            <column name="bill_text_identification_error" type="boolean"/>
+            <column name="termination_date" type="date"/>
+            <column name="date_entering_into_force_last_version" type="date"/>
+        </createTable>
+    </changeSet>
+
+</databaseChangeLog>

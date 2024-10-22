@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+
+    <changeSet id="usa" author="bwalter">
+        <createSequence incrementBy="1"
+                        maxValue="99999"
+                        sequenceName="usa_generic_id_seq"
+                        startValue="1"/>
+    </changeSet>
+
+    <changeSet id="usa_seq" author="bwalter">
+        <alterSequence maxValue="999999"
+                       sequenceName="usa_generic_id_seq"/>
+    </changeSet>
+
+    <changeSet author="bwalter" id="addColumn-Law_type">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <columnExists tableName="bill_main_table" columnName="law_type"/>
+            </not>
+        </preConditions>
+
+        <addColumn tableName="bill_main_table">
+            <column name="law_type" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet author="bwalter" id="addColumn-cosponsor_count">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <columnExists tableName="bill_main_table" columnName="cosponsor_count"/>
+            </not>
+        </preConditions>
+
+        <addColumn tableName="bill_main_table">
+            <column name="cosponsor_count" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet author="bwalter" id="addColumn-related_bills_count">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <columnExists tableName="bill_main_table" columnName="related_bills_count"/>
+            </not>
+        </preConditions>
+
+        <addColumn tableName="bill_main_table">
+            <column name="related_bills_count" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet author="bwalter" id="addColumn-amendment_stages_count">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <columnExists tableName="bill_main_table" columnName="amendment_stages_count"/>
+            </not>
+        </preConditions>
+
+        <addColumn tableName="bill_main_table">
+            <column name="amendment_stages_count" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="related_bills_table_create_new" author="bwalter" runOnChange="true">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="related_bills"/>
+            </not>
+        </preConditions>
+
+        <sql>
+            CREATE TABLE RELATED_BILLS
+            (
+                "record_id"                 INT NOT NULL REFERENCES BILL_MAIN_TABLE,
+                "related_bill_id"           VARCHAR,
+                "related_bill_title"        VARCHAR,
+                "related_bill_relationship" VARCHAR
+            );
+        </sql>
+    </changeSet>
+
+    <changeSet id="originator_support_names_table_create_new" author="bwalter" runOnChange="true">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="originator_support_names"/>
+            </not>
+        </preConditions>
+        <sql>
+            CREATE TABLE ORIGINATOR_SUPPORT_NAMES
+            (
+                "record_id"               INT NOT NULL REFERENCES BILL_MAIN_TABLE,
+                "originator_support_name" VARCHAR
+            );
+        </sql>
+    </changeSet>
+
+    <changeSet id="import_fuzzystrmatch_extension" author="bwalter" runOnChange="true">
+        <sql>
+            CREATE
+            EXTENSION IF NOT EXISTS pg_trgm;
+        </sql>
+        <sql>
+            CREATE
+            EXTENSION IF NOT EXISTS fuzzystrmatch;
+        </sql>
+    </changeSet>
+</databaseChangeLog>

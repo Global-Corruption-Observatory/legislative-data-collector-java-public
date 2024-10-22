@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="init-schema" author="bsipos">
+        <sqlFile path="init-schema.sql" relativeToChangelogFile="true"/>
+    </changeSet>
+
+    <include file="add_original_law_column.xml" relativeToChangelogFile="true"/>
+    <include file="add_downloaded_files_table.xml" relativeToChangelogFile="true"/>
+
+    <include file="add_page_source_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_metadata_column_to_page_sources.xml" relativeToChangelogFile="true"/>
+    <include file="remove_not_null_constraint_in_page_sources.xml" relativeToChangelogFile="true"/>
+    <include file="create_bill_links_table.xml" relativeToChangelogFile="true"/>
+    <include file="drop_bill_nature.xml" relativeToChangelogFile="true"/>
+    <include file="create_india_sequence.xml" relativeToChangelogFile="true"/>
+    <include file="add_india_spec_vars_table.xml" relativeToChangelogFile="true"/>
+    <include file="create_bg_sequence.xml" relativeToChangelogFile="true"/>
+    <include file="add_bulgaria_spec_vars_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_bg_gazette_number.xml" relativeToChangelogFile="true"/>
+    <include file="add_clean_url_column.xml" relativeToChangelogFile="true"/>
+    <include file="add_content_type_to_downloaded_files.xml" relativeToChangelogFile="true"/>
+
+    <include file="create_colombia_id_sequence.xml" relativeToChangelogFile="true"/>
+    <include file="add_colombia_country_spec_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_text_source_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_colombia_originator_variables.xml" relativeToChangelogFile="true"/>
+    <include file="add_date_to_committees.xml" relativeToChangelogFile="true"/>
+    <include file="create_chile_id_sequence.xml" relativeToChangelogFile="true"/>
+    <include file="add_chile_country_spec_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_affecting_laws_detailed.xml" relativeToChangelogFile="true"/>
+
+    <include file="sweden_changes.xml" relativeToChangelogFile="true"/>
+    <include file="south_africa_changes.xml" relativeToChangelogFile="true"/>
+
+    <include file="add_page_source_diff_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_page_source_diff_results_table.xml" relativeToChangelogFile="true"/>
+
+    <changeSet id="init-ru" author="afarkas">
+        <createSequence sequenceName="ru_generic_id_seq"  />
+    </changeSet>
+
+    <changeSet id="georgian_id" author="afarkas">
+        <createSequence incrementBy="1"
+                        maxValue="99999"
+                        sequenceName="ge_generic_id_seq"
+                        startValue="1"/>
+    </changeSet>
+
+    <changeSet author="afarkas" id="add georgian columns">
+        <addColumn tableName="BILL_MAIN_TABLE">
+            <column name="date_of_president_review" type="date"/>
+            <column name="date_of_publication" type="date"/>
+            <column name="document_number" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <include file="add_jordan_spec_vars_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_page_cache_table.xml" relativeToChangelogFile="true"/>
+    <include file="add_australia_variables.xml" relativeToChangelogFile="true"/>
+    <include file="add_australia_country_spec_table.xml" relativeToChangelogFile="true"/>
+
+    <include file="add_clean_url_to_bill_links.xml" relativeToChangelogFile="true"/>
+    <include file="add_size_to_page_sources.xml" relativeToChangelogFile="true"/>
+
+    <include file="sweden_changes.xml" relativeToChangelogFile="true"/>
+    <include file="usa_changes.xml" relativeToChangelogFile="true"/>
+    <include file="add_size_to_downloaded_files.xml" relativeToChangelogFile="true"/>
+    <include file="add_collection_date_to_page_sources.xml" relativeToChangelogFile="true"/>
+    <include file="add_processing_date_to_records.xml" relativeToChangelogFile="true"/>
+    <include file="add_alt_bill_page_url_to_records.xml" relativeToChangelogFile="true"/>
+
+    <changeSet id="pl" author="gnagy">
+        <createSequence incrementBy="1"
+                        maxValue="99999"
+                        sequenceName="pl_generic_id_seq"
+                        startValue="1"/>
+    </changeSet>
+
+    <include file="add_unique_constraint_to_page_source_url.xml" relativeToChangelogFile="true"/>
+    <include file="add_brazil_country_spec_table.xml" relativeToChangelogFile="true"/>
+
+</databaseChangeLog>

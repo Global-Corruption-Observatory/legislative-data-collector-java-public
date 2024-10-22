@@ -1,0 +1,5816 @@
+[
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "ASW",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 31,
+        "lastFirstName": "Bujak Bogdan"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 41,
+        "lastFirstName": "Chrzanowski Kazimierz"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 225,
+        "lastFirstName": "Łyżwiński Stanisław"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 234,
+        "lastFirstName": "Marczewski Marian"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 427,
+        "lastFirstName": "Woda Wiesław"
+      },
+      {
+        "club": "SLD",
+        "id": 21,
+        "lastFirstName": "Bolek Elżbieta"
+      },
+      {
+        "club": "niez.",
+        "id": 24,
+        "lastFirstName": "Borczyk Waldemar"
+      },
+      {
+        "club": "SLD",
+        "id": 26,
+        "lastFirstName": "Brachmański Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 64,
+        "lastFirstName": "Długoborski Wojciech"
+      },
+      {
+        "club": "PO",
+        "id": 67,
+        "lastFirstName": "Dolniak Grzegorz"
+      },
+      {
+        "club": "SLD",
+        "id": 68,
+        "lastFirstName": "Domaradzki Wojciech"
+      },
+      {
+        "club": "PiS",
+        "id": 69,
+        "lastFirstName": "Dorn Ludwik"
+      },
+      {
+        "club": "SLD",
+        "id": 74,
+        "lastFirstName": "Dziewulski Jerzy"
+      },
+      {
+        "club": "PO",
+        "id": 89,
+        "lastFirstName": "Gałażewski Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 100,
+        "lastFirstName": "Górna-Kubacka Anna"
+      },
+      {
+        "club": "PSL",
+        "id": 114,
+        "lastFirstName": "Grzyb Andrzej"
+      },
+      {
+        "club": "LPR",
+        "id": 116,
+        "lastFirstName": "Gudzowski Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 123,
+        "lastFirstName": "Hyla-Makowska Barbara"
+      },
+      {
+        "club": "UP",
+        "id": 129,
+        "lastFirstName": "Janicki Marian"
+      },
+      {
+        "club": "PiS",
+        "id": 157,
+        "lastFirstName": "Kamiński Mariusz"
+      },
+      {
+        "club": "niez.",
+        "id": 166,
+        "lastFirstName": "Kędra Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Krzywicki Piotr"
+      },
+      {
+        "club": "niez.",
+        "id": 202,
+        "lastFirstName": "Kurpiewski Stanisław"
+      },
+      {
+        "club": "niez.",
+        "id": 217,
+        "lastFirstName": "Łapiński Mariusz"
+      },
+      {
+        "club": "SLD",
+        "id": 223,
+        "lastFirstName": "Łybacka Krystyna"
+      },
+      {
+        "club": "PO",
+        "id": 248,
+        "lastFirstName": "Miodowicz Konstanty"
+      },
+      {
+        "club": "niez.",
+        "id": 269,
+        "lastFirstName": "Nowiak Joanna"
+      },
+      {
+        "club": "SLD",
+        "id": 270,
+        "lastFirstName": "Nowicki Józef"
+      },
+      {
+        "club": "PSL",
+        "id": 477,
+        "lastFirstName": "Ozga Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 306,
+        "lastFirstName": "Piosik Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 309,
+        "lastFirstName": "Plocke Kazimierz"
+      },
+      {
+        "club": "SG",
+        "id": 335,
+        "lastFirstName": "Rutkowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "SDPL",
+        "id": 423,
+        "lastFirstName": "Winiarczyk-Kossakowska Małgorzata"
+      },
+      {
+        "club": "SLD",
+        "id": 426,
+        "lastFirstName": "Wnuk Marcin"
+      },
+      {
+        "club": "LPR",
+        "id": 440,
+        "lastFirstName": "Zadora Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 444,
+        "lastFirstName": "Zaremba Krzysztof"
+      },
+      {
+        "club": "SLD",
+        "id": 448,
+        "lastFirstName": "Zaworski Jan"
+      }
+    ],
+    "name": "Komisja Administracji i Spraw Wewnętrznych",
+    "nameGenitive": "Komisji Administracji i Spraw Wewnętrznych"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "ENM",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 119,
+        "lastFirstName": "Hayn Ryszard"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 104,
+        "lastFirstName": "Grabowska Danuta"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 142,
+        "lastFirstName": "Jasztal Teresa"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 283,
+        "lastFirstName": "Ostrowski Henryk"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 467,
+        "lastFirstName": "Zieliński Jarosław"
+      },
+      {
+        "club": "SLD",
+        "id": 14,
+        "lastFirstName": "Baszczyński Krzysztof"
+      },
+      {
+        "club": "SLD",
+        "id": 43,
+        "lastFirstName": "Ciborowska Danuta"
+      },
+      {
+        "club": "PO",
+        "id": 55,
+        "lastFirstName": "Czerwiński Andrzej"
+      },
+      {
+        "club": "PSL",
+        "id": 72,
+        "lastFirstName": "Dutka Bronisław"
+      },
+      {
+        "club": "SLD",
+        "id": 123,
+        "lastFirstName": "Hyla-Makowska Barbara"
+      },
+      {
+        "club": "LPR",
+        "id": 472,
+        "lastFirstName": "Jacyna-Onyszkiewicz Zbigniew"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 160,
+        "lastFirstName": "Kantor Ewa"
+      },
+      {
+        "club": "SDPL",
+        "id": 165,
+        "lastFirstName": "Kątna Mirosława"
+      },
+      {
+        "club": "SLD",
+        "id": 168,
+        "lastFirstName": "Kizińska Bożena"
+      },
+      {
+        "club": "SLD",
+        "id": 180,
+        "lastFirstName": "Kopeć Stanisław"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 488,
+        "lastFirstName": "Krajewski Mirosław"
+      },
+      {
+        "club": "PSL",
+        "id": 204,
+        "lastFirstName": "Kwaśniewska Dorota"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 214,
+        "lastFirstName": "Lis Alicja"
+      },
+      {
+        "club": "PiS",
+        "id": 233,
+        "lastFirstName": "Marcinkiewicz Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 246,
+        "lastFirstName": "Mierzejewska Hanna"
+      },
+      {
+        "club": "LPR",
+        "id": 256,
+        "lastFirstName": "Murzyn Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 266,
+        "lastFirstName": "Nowak Maria"
+      },
+      {
+        "club": "SLD",
+        "id": 281,
+        "lastFirstName": "Osik Wiktor"
+      },
+      {
+        "club": "LPR",
+        "id": 286,
+        "lastFirstName": "Papież Stanisław"
+      },
+      {
+        "club": "PSL",
+        "id": 290,
+        "lastFirstName": "Pawlak Mirosław"
+      },
+      {
+        "club": "UP",
+        "id": 318,
+        "lastFirstName": "Polak Danuta"
+      },
+      {
+        "club": "SLD",
+        "id": 323,
+        "lastFirstName": "Potulski Franciszek"
+      },
+      {
+        "club": "SLD",
+        "id": 340,
+        "lastFirstName": "Sas Kazimierz"
+      },
+      {
+        "club": "SDPL",
+        "id": 489,
+        "lastFirstName": "Sokołowska Mariola"
+      },
+      {
+        "club": "SDPL",
+        "id": 369,
+        "lastFirstName": "Stryjak Cezary"
+      },
+      {
+        "club": "RKN",
+        "id": 370,
+        "lastFirstName": "Stryjewski Antoni Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 389,
+        "lastFirstName": "Szumilas Krystyna"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 390,
+        "lastFirstName": "Szumska Gertruda"
+      },
+      {
+        "club": "PO",
+        "id": 397,
+        "lastFirstName": "Śledzińska-Katarasińska Iwona"
+      },
+      {
+        "club": "SLD",
+        "id": 464,
+        "lastFirstName": "Tomczyk Ryszard"
+      },
+      {
+        "club": "SLD",
+        "id": 407,
+        "lastFirstName": "Towalewska Bogusława"
+      },
+      {
+        "club": "PSL",
+        "id": 485,
+        "lastFirstName": "Wesołowski Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 433,
+        "lastFirstName": "Wontor Bogusław"
+      }
+    ],
+    "name": "Komisja Edukacji, Nauki i Młodzieży",
+    "nameGenitive": "Komisji Edukacji, Nauki i Młodzieży"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "FPB",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "niez.",
+        "function": "przewodniczący",
+        "id": 54,
+        "lastFirstName": "Czerniawski Mieczysław"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 45,
+        "lastFirstName": "Ciesielski Wiesław"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 93,
+        "lastFirstName": "Gilowska Zyta"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 333,
+        "lastFirstName": "Romero Elżbieta"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 399,
+        "lastFirstName": "Świętochowski Leszek"
+      },
+      {
+        "club": "SLD",
+        "id": 3,
+        "lastFirstName": "Antochowski Jan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 15,
+        "lastFirstName": "Beger Renata"
+      },
+      {
+        "club": "SLD",
+        "id": 19,
+        "lastFirstName": "Błochowiak Anita"
+      },
+      {
+        "club": "niez.",
+        "id": 24,
+        "lastFirstName": "Borczyk Waldemar"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 36,
+        "lastFirstName": "Cepil Józef"
+      },
+      {
+        "club": "PO",
+        "id": 38,
+        "lastFirstName": "Chlebowski Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 57,
+        "lastFirstName": "Czuż Aleksander"
+      },
+      {
+        "club": "SLD",
+        "id": 61,
+        "lastFirstName": "Derech-Krzycki Jakub"
+      },
+      {
+        "club": "PiS",
+        "id": 63,
+        "lastFirstName": "Diakonow Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 81,
+        "lastFirstName": "Filek Anna"
+      },
+      {
+        "club": "SLD",
+        "id": 94,
+        "lastFirstName": "Gintowt-Dziewałtowski Witold"
+      },
+      {
+        "club": "SLD",
+        "id": 100,
+        "lastFirstName": "Górna-Kubacka Anna"
+      },
+      {
+        "club": "LPR",
+        "id": 117,
+        "lastFirstName": "Hatka Witold"
+      },
+      {
+        "club": "PiS",
+        "id": 140,
+        "lastFirstName": "Jasiński Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 143,
+        "lastFirstName": "Jedoń Mieczysław"
+      },
+      {
+        "club": "SLD",
+        "id": 144,
+        "lastFirstName": "Jędrusik Wiesław"
+      },
+      {
+        "club": "niez.",
+        "id": 148,
+        "lastFirstName": "Kaczmarek Wiesław"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 160,
+        "lastFirstName": "Kantor Ewa"
+      },
+      {
+        "club": "SLD",
+        "id": 185,
+        "lastFirstName": "Kozłowska Bożena"
+      },
+      {
+        "club": "PSL",
+        "id": 197,
+        "lastFirstName": "Kubik Jan"
+      },
+      {
+        "club": "SG",
+        "id": 215,
+        "lastFirstName": "Lisak Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 462,
+        "lastFirstName": "Liss Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 216,
+        "lastFirstName": "Luśnia Robert"
+      },
+      {
+        "club": "SLD",
+        "id": 223,
+        "lastFirstName": "Łybacka Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 232,
+        "lastFirstName": "Maraszek Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 235,
+        "lastFirstName": "Marianowska Barbara"
+      },
+      {
+        "club": "LPR",
+        "id": 241,
+        "lastFirstName": "Masłowska Gabriela"
+      },
+      {
+        "club": "SLD",
+        "id": 244,
+        "lastFirstName": "Michalak Aldona"
+      },
+      {
+        "club": "PSL",
+        "id": 476,
+        "lastFirstName": "Nowak Stefan"
+      },
+      {
+        "club": "PP",
+        "id": 271,
+        "lastFirstName": "Nowina Konopka Halina"
+      },
+      {
+        "club": "PO",
+        "id": 287,
+        "lastFirstName": "Parchański Tadeusz"
+      },
+      {
+        "club": "PSL",
+        "id": 291,
+        "lastFirstName": "Pawlak Waldemar"
+      },
+      {
+        "club": "niez.",
+        "id": 292,
+        "lastFirstName": "Paździor Helmut"
+      },
+      {
+        "club": "UP",
+        "id": 316,
+        "lastFirstName": "Pol Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 323,
+        "lastFirstName": "Potulski Franciszek"
+      },
+      {
+        "club": "SLD",
+        "id": 328,
+        "lastFirstName": "Rak Władysław"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 330,
+        "lastFirstName": "Rochnowska Renata"
+      },
+      {
+        "club": "PO",
+        "id": 350,
+        "lastFirstName": "Skowrońska Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 352,
+        "lastFirstName": "Skrzyński Andrzej"
+      },
+      {
+        "club": "SG",
+        "id": 353,
+        "lastFirstName": "Skutecki Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 373,
+        "lastFirstName": "Suchecki Benedykt"
+      },
+      {
+        "club": "SLD",
+        "id": 415,
+        "lastFirstName": "Wagner Marek"
+      },
+      {
+        "club": "SDPL",
+        "id": 429,
+        "lastFirstName": "Wojtalik Edward"
+      },
+      {
+        "club": "SLD",
+        "id": 435,
+        "lastFirstName": "Woźny Grzegorz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 436,
+        "lastFirstName": "Wójcik Kazimierz"
+      },
+      {
+        "club": "PO",
+        "id": 441,
+        "lastFirstName": "Zagórny Rafał"
+      },
+      {
+        "club": "niez.",
+        "id": 442,
+        "lastFirstName": "Zagórski Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 447,
+        "lastFirstName": "Zawisza Artur"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 450,
+        "lastFirstName": "Zbyrowska Maria"
+      }
+    ],
+    "name": "Komisja Finansów Publicznych",
+    "nameGenitive": "Komisji Finansów Publicznych"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "GOS",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 381,
+        "lastFirstName": "Szejnfeld Adam Stanisław"
+      },
+      {
+        "club": "SG",
+        "function": "zastępca przewodniczącego",
+        "id": 125,
+        "lastFirstName": "Jagieliński Roman"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 170,
+        "lastFirstName": "Klimek Jan"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 342,
+        "lastFirstName": "Sawicki Marek"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 410,
+        "lastFirstName": "Tyma Zenon"
+      },
+      {
+        "club": "PO",
+        "id": 7,
+        "lastFirstName": "Bachalski Dariusz Jacek"
+      },
+      {
+        "club": "SLD",
+        "id": 18,
+        "lastFirstName": "Błaszczyk Bogdan"
+      },
+      {
+        "club": "PO",
+        "id": 30,
+        "lastFirstName": "Budnik Jerzy Feliks"
+      },
+      {
+        "club": "SDPL",
+        "id": 35,
+        "lastFirstName": "Celiński Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 40,
+        "lastFirstName": "Chojnacki Jan"
+      },
+      {
+        "club": "PSL",
+        "id": 47,
+        "lastFirstName": "Cieślak Czesław"
+      },
+      {
+        "club": "SLD",
+        "id": 59,
+        "lastFirstName": "Dankowski Bronisław"
+      },
+      {
+        "club": "PSL",
+        "id": 60,
+        "lastFirstName": "Deptuła Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 63,
+        "lastFirstName": "Diakonow Andrzej"
+      },
+      {
+        "club": "PSL",
+        "id": 72,
+        "lastFirstName": "Dutka Bronisław"
+      },
+      {
+        "club": "SG",
+        "id": 80,
+        "lastFirstName": "Figlus Michał"
+      },
+      {
+        "club": "niez.",
+        "id": 97,
+        "lastFirstName": "Głowa Józef"
+      },
+      {
+        "club": "niez.",
+        "id": 118,
+        "lastFirstName": "Hausner Jerzy"
+      },
+      {
+        "club": "SDPL",
+        "id": 156,
+        "lastFirstName": "Kałamaga Zdzisław"
+      },
+      {
+        "club": "SLD",
+        "id": 159,
+        "lastFirstName": "Kaniewski Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 173,
+        "lastFirstName": "Knapik Jan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 186,
+        "lastFirstName": "Kozłowski Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 191,
+        "lastFirstName": "Kruk Elżbieta"
+      },
+      {
+        "club": "PO",
+        "id": 242,
+        "lastFirstName": "Mateja Piotr"
+      },
+      {
+        "club": "SLD",
+        "id": 253,
+        "lastFirstName": "Motowidło Tadeusz"
+      },
+      {
+        "club": "LPR",
+        "id": 254,
+        "lastFirstName": "Murias Halina"
+      },
+      {
+        "club": "SLD",
+        "id": 260,
+        "lastFirstName": "Myler Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 272,
+        "lastFirstName": "Okoński Wiesław"
+      },
+      {
+        "club": "PO",
+        "id": 274,
+        "lastFirstName": "Olechowska Alicja"
+      },
+      {
+        "club": "niez.",
+        "id": 289,
+        "lastFirstName": "Paturalska Grażyna"
+      },
+      {
+        "club": "niez.",
+        "id": 292,
+        "lastFirstName": "Paździor Helmut"
+      },
+      {
+        "club": "UP",
+        "id": 315,
+        "lastFirstName": "Pojda Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 320,
+        "lastFirstName": "Poncyljusz Paweł"
+      },
+      {
+        "club": "SLD",
+        "id": 329,
+        "lastFirstName": "Ratman Zygmunt"
+      },
+      {
+        "club": "SLD",
+        "id": 359,
+        "lastFirstName": "Sosnowski Adam"
+      },
+      {
+        "club": "SLD",
+        "id": 366,
+        "lastFirstName": "Stępień Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 367,
+        "lastFirstName": "Stępień Władysław"
+      },
+      {
+        "club": "SLD",
+        "id": 377,
+        "lastFirstName": "Szarawarski Andrzej"
+      },
+      {
+        "club": "PO",
+        "id": 380,
+        "lastFirstName": "Szczypiński Tomasz"
+      },
+      {
+        "club": "niez.",
+        "id": 394,
+        "lastFirstName": "Szymański Zygmunt Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 413,
+        "lastFirstName": "Umiński Andrzej"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 465,
+        "lastFirstName": "Widz Marian"
+      },
+      {
+        "club": "PiS",
+        "id": 447,
+        "lastFirstName": "Zawisza Artur"
+      },
+      {
+        "club": "SLD",
+        "id": 448,
+        "lastFirstName": "Zaworski Jan"
+      }
+    ],
+    "name": "Komisja Gospodarki",
+    "nameGenitive": "Komisji Gospodarki"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "INF",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PSL",
+        "function": "przewodniczący",
+        "id": 297,
+        "lastFirstName": "Piechociński Janusz"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 65,
+        "lastFirstName": "Długosz Henryk"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 300,
+        "lastFirstName": "Piela-Mielczarek Elżbieta"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 317,
+        "lastFirstName": "Polaczek Jerzy"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 374,
+        "lastFirstName": "Sułek Leszek"
+      },
+      {
+        "club": "PO",
+        "id": 1,
+        "lastFirstName": "Abgarowicz Łukasz"
+      },
+      {
+        "club": "PiS",
+        "id": 4,
+        "lastFirstName": "Arciszewska-Mielewczyk Dorota"
+      },
+      {
+        "club": "PSL",
+        "id": 470,
+        "lastFirstName": "Balcerowski Tadeusz"
+      },
+      {
+        "club": "niez.",
+        "id": 17,
+        "lastFirstName": "Blida Barbara"
+      },
+      {
+        "club": "PSL",
+        "id": 32,
+        "lastFirstName": "Bujak Bolesław"
+      },
+      {
+        "club": "PSL",
+        "id": 60,
+        "lastFirstName": "Deptuła Zbigniew"
+      },
+      {
+        "club": "LPR",
+        "id": 78,
+        "lastFirstName": "Fedorowicz Andrzej"
+      },
+      {
+        "club": "SG",
+        "id": 80,
+        "lastFirstName": "Figlus Michał"
+      },
+      {
+        "club": "PO",
+        "id": 102,
+        "lastFirstName": "Grabarczyk Cezary"
+      },
+      {
+        "club": "LPR",
+        "id": 116,
+        "lastFirstName": "Gudzowski Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 121,
+        "lastFirstName": "Hertel Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 131,
+        "lastFirstName": "Janik Ewa Maria"
+      },
+      {
+        "club": "SLD",
+        "id": 136,
+        "lastFirstName": "Janowski Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 138,
+        "lastFirstName": "Jarmuziewicz Tadeusz"
+      },
+      {
+        "club": "SDPL",
+        "id": 147,
+        "lastFirstName": "Kaczmarek Michał"
+      },
+      {
+        "club": "ROP",
+        "id": 167,
+        "lastFirstName": "Kędziak Tadeusz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 186,
+        "lastFirstName": "Kozłowski Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 462,
+        "lastFirstName": "Liss Andrzej"
+      },
+      {
+        "club": "PO",
+        "id": 230,
+        "lastFirstName": "Maniura Edward"
+      },
+      {
+        "club": "PiS",
+        "id": 243,
+        "lastFirstName": "Mężydło Antoni"
+      },
+      {
+        "club": "SDPL",
+        "id": 250,
+        "lastFirstName": "Młynarczyk Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 272,
+        "lastFirstName": "Okoński Wiesław"
+      },
+      {
+        "club": "KL",
+        "id": 273,
+        "lastFirstName": "Oksiuta Krzysztof"
+      },
+      {
+        "club": "niez.",
+        "id": 293,
+        "lastFirstName": "Pęczak Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 304,
+        "lastFirstName": "Piłat Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 349,
+        "lastFirstName": "Skomra Szczepan"
+      },
+      {
+        "club": "SLD",
+        "id": 377,
+        "lastFirstName": "Szarawarski Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 385,
+        "lastFirstName": "Szrajber Bartłomiej"
+      },
+      {
+        "club": "SLD",
+        "id": 393,
+        "lastFirstName": "Szymański Jan"
+      },
+      {
+        "club": "niez.",
+        "id": 394,
+        "lastFirstName": "Szymański Zygmunt Jerzy"
+      },
+      {
+        "club": "PO",
+        "id": 402,
+        "lastFirstName": "Tomaka Jan"
+      },
+      {
+        "club": "niez.",
+        "id": 403,
+        "lastFirstName": "Tomala Józef"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 463,
+        "lastFirstName": "Tuderek Grzegorz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 414,
+        "lastFirstName": "Urban Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 443,
+        "lastFirstName": "Zając Andrzej"
+      },
+      {
+        "club": "PO",
+        "id": 458,
+        "lastFirstName": "Żmijan Stanisław"
+      }
+    ],
+    "name": "Komisja Infrastruktury",
+    "nameGenitive": "Komisji Infrastruktury"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "PSR",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SDPL",
+        "function": "przewodniczący",
+        "id": 12,
+        "lastFirstName": "Bańkowska Anna"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 52,
+        "lastFirstName": "Czechowski Włodzimierz"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 162,
+        "lastFirstName": "Kasprzyk Jacek"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 255,
+        "lastFirstName": "Murynowicz Alicja"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 356,
+        "lastFirstName": "Sobecka Anna"
+      },
+      {
+        "club": "SDPL",
+        "id": 10,
+        "lastFirstName": "Banach Jolanta"
+      },
+      {
+        "club": "PiS",
+        "id": 480,
+        "lastFirstName": "Borucka-Cieślewicz Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 51,
+        "lastFirstName": "Cymański Tadeusz"
+      },
+      {
+        "club": "PO",
+        "id": 481,
+        "lastFirstName": "Duda Jarosław"
+      },
+      {
+        "club": "SG",
+        "id": 126,
+        "lastFirstName": "Jagiełło Andrzej"
+      },
+      {
+        "club": "PSL",
+        "id": 161,
+        "lastFirstName": "Kasprzak Mieczysław"
+      },
+      {
+        "club": "SDPL",
+        "id": 165,
+        "lastFirstName": "Kątna Mirosława"
+      },
+      {
+        "club": "PO",
+        "id": 178,
+        "lastFirstName": "Kopacz Ewa"
+      },
+      {
+        "club": "SLD",
+        "id": 222,
+        "lastFirstName": "Łuszczyńska Aleksandra"
+      },
+      {
+        "club": "LPR",
+        "id": 231,
+        "lastFirstName": "Mańka Andrzej"
+      },
+      {
+        "club": "PSL",
+        "id": 249,
+        "lastFirstName": "Mioduszewski Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 253,
+        "lastFirstName": "Motowidło Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 266,
+        "lastFirstName": "Nowak Maria"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 279,
+        "lastFirstName": "Ołdakowski Adam"
+      },
+      {
+        "club": "PSL",
+        "id": 477,
+        "lastFirstName": "Ozga Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 302,
+        "lastFirstName": "Pijanowska Grażyna"
+      },
+      {
+        "club": "SLD",
+        "id": 328,
+        "lastFirstName": "Rak Władysław"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 351,
+        "lastFirstName": "Skowyra Józef"
+      },
+      {
+        "club": "SDPL",
+        "id": 489,
+        "lastFirstName": "Sokołowska Mariola"
+      },
+      {
+        "club": "SLD",
+        "id": 361,
+        "lastFirstName": "Stachowicz Edmund"
+      },
+      {
+        "club": "SLD",
+        "id": 366,
+        "lastFirstName": "Stępień Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 384,
+        "lastFirstName": "Szparaga Elżbieta"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 390,
+        "lastFirstName": "Szumska Gertruda"
+      },
+      {
+        "club": "niez.",
+        "id": 395,
+        "lastFirstName": "Szynalska Renata"
+      },
+      {
+        "club": "SLD",
+        "id": 400,
+        "lastFirstName": "Talaga Halina"
+      },
+      {
+        "club": "SLD",
+        "id": 404,
+        "lastFirstName": "Tomaszewski Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 408,
+        "lastFirstName": "Turkiewicz Michał"
+      },
+      {
+        "club": "SLD",
+        "id": 422,
+        "lastFirstName": "Wilczyńska Zofia"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 466,
+        "lastFirstName": "Wiśniowiecka Maria"
+      },
+      {
+        "club": "PO",
+        "id": 438,
+        "lastFirstName": "Wycisło Eugeniusz"
+      },
+      {
+        "club": "SG",
+        "id": 454,
+        "lastFirstName": "Zielonka Lech"
+      },
+      {
+        "club": "PO",
+        "id": 459,
+        "lastFirstName": "Żyliński Marek"
+      }
+    ],
+    "name": "Komisja Polityki Społecznej i Rodziny",
+    "nameGenitive": "Komisji Polityki Społecznej i Rodziny"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "RRW",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 251,
+        "lastFirstName": "Mojzesowicz Wojciech"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 2,
+        "lastFirstName": "Ajchler Romuald"
+      },
+      {
+        "club": "UP",
+        "function": "zastępca przewodniczącego",
+        "id": 6,
+        "lastFirstName": "Aumiller Andrzej"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 151,
+        "lastFirstName": "Kalemba Stanisław"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 180,
+        "lastFirstName": "Kopeć Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 3,
+        "lastFirstName": "Antochowski Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 4,
+        "lastFirstName": "Arciszewska-Mielewczyk Dorota"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 5,
+        "lastFirstName": "Aszkiełowicz Mieczysław"
+      },
+      {
+        "club": "SLD",
+        "id": 8,
+        "lastFirstName": "Badach Tadeusz"
+      },
+      {
+        "club": "KL",
+        "id": 9,
+        "lastFirstName": "Balazs Artur"
+      },
+      {
+        "club": "PSL",
+        "id": 23,
+        "lastFirstName": "Borawski Edmund"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 29,
+        "lastFirstName": "Budner Alfred"
+      },
+      {
+        "club": "SLD",
+        "id": 31,
+        "lastFirstName": "Bujak Bogdan"
+      },
+      {
+        "club": "LPR",
+        "id": 78,
+        "lastFirstName": "Fedorowicz Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 84,
+        "lastFirstName": "Florek Sebastian"
+      },
+      {
+        "club": "PiS",
+        "id": 482,
+        "lastFirstName": "Fortuna Józef"
+      },
+      {
+        "club": "niez.",
+        "id": 85,
+        "lastFirstName": "Franczak Franciszek"
+      },
+      {
+        "club": "PiS",
+        "id": 95,
+        "lastFirstName": "Giżyński Szymon"
+      },
+      {
+        "club": "PO",
+        "id": 98,
+        "lastFirstName": "Gorczyca Stanisław"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 101,
+        "lastFirstName": "Górniak Grzegorz"
+      },
+      {
+        "club": "SLD",
+        "id": 112,
+        "lastFirstName": "Grzebisz-Nowicka Zofia"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 122,
+        "lastFirstName": "Hojarska Danuta"
+      },
+      {
+        "club": "ROP",
+        "id": 167,
+        "lastFirstName": "Kędziak Tadeusz"
+      },
+      {
+        "club": "PSL",
+        "id": 177,
+        "lastFirstName": "Komorowski Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 181,
+        "lastFirstName": "Korzeniowski Leszek"
+      },
+      {
+        "club": "SLD",
+        "id": 193,
+        "lastFirstName": "Krutczenko Zbigniew"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 194,
+        "lastFirstName": "Krutul Piotr"
+      },
+      {
+        "club": "PO",
+        "id": 475,
+        "lastFirstName": "Krzyworzeka Józef"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 201,
+        "lastFirstName": "Kuropatwiński Lech"
+      },
+      {
+        "club": "niez.",
+        "id": 202,
+        "lastFirstName": "Kurpiewski Stanisław"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 206,
+        "lastFirstName": "Laskowski Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 240,
+        "lastFirstName": "Marzec Czesław"
+      },
+      {
+        "club": "LPR",
+        "id": 241,
+        "lastFirstName": "Masłowska Gabriela"
+      },
+      {
+        "club": "PiS",
+        "id": 243,
+        "lastFirstName": "Mężydło Antoni"
+      },
+      {
+        "club": "SLD",
+        "id": 260,
+        "lastFirstName": "Myler Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 267,
+        "lastFirstName": "Nowak Ryszard"
+      },
+      {
+        "club": "PP",
+        "id": 271,
+        "lastFirstName": "Nowina Konopka Halina"
+      },
+      {
+        "club": "SLD",
+        "id": 281,
+        "lastFirstName": "Osik Wiktor"
+      },
+      {
+        "club": "SG",
+        "id": 295,
+        "lastFirstName": "Pękała Jerzy"
+      },
+      {
+        "club": "PO",
+        "id": 309,
+        "lastFirstName": "Plocke Kazimierz"
+      },
+      {
+        "club": "SDPL",
+        "id": 314,
+        "lastFirstName": "Pogoda Czesław"
+      },
+      {
+        "club": "SLD",
+        "id": 321,
+        "lastFirstName": "Poniźnik Olgierd"
+      },
+      {
+        "club": "PSL",
+        "id": 342,
+        "lastFirstName": "Sawicki Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 349,
+        "lastFirstName": "Skomra Szczepan"
+      },
+      {
+        "club": "SG",
+        "id": 353,
+        "lastFirstName": "Skutecki Józef"
+      },
+      {
+        "club": "PSL",
+        "id": 362,
+        "lastFirstName": "Stanibuła Ryszard"
+      },
+      {
+        "club": "SLD",
+        "id": 373,
+        "lastFirstName": "Suchecki Benedykt"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 374,
+        "lastFirstName": "Sułek Leszek"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 388,
+        "lastFirstName": "Szukała Tadeusz"
+      },
+      {
+        "club": "PO",
+        "id": 406,
+        "lastFirstName": "Tomczykiewicz Tomasz"
+      },
+      {
+        "club": "SLD",
+        "id": 413,
+        "lastFirstName": "Umiński Andrzej"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 430,
+        "lastFirstName": "Wojtkowiak Tadeusz"
+      },
+      {
+        "club": "PSL",
+        "id": 446,
+        "lastFirstName": "Zarzycki Wojciech Szczęsny"
+      }
+    ],
+    "name": "Komisja Rolnictwa i Rozwoju Wsi",
+    "nameGenitive": "Komisji Rolnictwa i Rozwoju Wsi"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "KSP",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 418,
+        "lastFirstName": "Wenderlich Jerzy"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 34,
+        "lastFirstName": "Byra Jan"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 339,
+        "lastFirstName": "Samborski Tadeusz"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 397,
+        "lastFirstName": "Śledzińska-Katarasińska Iwona"
+      },
+      {
+        "club": "SLD",
+        "id": 13,
+        "lastFirstName": "Basta Renata"
+      },
+      {
+        "club": "PSL",
+        "id": 33,
+        "lastFirstName": "Bury Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 46,
+        "lastFirstName": "Cieślak Bronisław"
+      },
+      {
+        "club": "SDPL",
+        "id": 49,
+        "lastFirstName": "Ciruk Barbara"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 52,
+        "lastFirstName": "Czechowski Włodzimierz"
+      },
+      {
+        "club": "SLD",
+        "id": 58,
+        "lastFirstName": "Czykwin Eugeniusz"
+      },
+      {
+        "club": "niez.",
+        "id": 83,
+        "lastFirstName": "Firak Witold"
+      },
+      {
+        "club": "SLD",
+        "id": 86,
+        "lastFirstName": "Gadzinowski Piotr"
+      },
+      {
+        "club": "PP",
+        "id": 106,
+        "lastFirstName": "Grabowski Mariusz Krzysztof"
+      },
+      {
+        "club": "SLD",
+        "id": 133,
+        "lastFirstName": "Jankowska Elżbieta"
+      },
+      {
+        "club": "PiS",
+        "id": 145,
+        "lastFirstName": "Jurek Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 189,
+        "lastFirstName": "Krasoń Janusz"
+      },
+      {
+        "club": "LPR",
+        "id": 286,
+        "lastFirstName": "Papież Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 321,
+        "lastFirstName": "Poniźnik Olgierd"
+      },
+      {
+        "club": "SG",
+        "id": 335,
+        "lastFirstName": "Rutkowski Krzysztof"
+      },
+      {
+        "club": "PiS",
+        "id": 341,
+        "lastFirstName": "Sauk  Jacek"
+      },
+      {
+        "club": "PO",
+        "id": 343,
+        "lastFirstName": "Schetyna Grzegorz"
+      },
+      {
+        "club": "LPR",
+        "id": 356,
+        "lastFirstName": "Sobecka Anna"
+      },
+      {
+        "club": "RKN",
+        "id": 370,
+        "lastFirstName": "Stryjewski Antoni Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 372,
+        "lastFirstName": "Stuligrosz Michał"
+      },
+      {
+        "club": "SLD",
+        "id": 464,
+        "lastFirstName": "Tomczyk Ryszard"
+      },
+      {
+        "club": "PSL",
+        "id": 485,
+        "lastFirstName": "Wesołowski Marian"
+      },
+      {
+        "club": "PiS",
+        "id": 420,
+        "lastFirstName": "Więcławska-Sauk Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 432,
+        "lastFirstName": "Wołowicz Franciszek"
+      },
+      {
+        "club": "SLD",
+        "id": 445,
+        "lastFirstName": "Zarzycki Kazimierz"
+      },
+      {
+        "club": "PO",
+        "id": 451,
+        "lastFirstName": "Zdrojewski Bogdan"
+      }
+    ],
+    "name": "Komisja Kultury i Środków Przekazu",
+    "nameGenitive": "Komisji Kultury i Środków Przekazu"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "OSZ",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "Samoobrona",
+        "function": "przewodniczący",
+        "id": 82,
+        "lastFirstName": "Filipek Krzysztof"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 40,
+        "lastFirstName": "Chojnacki Jan"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 367,
+        "lastFirstName": "Stępień Władysław"
+      },
+      {
+        "club": "PSL",
+        "id": 486,
+        "lastFirstName": "Bugaj Leszek"
+      },
+      {
+        "club": "niez.",
+        "id": 71,
+        "lastFirstName": "Dulias Stanisław"
+      },
+      {
+        "club": "niez.",
+        "id": 83,
+        "lastFirstName": "Firak Witold"
+      },
+      {
+        "club": "SLD",
+        "id": 84,
+        "lastFirstName": "Florek Sebastian"
+      },
+      {
+        "club": "SLD",
+        "id": 461,
+        "lastFirstName": "Grobel-Proszowska Joanna"
+      },
+      {
+        "club": "UP",
+        "id": 115,
+        "lastFirstName": "Gucwińska Hanna"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 188,
+        "lastFirstName": "Krasicka-Domka Zofia"
+      },
+      {
+        "club": "SLD",
+        "id": 193,
+        "lastFirstName": "Krutczenko Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 475,
+        "lastFirstName": "Krzyworzeka Józef"
+      },
+      {
+        "club": "PiS",
+        "id": 198,
+        "lastFirstName": "Kuchciński Marek"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 201,
+        "lastFirstName": "Kuropatwiński Lech"
+      },
+      {
+        "club": "PO",
+        "id": 221,
+        "lastFirstName": "Łukacijewska Elżbieta"
+      },
+      {
+        "club": "PiS",
+        "id": 267,
+        "lastFirstName": "Nowak Ryszard"
+      },
+      {
+        "club": "SLD",
+        "id": 270,
+        "lastFirstName": "Nowicki Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 302,
+        "lastFirstName": "Pijanowska Grażyna"
+      },
+      {
+        "club": "LPR",
+        "id": 478,
+        "lastFirstName": "Ratajczak Elżbieta"
+      },
+      {
+        "club": "PO",
+        "id": 338,
+        "lastFirstName": "Rzymełka Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 344,
+        "lastFirstName": "Senyszyn Joanna"
+      },
+      {
+        "club": "SDPL",
+        "id": 358,
+        "lastFirstName": "Sosnowska Joanna"
+      },
+      {
+        "club": "PiS",
+        "id": 375,
+        "lastFirstName": "Suski Marek"
+      },
+      {
+        "club": "SDPL",
+        "id": 387,
+        "lastFirstName": "Sztwiertnia Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 392,
+        "lastFirstName": "Szwarc Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 398,
+        "lastFirstName": "Śleziak Czesław"
+      },
+      {
+        "club": "PSL",
+        "id": 399,
+        "lastFirstName": "Świętochowski Leszek"
+      },
+      {
+        "club": "SLD",
+        "id": 400,
+        "lastFirstName": "Talaga Halina"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 430,
+        "lastFirstName": "Wojtkowiak Tadeusz"
+      },
+      {
+        "club": "SG",
+        "id": 434,
+        "lastFirstName": "Woś Adam"
+      },
+      {
+        "club": "PSL",
+        "id": 457,
+        "lastFirstName": "Żelichowski Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 459,
+        "lastFirstName": "Żyliński Marek"
+      }
+    ],
+    "name": "Komisja Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa",
+    "nameGenitive": "Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "STR",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 76,
+        "lastFirstName": "Dzikowski Waldy"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 94,
+        "lastFirstName": "Gintowt-Dziewałtowski Witold"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 175,
+        "lastFirstName": "Kochanowski Jan"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 198,
+        "lastFirstName": "Kuchciński Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 474,
+        "lastFirstName": "Borzuchowski Wojciech"
+      },
+      {
+        "club": "PO",
+        "id": 55,
+        "lastFirstName": "Czerwiński Andrzej"
+      },
+      {
+        "club": "RKN",
+        "id": 56,
+        "lastFirstName": "Czerwiński Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 64,
+        "lastFirstName": "Długoborski Wojciech"
+      },
+      {
+        "club": "niez.",
+        "id": 75,
+        "lastFirstName": "Dziewulski Zbigniew"
+      },
+      {
+        "club": "PiS",
+        "id": 77,
+        "lastFirstName": "Falfus Jacek"
+      },
+      {
+        "club": "niez.",
+        "id": 85,
+        "lastFirstName": "Franczak Franciszek"
+      },
+      {
+        "club": "SLD",
+        "id": 88,
+        "lastFirstName": "Gajecka-Bożek Maria"
+      },
+      {
+        "club": "niez.",
+        "id": 118,
+        "lastFirstName": "Hausner Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 136,
+        "lastFirstName": "Janowski Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 164,
+        "lastFirstName": "Kawa Marian"
+      },
+      {
+        "club": "KL",
+        "id": 263,
+        "lastFirstName": "Niewiarowski Ireneusz"
+      },
+      {
+        "club": "PSL",
+        "id": 476,
+        "lastFirstName": "Nowak Stefan"
+      },
+      {
+        "club": "UP",
+        "id": 280,
+        "lastFirstName": "Orkisz Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 340,
+        "lastFirstName": "Sas Kazimierz"
+      },
+      {
+        "club": "SLD",
+        "id": 361,
+        "lastFirstName": "Stachowicz Edmund"
+      },
+      {
+        "club": "PSL",
+        "id": 378,
+        "lastFirstName": "Szczepańczyk Józef"
+      },
+      {
+        "club": "SDPL",
+        "id": 387,
+        "lastFirstName": "Sztwiertnia Jan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 388,
+        "lastFirstName": "Szukała Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 392,
+        "lastFirstName": "Szwarc Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 393,
+        "lastFirstName": "Szymański Jan"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 396,
+        "lastFirstName": "Szyszkowski Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 406,
+        "lastFirstName": "Tomczykiewicz Tomasz"
+      },
+      {
+        "club": "PO",
+        "id": 451,
+        "lastFirstName": "Zdrojewski Bogdan"
+      },
+      {
+        "club": "niez.",
+        "id": 468,
+        "lastFirstName": "Zdrojewski Jacek"
+      }
+    ],
+    "name": "Komisja Samorządu Terytorialnego i Polityki Regionalnej",
+    "nameGenitive": "Komisji Samorządu Terytorialnego i Polityki Regionalnej"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "SUP",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 233,
+        "lastFirstName": "Marcinkiewicz Kazimierz"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 218,
+        "lastFirstName": "Łączny Jan"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 441,
+        "lastFirstName": "Zagórny Rafał"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 449,
+        "lastFirstName": "Zbrzyzny Ryszard"
+      },
+      {
+        "club": "UP",
+        "id": 6,
+        "lastFirstName": "Aumiller Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 17,
+        "lastFirstName": "Blida Barbara"
+      },
+      {
+        "club": "PSL",
+        "id": 27,
+        "lastFirstName": "Bratkowski Arkadiusz"
+      },
+      {
+        "club": "PSL",
+        "id": 33,
+        "lastFirstName": "Bury Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 59,
+        "lastFirstName": "Dankowski Bronisław"
+      },
+      {
+        "club": "niez.",
+        "id": 65,
+        "lastFirstName": "Długosz Henryk"
+      },
+      {
+        "club": "SLD",
+        "id": 73,
+        "lastFirstName": "Dyduch Marek"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 101,
+        "lastFirstName": "Górniak Grzegorz"
+      },
+      {
+        "club": "PO",
+        "id": 107,
+        "lastFirstName": "Grad Aleksander"
+      },
+      {
+        "club": "SLD",
+        "id": 461,
+        "lastFirstName": "Grobel-Proszowska Joanna"
+      },
+      {
+        "club": "niez.",
+        "id": 110,
+        "lastFirstName": "Gruszka Grzegorz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 134,
+        "lastFirstName": "Jankowski Zdzisław"
+      },
+      {
+        "club": "RP",
+        "id": 135,
+        "lastFirstName": "Janowski Gabriel"
+      },
+      {
+        "club": "PiS",
+        "id": 140,
+        "lastFirstName": "Jasiński Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 170,
+        "lastFirstName": "Klimek Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 171,
+        "lastFirstName": "Klukowski Wacław"
+      },
+      {
+        "club": "SLD",
+        "id": 175,
+        "lastFirstName": "Kochanowski Jan"
+      },
+      {
+        "club": "PO",
+        "id": 227,
+        "lastFirstName": "Maćkała Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 301,
+        "lastFirstName": "Pietrzyk Kazimierz"
+      },
+      {
+        "club": "SDPL",
+        "id": 314,
+        "lastFirstName": "Pogoda Czesław"
+      },
+      {
+        "club": "PO",
+        "id": 479,
+        "lastFirstName": "Samborski Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 375,
+        "lastFirstName": "Suski Marek"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 391,
+        "lastFirstName": "Szustak Halina"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 463,
+        "lastFirstName": "Tuderek Grzegorz"
+      },
+      {
+        "club": "SLD",
+        "id": 408,
+        "lastFirstName": "Turkiewicz Michał"
+      },
+      {
+        "club": "SLD",
+        "id": 415,
+        "lastFirstName": "Wagner Marek"
+      },
+      {
+        "club": "niez.",
+        "id": 425,
+        "lastFirstName": "Witaszek Zbigniew"
+      },
+      {
+        "club": "PSL",
+        "id": 427,
+        "lastFirstName": "Woda Wiesław"
+      },
+      {
+        "club": "SLD",
+        "id": 432,
+        "lastFirstName": "Wołowicz Franciszek"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 436,
+        "lastFirstName": "Wójcik Kazimierz"
+      },
+      {
+        "club": "LPR",
+        "id": 437,
+        "lastFirstName": "Wrzodak Zygmunt"
+      },
+      {
+        "club": "SLD",
+        "id": 443,
+        "lastFirstName": "Zając Andrzej"
+      }
+    ],
+    "name": "Komisja Skarbu Państwa",
+    "nameGenitive": "Komisji Skarbu Państwa"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "SPC",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 299,
+        "lastFirstName": "Piekarska Katarzyna Maria"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 265,
+        "lastFirstName": "Nowacka Irena Maria"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 417,
+        "lastFirstName": "Wassermann Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 11,
+        "lastFirstName": "Banaś Magdalena"
+      },
+      {
+        "club": "PSL",
+        "id": 32,
+        "lastFirstName": "Bujak Bolesław"
+      },
+      {
+        "club": "SLD",
+        "id": 46,
+        "lastFirstName": "Cieślak Bronisław"
+      },
+      {
+        "club": "SDPL",
+        "id": 49,
+        "lastFirstName": "Ciruk Barbara"
+      },
+      {
+        "club": "PiS",
+        "id": 99,
+        "lastFirstName": "Gosiewski Przemysław"
+      },
+      {
+        "club": "RKN",
+        "id": 103,
+        "lastFirstName": "Grabicka Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 108,
+        "lastFirstName": "Gramała Aleksandra"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 122,
+        "lastFirstName": "Hojarska Danuta"
+      },
+      {
+        "club": "SLD",
+        "id": 130,
+        "lastFirstName": "Janik Ewa"
+      },
+      {
+        "club": "SLD",
+        "id": 168,
+        "lastFirstName": "Kizińska Bożena"
+      },
+      {
+        "club": "niez.",
+        "id": 179,
+        "lastFirstName": "Kopczyński Bohdan"
+      },
+      {
+        "club": "SLD",
+        "id": 183,
+        "lastFirstName": "Kowalik Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Krzywicki Piotr"
+      },
+      {
+        "club": "UP",
+        "id": 196,
+        "lastFirstName": "Kubica Józef"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 224,
+        "lastFirstName": "Łyżwińska Wanda"
+      },
+      {
+        "club": "PO",
+        "id": 227,
+        "lastFirstName": "Maćkała Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 236,
+        "lastFirstName": "Markiewicz Adam"
+      },
+      {
+        "club": "LPR",
+        "id": 254,
+        "lastFirstName": "Murias Halina"
+      },
+      {
+        "club": "SLD",
+        "id": 262,
+        "lastFirstName": "Namysło Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 268,
+        "lastFirstName": "Nowak Zbigniew"
+      },
+      {
+        "club": "ROP",
+        "id": 278,
+        "lastFirstName": "Olszewski Jan"
+      },
+      {
+        "club": "SDPL",
+        "id": 288,
+        "lastFirstName": "Pasternak Agnieszka"
+      },
+      {
+        "club": "LPR",
+        "id": 478,
+        "lastFirstName": "Ratajczak Elżbieta"
+      },
+      {
+        "club": "PO",
+        "id": 336,
+        "lastFirstName": "Rybicki Sławomir"
+      },
+      {
+        "club": "SLD",
+        "id": 337,
+        "lastFirstName": "Rydzoń Stanisław"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 354,
+        "lastFirstName": "Smolana Piotr"
+      },
+      {
+        "club": "PSL",
+        "id": 360,
+        "lastFirstName": "Sosnowski Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 381,
+        "lastFirstName": "Szejnfeld Adam Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 401,
+        "lastFirstName": "Tober Michał"
+      },
+      {
+        "club": "SLD",
+        "id": 422,
+        "lastFirstName": "Wilczyńska Zofia"
+      },
+      {
+        "club": "PO",
+        "id": 487,
+        "lastFirstName": "Wojciechowicz Jacek"
+      }
+    ],
+    "name": "Komisja Sprawiedliwości i Praw Człowieka",
+    "nameGenitive": "Komisji Sprawiedliwości i Praw Człowieka"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "SZA",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 141,
+        "lastFirstName": "Jaskiernia Jerzy"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 66,
+        "lastFirstName": "Dobrosz Janusz"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 124,
+        "lastFirstName": "Iwiński Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 145,
+        "lastFirstName": "Jurek Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 18,
+        "lastFirstName": "Błaszczyk Bogdan"
+      },
+      {
+        "club": "SDPL",
+        "id": 25,
+        "lastFirstName": "Borowski Marek"
+      },
+      {
+        "club": "PSL",
+        "id": 486,
+        "lastFirstName": "Bugaj Leszek"
+      },
+      {
+        "club": "niez.",
+        "id": 37,
+        "lastFirstName": "Chaładaj Jan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 50,
+        "lastFirstName": "Curyło Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 68,
+        "lastFirstName": "Domaradzki Wojciech"
+      },
+      {
+        "club": "PO",
+        "id": 252,
+        "lastFirstName": "Fogler Marta"
+      },
+      {
+        "club": "SLD",
+        "id": 104,
+        "lastFirstName": "Grabowska Danuta"
+      },
+      {
+        "club": "PO",
+        "id": 109,
+        "lastFirstName": "Graś Paweł"
+      },
+      {
+        "club": "SDPL",
+        "id": 174,
+        "lastFirstName": "Kobielusz Antoni"
+      },
+      {
+        "club": "PO",
+        "id": 176,
+        "lastFirstName": "Komorowski Bronisław"
+      },
+      {
+        "club": "SLD",
+        "id": 184,
+        "lastFirstName": "Kowalska Bronisława"
+      },
+      {
+        "club": "RP",
+        "id": 205,
+        "lastFirstName": "Kwiatkowski Marian"
+      },
+      {
+        "club": "ROP",
+        "id": 210,
+        "lastFirstName": "Lewczuk Henryk"
+      },
+      {
+        "club": "PP",
+        "id": 219,
+        "lastFirstName": "Łopuszański Jan"
+      },
+      {
+        "club": "RKN",
+        "id": 226,
+        "lastFirstName": "Macierewicz Antoni"
+      },
+      {
+        "club": "niez.",
+        "id": 229,
+        "lastFirstName": "Mamiński Tomasz"
+      },
+      {
+        "club": "LPR",
+        "id": 231,
+        "lastFirstName": "Mańka Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 238,
+        "lastFirstName": "Markowski Tomasz"
+      },
+      {
+        "club": "SLD",
+        "id": 247,
+        "lastFirstName": "Miller Leszek"
+      },
+      {
+        "club": "niez.",
+        "id": 269,
+        "lastFirstName": "Nowiak Joanna"
+      },
+      {
+        "club": "SLD",
+        "id": 275,
+        "lastFirstName": "Olejniczak Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 276,
+        "lastFirstName": "Oleksy Józef"
+      },
+      {
+        "club": "niez.",
+        "id": 289,
+        "lastFirstName": "Paturalska Grażyna"
+      },
+      {
+        "club": "PiS",
+        "id": 305,
+        "lastFirstName": "Piłka Marian"
+      },
+      {
+        "club": "PO",
+        "id": 311,
+        "lastFirstName": "Płonka Edward"
+      },
+      {
+        "club": "UP",
+        "id": 316,
+        "lastFirstName": "Pol Marek"
+      },
+      {
+        "club": "PSL",
+        "id": 339,
+        "lastFirstName": "Samborski Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 346,
+        "lastFirstName": "Siemiątkowski Zbigniew"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 354,
+        "lastFirstName": "Smolana Piotr"
+      },
+      {
+        "club": "niez.",
+        "id": 386,
+        "lastFirstName": "Szteliga Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 407,
+        "lastFirstName": "Towalewska Bogusława"
+      },
+      {
+        "club": "SLD",
+        "id": 418,
+        "lastFirstName": "Wenderlich Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 439,
+        "lastFirstName": "Zaborowski Zbyszek"
+      }
+    ],
+    "name": "Komisja Spraw Zagranicznych",
+    "nameGenitive": "Komisji Spraw Zagranicznych"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "UST",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 200,
+        "lastFirstName": "Kurczuk Grzegorz"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 179,
+        "lastFirstName": "Kopczyński Bohdan"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 423,
+        "lastFirstName": "Winiarczyk-Kossakowska Małgorzata"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 455,
+        "lastFirstName": "Ziobro Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 7,
+        "lastFirstName": "Bachalski Dariusz Jacek"
+      },
+      {
+        "club": "SLD",
+        "id": 11,
+        "lastFirstName": "Banaś Magdalena"
+      },
+      {
+        "club": "RKN",
+        "id": 103,
+        "lastFirstName": "Grabicka Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 108,
+        "lastFirstName": "Gramała Aleksandra"
+      },
+      {
+        "club": "LPR",
+        "id": 117,
+        "lastFirstName": "Hatka Witold"
+      },
+      {
+        "club": "SLD",
+        "id": 130,
+        "lastFirstName": "Janik Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 171,
+        "lastFirstName": "Klukowski Wacław"
+      },
+      {
+        "club": "PSL",
+        "id": 172,
+        "lastFirstName": "Kłopotek Eugeniusz"
+      },
+      {
+        "club": "RP",
+        "id": 205,
+        "lastFirstName": "Kwiatkowski Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 220,
+        "lastFirstName": "Łuczak Krystian"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 224,
+        "lastFirstName": "Łyżwińska Wanda"
+      },
+      {
+        "club": "SLD",
+        "id": 236,
+        "lastFirstName": "Markiewicz Adam"
+      },
+      {
+        "club": "PO",
+        "id": 237,
+        "lastFirstName": "Markowiak Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 238,
+        "lastFirstName": "Markowski Tomasz"
+      },
+      {
+        "club": "SDPL",
+        "id": 250,
+        "lastFirstName": "Młynarczyk Jerzy"
+      },
+      {
+        "club": "SG",
+        "id": 257,
+        "lastFirstName": "Musiał Zbigniew"
+      },
+      {
+        "club": "SDPL",
+        "id": 288,
+        "lastFirstName": "Pasternak Agnieszka"
+      },
+      {
+        "club": "PO",
+        "id": 311,
+        "lastFirstName": "Płonka Edward"
+      },
+      {
+        "club": "UP",
+        "id": 315,
+        "lastFirstName": "Pojda Ryszard"
+      },
+      {
+        "club": "SLD",
+        "id": 337,
+        "lastFirstName": "Rydzoń Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 479,
+        "lastFirstName": "Samborski Leszek"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 351,
+        "lastFirstName": "Skowyra Józef"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 401,
+        "lastFirstName": "Tober Michał"
+      },
+      {
+        "club": "SLD",
+        "id": 421,
+        "lastFirstName": "Wikiński Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 426,
+        "lastFirstName": "Wnuk Marcin"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 450,
+        "lastFirstName": "Zbyrowska Maria"
+      }
+    ],
+    "name": "Komisja Ustawodawcza",
+    "nameGenitive": "Komisji Ustawodawczej"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "ZDR",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "UP",
+        "function": "przewodniczący",
+        "id": 20,
+        "lastFirstName": "Błońska-Fajfrowska Barbara"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 88,
+        "lastFirstName": "Gajecka-Bożek Maria"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 382,
+        "lastFirstName": "Szkop Władysław"
+      },
+      {
+        "club": "KL",
+        "function": "zastępca przewodniczącego",
+        "id": 431,
+        "lastFirstName": "Wojtyła Andrzej"
+      },
+      {
+        "club": "PO",
+        "id": 1,
+        "lastFirstName": "Abgarowicz Łukasz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 29,
+        "lastFirstName": "Budner Alfred"
+      },
+      {
+        "club": "PiS",
+        "id": 51,
+        "lastFirstName": "Cymański Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 61,
+        "lastFirstName": "Derech-Krzycki Jakub"
+      },
+      {
+        "club": "SLD",
+        "id": 62,
+        "lastFirstName": "Derwich Bogdan"
+      },
+      {
+        "club": "PO",
+        "id": 481,
+        "lastFirstName": "Duda Jarosław"
+      },
+      {
+        "club": "SLD",
+        "id": 120,
+        "lastFirstName": "Herman Krystyna"
+      },
+      {
+        "club": "SG",
+        "id": 126,
+        "lastFirstName": "Jagiełło Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 131,
+        "lastFirstName": "Janik Ewa Maria"
+      },
+      {
+        "club": "niez.",
+        "id": 137,
+        "lastFirstName": "Jarmoliński Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 178,
+        "lastFirstName": "Kopacz Ewa"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 188,
+        "lastFirstName": "Krasicka-Domka Zofia"
+      },
+      {
+        "club": "SDPL",
+        "id": 199,
+        "lastFirstName": "Kulej Jerzy"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 214,
+        "lastFirstName": "Lis Alicja"
+      },
+      {
+        "club": "SLD",
+        "id": 222,
+        "lastFirstName": "Łuszczyńska Aleksandra"
+      },
+      {
+        "club": "SLD",
+        "id": 245,
+        "lastFirstName": "Michalski Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 265,
+        "lastFirstName": "Nowacka Irena Maria"
+      },
+      {
+        "club": "UP",
+        "id": 285,
+        "lastFirstName": "Owoc Alfred"
+      },
+      {
+        "club": "PiS",
+        "id": 296,
+        "lastFirstName": "Piecha Bolesław"
+      },
+      {
+        "club": "SLD",
+        "id": 306,
+        "lastFirstName": "Piosik Stanisław"
+      },
+      {
+        "club": "PSL",
+        "id": 319,
+        "lastFirstName": "Polański Tadeusz"
+      },
+      {
+        "club": "SDPL",
+        "id": 322,
+        "lastFirstName": "Potępa Maria"
+      },
+      {
+        "club": "PO",
+        "id": 327,
+        "lastFirstName": "Radziszewska Elżbieta"
+      },
+      {
+        "club": "LPR",
+        "id": 473,
+        "lastFirstName": "Sowińska Ewa"
+      },
+      {
+        "club": "PSL",
+        "id": 362,
+        "lastFirstName": "Stanibuła Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 371,
+        "lastFirstName": "Stryjska Małgorzata"
+      },
+      {
+        "club": "PSL",
+        "id": 378,
+        "lastFirstName": "Szczepańczyk Józef"
+      },
+      {
+        "club": "PiS",
+        "id": 469,
+        "lastFirstName": "Szczypińska Jolanta"
+      }
+    ],
+    "name": "Komisja Zdrowia",
+    "nameGenitive": "Komisji Zdrowia"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "KOP",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PiS",
+        "function": "przewodniczący",
+        "id": 69,
+        "lastFirstName": "Dorn Ludwik"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 156,
+        "lastFirstName": "Kałamaga Zdzisław"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 189,
+        "lastFirstName": "Krasoń Janusz"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 307,
+        "lastFirstName": "Piotrowska Teresa"
+      },
+      {
+        "club": "PO",
+        "id": 76,
+        "lastFirstName": "Dzikowski Waldy"
+      },
+      {
+        "club": "PSL",
+        "id": 87,
+        "lastFirstName": "Gajda Tadeusz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 134,
+        "lastFirstName": "Jankowski Zdzisław"
+      },
+      {
+        "club": "SLD",
+        "id": 143,
+        "lastFirstName": "Jedoń Mieczysław"
+      },
+      {
+        "club": "SLD",
+        "id": 152,
+        "lastFirstName": "Kaleniecki Tadeusz"
+      },
+      {
+        "club": "niez.",
+        "id": 217,
+        "lastFirstName": "Łapiński Mariusz"
+      },
+      {
+        "club": "PiS",
+        "id": 235,
+        "lastFirstName": "Marianowska Barbara"
+      },
+      {
+        "club": "niez.",
+        "id": 268,
+        "lastFirstName": "Nowak Zbigniew"
+      },
+      {
+        "club": "UP",
+        "id": 280,
+        "lastFirstName": "Orkisz Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 284,
+        "lastFirstName": "Otręba Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 293,
+        "lastFirstName": "Pęczak Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 325,
+        "lastFirstName": "Prządka Stanisława"
+      },
+      {
+        "club": "SLD",
+        "id": 359,
+        "lastFirstName": "Sosnowski Adam"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 465,
+        "lastFirstName": "Widz Marian"
+      },
+      {
+        "club": "PSL",
+        "id": 457,
+        "lastFirstName": "Żelichowski Stanisław"
+      }
+    ],
+    "name": "Komisja do Spraw Kontroli Państwowej",
+    "nameGenitive": "Komisji do Spraw Kontroli Państwowej"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "KFS",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 70,
+        "lastFirstName": "Drzewiecki Mirosław"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 172,
+        "lastFirstName": "Kłopotek Eugeniusz"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 404,
+        "lastFirstName": "Tomaszewski Tadeusz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 5,
+        "lastFirstName": "Aszkiełowicz Mieczysław"
+      },
+      {
+        "club": "niez.",
+        "id": 22,
+        "lastFirstName": "Bonda Ryszard"
+      },
+      {
+        "club": "PiS",
+        "id": 77,
+        "lastFirstName": "Falfus Jacek"
+      },
+      {
+        "club": "niez.",
+        "id": 110,
+        "lastFirstName": "Gruszka Grzegorz"
+      },
+      {
+        "club": "SDPL",
+        "id": 147,
+        "lastFirstName": "Kaczmarek Michał"
+      },
+      {
+        "club": "PSL",
+        "id": 154,
+        "lastFirstName": "Kalinowski Stanisław"
+      },
+      {
+        "club": "UP",
+        "id": 196,
+        "lastFirstName": "Kubica Józef"
+      },
+      {
+        "club": "SDPL",
+        "id": 199,
+        "lastFirstName": "Kulej Jerzy"
+      },
+      {
+        "club": "PO",
+        "id": 230,
+        "lastFirstName": "Maniura Edward"
+      },
+      {
+        "club": "SLD",
+        "id": 301,
+        "lastFirstName": "Pietrzyk Kazimierz"
+      },
+      {
+        "club": "SLD",
+        "id": 329,
+        "lastFirstName": "Ratman Zygmunt"
+      },
+      {
+        "club": "PiS",
+        "id": 385,
+        "lastFirstName": "Szrajber Bartłomiej"
+      },
+      {
+        "club": "niez.",
+        "id": 425,
+        "lastFirstName": "Witaszek Zbigniew"
+      },
+      {
+        "club": "KL",
+        "id": 431,
+        "lastFirstName": "Wojtyła Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 433,
+        "lastFirstName": "Wontor Bogusław"
+      },
+      {
+        "club": "LPR",
+        "id": 440,
+        "lastFirstName": "Zadora Stanisław"
+      },
+      {
+        "club": "SG",
+        "id": 454,
+        "lastFirstName": "Zielonka Lech"
+      }
+    ],
+    "name": "Komisja Kultury Fizycznej i Sportu",
+    "nameGenitive": "Komisji Kultury Fizycznej i Sportu"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "LPG",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "LPR",
+        "function": "przewodniczący",
+        "id": 92,
+        "lastFirstName": "Giertych Roman"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 67,
+        "lastFirstName": "Dolniak Grzegorz"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 174,
+        "lastFirstName": "Kobielusz Antoni"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 365,
+        "lastFirstName": "Stefaniuk Franciszek Jerzy"
+      },
+      {
+        "club": "SDPL",
+        "id": 2,
+        "lastFirstName": "Ajchler Romuald"
+      },
+      {
+        "club": "SDPL",
+        "id": 34,
+        "lastFirstName": "Byra Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 74,
+        "lastFirstName": "Dziewulski Jerzy"
+      },
+      {
+        "club": "RP",
+        "id": 96,
+        "lastFirstName": "Głębocki Stanisław"
+      },
+      {
+        "club": "niez.",
+        "id": 127,
+        "lastFirstName": "Jakubowska Aleksandra"
+      },
+      {
+        "club": "SLD",
+        "id": 133,
+        "lastFirstName": "Jankowska Elżbieta"
+      },
+      {
+        "club": "PiS",
+        "id": 157,
+        "lastFirstName": "Kamiński Mariusz"
+      },
+      {
+        "club": "niez.",
+        "id": 166,
+        "lastFirstName": "Kędra Ryszard"
+      },
+      {
+        "club": "UP",
+        "id": 187,
+        "lastFirstName": "Kralkowska Ewa"
+      },
+      {
+        "club": "PiS",
+        "id": 213,
+        "lastFirstName": "Lipiński Adam"
+      },
+      {
+        "club": "PSL",
+        "id": 290,
+        "lastFirstName": "Pawlak Mirosław"
+      },
+      {
+        "club": "SLD",
+        "id": 304,
+        "lastFirstName": "Piłat Andrzej"
+      },
+      {
+        "club": "SDPL",
+        "id": 322,
+        "lastFirstName": "Potępa Maria"
+      },
+      {
+        "club": "PO",
+        "id": 327,
+        "lastFirstName": "Radziszewska Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 357,
+        "lastFirstName": "Sobotka Zbigniew"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 414,
+        "lastFirstName": "Urban Tadeusz"
+      }
+    ],
+    "name": "Komisja Łączności z Polakami za Granicą",
+    "nameGenitive": "Komisji Łączności z Polakami za Granicą"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "MNE",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "Samoobrona",
+        "function": "przewodniczący",
+        "id": 424,
+        "lastFirstName": "Wiśniowska Genowefa"
+      },
+      {
+        "club": "RKN",
+        "function": "zastępca przewodniczącego",
+        "id": 56,
+        "lastFirstName": "Czerwiński Jerzy"
+      },
+      {
+        "club": "SG",
+        "function": "zastępca przewodniczącego",
+        "id": 215,
+        "lastFirstName": "Lisak Janusz"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 386,
+        "lastFirstName": "Szteliga Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 14,
+        "lastFirstName": "Baszczyński Krzysztof"
+      },
+      {
+        "club": "PSL",
+        "id": 27,
+        "lastFirstName": "Bratkowski Arkadiusz"
+      },
+      {
+        "club": "SLD",
+        "id": 58,
+        "lastFirstName": "Czykwin Eugeniusz"
+      },
+      {
+        "club": "SLD",
+        "id": 132,
+        "lastFirstName": "Janik Krzysztof"
+      },
+      {
+        "club": "PO",
+        "id": 138,
+        "lastFirstName": "Jarmuziewicz Tadeusz"
+      },
+      {
+        "club": "SLD",
+        "id": 164,
+        "lastFirstName": "Kawa Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 184,
+        "lastFirstName": "Kowalska Bronisława"
+      },
+      {
+        "club": "niez.",
+        "id": 190,
+        "lastFirstName": "Kroll Henryk"
+      },
+      {
+        "club": "PiS",
+        "id": 213,
+        "lastFirstName": "Lipiński Adam"
+      },
+      {
+        "club": "KL",
+        "id": 331,
+        "lastFirstName": "Rohde Małgorzata"
+      },
+      {
+        "club": "PO",
+        "id": 338,
+        "lastFirstName": "Rzymełka Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 357,
+        "lastFirstName": "Sobotka Zbigniew"
+      },
+      {
+        "club": "niez.",
+        "id": 395,
+        "lastFirstName": "Szynalska Renata"
+      },
+      {
+        "club": "LPR",
+        "id": 410,
+        "lastFirstName": "Tyma Zenon"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 466,
+        "lastFirstName": "Wiśniowiecka Maria"
+      }
+    ],
+    "name": "Komisja Mniejszości Narodowych i Etnicznych",
+    "nameGenitive": "Komisji Mniejszości Narodowych i Etnicznych"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "OBN",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SDPL",
+        "function": "przewodniczący",
+        "id": 128,
+        "lastFirstName": "Janas Stanisław"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 176,
+        "lastFirstName": "Komorowski Bronisław"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 258,
+        "lastFirstName": "Muszyński Marek"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 348,
+        "lastFirstName": "Sierakowska Izabella"
+      },
+      {
+        "club": "SLD",
+        "id": 26,
+        "lastFirstName": "Brachmański Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 75,
+        "lastFirstName": "Dziewulski Zbigniew"
+      },
+      {
+        "club": "PSL",
+        "id": 87,
+        "lastFirstName": "Gajda Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 99,
+        "lastFirstName": "Gosiewski Przemysław"
+      },
+      {
+        "club": "PO",
+        "id": 109,
+        "lastFirstName": "Graś Paweł"
+      },
+      {
+        "club": "UP",
+        "id": 115,
+        "lastFirstName": "Gucwińska Hanna"
+      },
+      {
+        "club": "LPR",
+        "id": 472,
+        "lastFirstName": "Jacyna-Onyszkiewicz Zbigniew"
+      },
+      {
+        "club": "niez.",
+        "id": 127,
+        "lastFirstName": "Jakubowska Aleksandra"
+      },
+      {
+        "club": "SLD",
+        "id": 152,
+        "lastFirstName": "Kaleniecki Tadeusz"
+      },
+      {
+        "club": "PSL",
+        "id": 154,
+        "lastFirstName": "Kalinowski Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 159,
+        "lastFirstName": "Kaniewski Zbigniew"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 206,
+        "lastFirstName": "Laskowski Józef"
+      },
+      {
+        "club": "PO",
+        "id": 484,
+        "lastFirstName": "Nowak Sławomir"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 279,
+        "lastFirstName": "Ołdakowski Adam"
+      },
+      {
+        "club": "SLD",
+        "id": 334,
+        "lastFirstName": "Różański Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 347,
+        "lastFirstName": "Sieńko Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 435,
+        "lastFirstName": "Woźny Grzegorz"
+      },
+      {
+        "club": "SLD",
+        "id": 439,
+        "lastFirstName": "Zaborowski Zbyszek"
+      }
+    ],
+    "name": "Komisja Obrony Narodowej",
+    "nameGenitive": "Komisji Obrony Narodowej"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "ODK",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PSL",
+        "function": "przewodniczący",
+        "id": 456,
+        "lastFirstName": "Zych Józef"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 259,
+        "lastFirstName": "Müller Jerzy"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 372,
+        "lastFirstName": "Stuligrosz Michał"
+      },
+      {
+        "club": "SLD",
+        "id": 13,
+        "lastFirstName": "Basta Renata"
+      },
+      {
+        "club": "SLD",
+        "id": 41,
+        "lastFirstName": "Chrzanowski Kazimierz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 50,
+        "lastFirstName": "Curyło Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 73,
+        "lastFirstName": "Dyduch Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 90,
+        "lastFirstName": "Gawłowski Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 97,
+        "lastFirstName": "Głowa Józef"
+      },
+      {
+        "club": "LPR",
+        "id": 182,
+        "lastFirstName": "Kotlinowski Marek"
+      },
+      {
+        "club": "PSL",
+        "id": 197,
+        "lastFirstName": "Kubik Jan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 207,
+        "lastFirstName": "Lepper Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 255,
+        "lastFirstName": "Murynowicz Alicja"
+      },
+      {
+        "club": "PO",
+        "id": 274,
+        "lastFirstName": "Olechowska Alicja"
+      },
+      {
+        "club": "SLD",
+        "id": 284,
+        "lastFirstName": "Otręba Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 310,
+        "lastFirstName": "Płażyński Maciej"
+      },
+      {
+        "club": "PiS",
+        "id": 379,
+        "lastFirstName": "Szczygło Aleksander"
+      }
+    ],
+    "name": "Komisja Odpowiedzialności Konstytucyjnej",
+    "nameGenitive": "Komisji Odpowiedzialności Konstytucyjnej"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "RSP",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 239,
+        "lastFirstName": "Martyniuk Wacław"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 43,
+        "lastFirstName": "Ciborowska Danuta"
+      },
+      {
+        "club": "KL",
+        "function": "zastępca przewodniczącego",
+        "id": 273,
+        "lastFirstName": "Oksiuta Krzysztof"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 368,
+        "lastFirstName": "Strąk Robert"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 15,
+        "lastFirstName": "Beger Renata"
+      },
+      {
+        "club": "PO",
+        "id": 30,
+        "lastFirstName": "Budnik Jerzy Feliks"
+      },
+      {
+        "club": "PSL",
+        "id": 47,
+        "lastFirstName": "Cieślak Czesław"
+      },
+      {
+        "club": "PSL",
+        "id": 471,
+        "lastFirstName": "Dziuba Maria"
+      },
+      {
+        "club": "RP",
+        "id": 96,
+        "lastFirstName": "Głębocki Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 173,
+        "lastFirstName": "Knapik Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 185,
+        "lastFirstName": "Kozłowska Bożena"
+      },
+      {
+        "club": "PiS",
+        "id": 246,
+        "lastFirstName": "Mierzejewska Hanna"
+      },
+      {
+        "club": "PO",
+        "id": 484,
+        "lastFirstName": "Nowak Sławomir"
+      },
+      {
+        "club": "PiS",
+        "id": 305,
+        "lastFirstName": "Piłka Marian"
+      },
+      {
+        "club": "UP",
+        "id": 318,
+        "lastFirstName": "Polak Danuta"
+      },
+      {
+        "club": "SLD",
+        "id": 352,
+        "lastFirstName": "Skrzyński Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 384,
+        "lastFirstName": "Szparaga Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 419,
+        "lastFirstName": "Widuch Marek"
+      }
+    ],
+    "name": "Komisja Regulaminowa i Spraw Poselskich",
+    "nameGenitive": "Komisji Regulaminowej i Spraw Poselskich"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "KSS",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 248,
+        "lastFirstName": "Miodowicz Konstanty"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 113,
+        "lastFirstName": "Grzesik Andrzej"
+      },
+      {
+        "club": "UP",
+        "id": 129,
+        "lastFirstName": "Janicki Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 334,
+        "lastFirstName": "Różański Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 347,
+        "lastFirstName": "Sieńko Jan"
+      },
+      {
+        "club": "PSL",
+        "id": 360,
+        "lastFirstName": "Sosnowski Zbigniew"
+      },
+      {
+        "club": "LPR",
+        "id": 368,
+        "lastFirstName": "Strąk Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 417,
+        "lastFirstName": "Wassermann Zbigniew"
+      }
+    ],
+    "name": "Komisja do Spraw Służb Specjalnych",
+    "nameGenitive": "Komisji do Spraw Służb Specjalnych"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "EPS",
+    "compositionDate": "2001-12-05",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 336,
+        "lastFirstName": "Rybicki Sławomir"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 256,
+        "lastFirstName": "Murzyn Leszek"
+      },
+      {
+        "club": "UP",
+        "id": 20,
+        "lastFirstName": "Błońska-Fajfrowska Barbara"
+      },
+      {
+        "club": "PiS",
+        "id": 149,
+        "lastFirstName": "Kaczyński Jarosław"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 283,
+        "lastFirstName": "Ostrowski Henryk"
+      },
+      {
+        "club": "SLD",
+        "id": 300,
+        "lastFirstName": "Piela-Mielczarek Elżbieta"
+      },
+      {
+        "club": "PSL",
+        "id": 365,
+        "lastFirstName": "Stefaniuk Franciszek Jerzy"
+      }
+    ],
+    "name": "Komisja Etyki Poselskiej",
+    "nameGenitive": "Komisji Etyki Poselskiej"
+  },
+  {
+    "appointmentDate": "2001-10-23",
+    "code": "EUR",
+    "compositionDate": "2001-10-23",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 53,
+        "lastFirstName": "Czepułkowski Jerzy"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 36,
+        "lastFirstName": "Cepil Józef"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 114,
+        "lastFirstName": "Grzyb Andrzej"
+      },
+      {
+        "club": "PBL",
+        "function": "zastępca przewodniczącego",
+        "id": 171,
+        "lastFirstName": "Klukowski Wacław"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 182,
+        "lastFirstName": "Kotlinowski Marek"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 379,
+        "lastFirstName": "Szczygło Aleksander"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 387,
+        "lastFirstName": "Sztwiertnia Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 44,
+        "lastFirstName": "Ciemniak Grażyna"
+      },
+      {
+        "club": "SLD",
+        "id": 57,
+        "lastFirstName": "Czuż Aleksander"
+      },
+      {
+        "club": "SLD",
+        "id": 62,
+        "lastFirstName": "Derwich Bogdan"
+      },
+      {
+        "club": "niez.",
+        "id": 71,
+        "lastFirstName": "Dulias Stanisław"
+      },
+      {
+        "club": "PO",
+        "id": 252,
+        "lastFirstName": "Fogler Marta"
+      },
+      {
+        "club": "SLD",
+        "id": 86,
+        "lastFirstName": "Gadzinowski Piotr"
+      },
+      {
+        "club": "SLD",
+        "id": 90,
+        "lastFirstName": "Gawłowski Andrzej"
+      },
+      {
+        "club": "LPR",
+        "id": 92,
+        "lastFirstName": "Giertych Roman"
+      },
+      {
+        "club": "PO",
+        "id": 98,
+        "lastFirstName": "Gorczyca Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 112,
+        "lastFirstName": "Grzebisz-Nowicka Zofia"
+      },
+      {
+        "club": "PLD",
+        "id": 125,
+        "lastFirstName": "Jagieliński Roman"
+      },
+      {
+        "club": "niez.",
+        "id": 135,
+        "lastFirstName": "Janowski Gabriel"
+      },
+      {
+        "club": "PSL",
+        "id": 151,
+        "lastFirstName": "Kalemba Stanisław"
+      },
+      {
+        "club": "SDPL",
+        "id": 163,
+        "lastFirstName": "Kasznia Arkadiusz"
+      },
+      {
+        "club": "SLD",
+        "id": 183,
+        "lastFirstName": "Kowalik Jacek"
+      },
+      {
+        "club": "niez.",
+        "id": 190,
+        "lastFirstName": "Kroll Henryk"
+      },
+      {
+        "club": "PiS",
+        "id": 191,
+        "lastFirstName": "Kruk Elżbieta"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 194,
+        "lastFirstName": "Krutul Piotr"
+      },
+      {
+        "club": "RKN",
+        "id": 216,
+        "lastFirstName": "Luśnia Robert"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 218,
+        "lastFirstName": "Łączny Jan"
+      },
+      {
+        "club": "RKN",
+        "id": 226,
+        "lastFirstName": "Macierewicz Antoni"
+      },
+      {
+        "club": "PO",
+        "id": 237,
+        "lastFirstName": "Markowiak Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 240,
+        "lastFirstName": "Marzec Czesław"
+      },
+      {
+        "club": "SLD",
+        "id": 245,
+        "lastFirstName": "Michalski Jerzy"
+      },
+      {
+        "club": "PBL",
+        "id": 251,
+        "lastFirstName": "Mojzesowicz Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 262,
+        "lastFirstName": "Namysło Andrzej"
+      },
+      {
+        "club": "UP",
+        "id": 280,
+        "lastFirstName": "Orkisz Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 320,
+        "lastFirstName": "Poncyljusz Paweł"
+      },
+      {
+        "club": "SLD",
+        "id": 325,
+        "lastFirstName": "Prządka Stanisława"
+      },
+      {
+        "club": "SDPL",
+        "id": 326,
+        "lastFirstName": "Pusz Sylwia"
+      },
+      {
+        "club": "SKL",
+        "id": 331,
+        "lastFirstName": "Rohde Małgorzata"
+      },
+      {
+        "club": "SLD",
+        "id": 355,
+        "lastFirstName": "Smoleń Robert"
+      },
+      {
+        "club": "SDPL",
+        "id": 369,
+        "lastFirstName": "Stryjak Cezary"
+      },
+      {
+        "club": "SLD",
+        "id": 463,
+        "lastFirstName": "Tuderek Grzegorz"
+      },
+      {
+        "club": "SLD",
+        "id": 419,
+        "lastFirstName": "Widuch Marek"
+      },
+      {
+        "club": "PLD",
+        "id": 434,
+        "lastFirstName": "Woś Adam"
+      },
+      {
+        "club": "PO",
+        "id": 444,
+        "lastFirstName": "Zaremba Krzysztof"
+      },
+      {
+        "club": "SLD",
+        "id": 445,
+        "lastFirstName": "Zarzycki Kazimierz"
+      },
+      {
+        "club": "PSL",
+        "id": 446,
+        "lastFirstName": "Zarzycki Wojciech Szczęsny"
+      },
+      {
+        "club": "SLD",
+        "id": 449,
+        "lastFirstName": "Zbrzyzny Ryszard"
+      },
+      {
+        "club": "PSL",
+        "id": 457,
+        "lastFirstName": "Żelichowski Stanisław"
+      }
+    ],
+    "name": "Komisja Europejska",
+    "nameGenitive": "Komisji Europejskiej"
+  },
+  {
+    "appointmentDate": "2001-11-13",
+    "code": "NSN",
+    "compositionDate": "2001-11-13",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 119,
+        "lastFirstName": "Hayn Ryszard"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 237,
+        "lastFirstName": "Markowiak Andrzej"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 355,
+        "lastFirstName": "Smoleń Robert"
+      },
+      {
+        "club": "niez.",
+        "id": 39,
+        "lastFirstName": "Chodynicki Ryszard",
+        "mandateExpired": "2004-10-04"
+      },
+      {
+        "club": "SLD",
+        "id": 41,
+        "lastFirstName": "Chrzanowski Kazimierz"
+      },
+      {
+        "club": "PO",
+        "id": 89,
+        "lastFirstName": "Gałażewski Andrzej"
+      },
+      {
+        "club": "KN",
+        "id": 103,
+        "lastFirstName": "Grabicka Krystyna"
+      },
+      {
+        "club": "UP",
+        "id": 129,
+        "lastFirstName": "Janicki Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 164,
+        "lastFirstName": "Kawa Marian"
+      },
+      {
+        "club": "LPR",
+        "id": 166,
+        "lastFirstName": "Kędra Ryszard"
+      },
+      {
+        "club": "SLD",
+        "id": 175,
+        "lastFirstName": "Kochanowski Jan"
+      },
+      {
+        "club": "PO",
+        "id": 176,
+        "lastFirstName": "Komorowski Bronisław"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Krzywicki Piotr"
+      },
+      {
+        "club": "SLD",
+        "id": 202,
+        "lastFirstName": "Kurpiewski Stanisław"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 279,
+        "lastFirstName": "Ołdakowski Adam"
+      },
+      {
+        "club": "PSL",
+        "id": 291,
+        "lastFirstName": "Pawlak Waldemar"
+      },
+      {
+        "club": "SLD",
+        "id": 325,
+        "lastFirstName": "Prządka Stanisława"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 374,
+        "lastFirstName": "Sułek Leszek"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "PSL",
+        "id": 427,
+        "lastFirstName": "Woda Wiesław"
+      },
+      {
+        "club": "SLD",
+        "id": 439,
+        "lastFirstName": "Zaborowski Zbyszek"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia projektów ustaw dotyczących stanów nadzwyczajnych",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw dotyczących stanów nadzwyczajnych"
+  },
+  {
+    "appointmentDate": "2002-01-17",
+    "code": "NKK",
+    "compositionDate": "2002-01-17",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 102,
+        "lastFirstName": "Grabarczyk Cezary"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 250,
+        "lastFirstName": "Młynarczyk Jerzy"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 288,
+        "lastFirstName": "Pasternak Agnieszka"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 421,
+        "lastFirstName": "Wikiński Marek"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 455,
+        "lastFirstName": "Ziobro Zbigniew"
+      },
+      {
+        "club": "PSL",
+        "id": 33,
+        "lastFirstName": "Bury Jan"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 122,
+        "lastFirstName": "Hojarska Danuta"
+      },
+      {
+        "club": "SLD",
+        "id": 130,
+        "lastFirstName": "Janik Ewa"
+      },
+      {
+        "club": "niez.",
+        "id": 179,
+        "lastFirstName": "Kopczyński Bohdan"
+      },
+      {
+        "club": "PiS",
+        "id": 195,
+        "lastFirstName": "Krzywicki Piotr"
+      },
+      {
+        "club": "RP",
+        "id": 205,
+        "lastFirstName": "Kwiatkowski Marian"
+      },
+      {
+        "club": "SDPL",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "SLD",
+        "id": 299,
+        "lastFirstName": "Piekarska Katarzyna Maria"
+      },
+      {
+        "club": "PO",
+        "id": 336,
+        "lastFirstName": "Rybicki Sławomir"
+      },
+      {
+        "club": "SLD",
+        "id": 337,
+        "lastFirstName": "Rydzoń Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 401,
+        "lastFirstName": "Tober Michał"
+      },
+      {
+        "club": "SDPL",
+        "id": 423,
+        "lastFirstName": "Winiarczyk-Kossakowska Małgorzata"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do spraw zmian w kodyfikacjach",
+    "nameGenitive": "Komisji Nadzwyczajnej do spraw zmian w kodyfikacjach"
+  },
+  {
+    "appointmentDate": "2002-03-15",
+    "code": "NAW",
+    "compositionDate": "2002-03-15",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 200,
+        "lastFirstName": "Kurczuk Grzegorz"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 111,
+        "lastFirstName": "Gruszka Józef"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 234,
+        "lastFirstName": "Marczewski Marian"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 417,
+        "lastFirstName": "Wassermann Zbigniew"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 24,
+        "lastFirstName": "Borczyk Waldemar"
+      },
+      {
+        "club": "SLD",
+        "id": 26,
+        "lastFirstName": "Brachmański Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 31,
+        "lastFirstName": "Bujak Bogdan"
+      },
+      {
+        "club": "SLD",
+        "id": 46,
+        "lastFirstName": "Cieślak Bronisław"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 75,
+        "lastFirstName": "Dziewulski Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 109,
+        "lastFirstName": "Graś Paweł"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 113,
+        "lastFirstName": "Grzesik Andrzej"
+      },
+      {
+        "club": "UP",
+        "id": 129,
+        "lastFirstName": "Janicki Marian"
+      },
+      {
+        "club": "SLD",
+        "id": 156,
+        "lastFirstName": "Kałamaga Zdzisław"
+      },
+      {
+        "club": "PiS",
+        "id": 157,
+        "lastFirstName": "Kamiński Mariusz"
+      },
+      {
+        "club": "SLD",
+        "id": 163,
+        "lastFirstName": "Kasznia Arkadiusz"
+      },
+      {
+        "club": "PO",
+        "id": 169,
+        "lastFirstName": "Klich Bogdan",
+        "mandateExpired": "2004-06-16"
+      },
+      {
+        "club": "PO",
+        "id": 176,
+        "lastFirstName": "Komorowski Bronisław"
+      },
+      {
+        "club": "SLD",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "LPR",
+        "id": 226,
+        "lastFirstName": "Macierewicz Antoni"
+      },
+      {
+        "club": "SLD",
+        "id": 236,
+        "lastFirstName": "Markiewicz Adam"
+      },
+      {
+        "club": "PO",
+        "id": 248,
+        "lastFirstName": "Miodowicz Konstanty"
+      },
+      {
+        "club": "SLD",
+        "id": 270,
+        "lastFirstName": "Nowicki Józef"
+      },
+      {
+        "club": "PSL",
+        "id": 291,
+        "lastFirstName": "Pawlak Waldemar"
+      },
+      {
+        "club": "SLD",
+        "id": 347,
+        "lastFirstName": "Sieńko Jan"
+      },
+      {
+        "club": "LPR",
+        "id": 368,
+        "lastFirstName": "Strąk Robert"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 423,
+        "lastFirstName": "Winiarczyk-Kossakowska Małgorzata"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia rządowego projektu ustawy o Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz zmianie niektórych ustaw",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia rządowego projektu ustawy o Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz zmianie niektórych ustaw"
+  },
+  {
+    "appointmentDate": "2002-04-05",
+    "code": "NPR",
+    "compositionDate": "2002-04-05",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 131,
+        "lastFirstName": "Janik Ewa Maria"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 15,
+        "lastFirstName": "Beger Renata"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 342,
+        "lastFirstName": "Sawicki Marek"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 380,
+        "lastFirstName": "Szczypiński Tomasz"
+      },
+      {
+        "club": "SLD",
+        "id": 19,
+        "lastFirstName": "Błochowiak Anita"
+      },
+      {
+        "club": "PO",
+        "id": 38,
+        "lastFirstName": "Chlebowski Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 40,
+        "lastFirstName": "Chojnacki Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 63,
+        "lastFirstName": "Diakonow Andrzej"
+      },
+      {
+        "club": "niez.",
+        "id": 71,
+        "lastFirstName": "Dulias Stanisław"
+      },
+      {
+        "club": "PiS",
+        "id": 140,
+        "lastFirstName": "Jasiński Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 143,
+        "lastFirstName": "Jedoń Mieczysław"
+      },
+      {
+        "club": "SDPL",
+        "id": 162,
+        "lastFirstName": "Kasprzyk Jacek"
+      },
+      {
+        "club": "SLD",
+        "id": 170,
+        "lastFirstName": "Klimek Jan"
+      },
+      {
+        "club": "PSL",
+        "id": 197,
+        "lastFirstName": "Kubik Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 262,
+        "lastFirstName": "Namysło Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 272,
+        "lastFirstName": "Okoński Wiesław"
+      },
+      {
+        "club": "PO",
+        "id": 274,
+        "lastFirstName": "Olechowska Alicja"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 279,
+        "lastFirstName": "Ołdakowski Adam"
+      },
+      {
+        "club": "SLD",
+        "id": 300,
+        "lastFirstName": "Piela-Mielczarek Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 329,
+        "lastFirstName": "Ratman Zygmunt"
+      },
+      {
+        "club": "PO",
+        "id": 406,
+        "lastFirstName": "Tomczykiewicz Tomasz"
+      },
+      {
+        "club": "SLD",
+        "id": 435,
+        "lastFirstName": "Woźny Grzegorz"
+      },
+      {
+        "club": "PiS",
+        "id": 447,
+        "lastFirstName": "Zawisza Artur"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia projektów ustaw związanych z programem rządowym \"Przedsiębiorczość - Rozwój - Praca\"",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw związanych z programem rządowym \"Przedsiębiorczość - Rozwój - Praca\""
+  },
+  {
+    "appointmentDate": "2002-10-11",
+    "code": "NWI",
+    "compositionDate": "2002-10-11",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 111,
+        "lastFirstName": "Gruszka Józef"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 234,
+        "lastFirstName": "Marczewski Marian"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 417,
+        "lastFirstName": "Wassermann Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 26,
+        "lastFirstName": "Brachmański Andrzej"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 75,
+        "lastFirstName": "Dziewulski Zbigniew"
+      },
+      {
+        "club": "PO",
+        "id": 109,
+        "lastFirstName": "Graś Paweł"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 113,
+        "lastFirstName": "Grzesik Andrzej"
+      },
+      {
+        "club": "UP",
+        "id": 129,
+        "lastFirstName": "Janicki Marian"
+      },
+      {
+        "club": "PSL",
+        "id": 154,
+        "lastFirstName": "Kalinowski Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 156,
+        "lastFirstName": "Kałamaga Zdzisław"
+      },
+      {
+        "club": "SLD",
+        "id": 163,
+        "lastFirstName": "Kasznia Arkadiusz"
+      },
+      {
+        "club": "niez.",
+        "id": 179,
+        "lastFirstName": "Kopczyński Bohdan"
+      },
+      {
+        "club": "SLD",
+        "id": 236,
+        "lastFirstName": "Markiewicz Adam"
+      },
+      {
+        "club": "PO",
+        "id": 248,
+        "lastFirstName": "Miodowicz Konstanty"
+      },
+      {
+        "club": "SLD",
+        "id": 347,
+        "lastFirstName": "Sieńko Jan"
+      },
+      {
+        "club": "PiS",
+        "id": 376,
+        "lastFirstName": "Szarama Wojciech"
+      },
+      {
+        "club": "SLD",
+        "id": 439,
+        "lastFirstName": "Zaborowski Zbyszek"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia rządowego projektu ustawy o Wojskowych Służbach Informacyjnych",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia rządowego projektu ustawy o Wojskowych Służbach Informacyjnych"
+  },
+  {
+    "appointmentDate": "2002-11-13",
+    "code": "NZR",
+    "compositionDate": "2002-11-13",
+    "members": [
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 365,
+        "lastFirstName": "Stefaniuk Franciszek Jerzy"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 424,
+        "lastFirstName": "Wiśniowska Genowefa"
+      },
+      {
+        "club": "SLD",
+        "id": 11,
+        "lastFirstName": "Banaś Magdalena"
+      },
+      {
+        "club": "SLD",
+        "id": 43,
+        "lastFirstName": "Ciborowska Danuta"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 82,
+        "lastFirstName": "Filipek Krzysztof"
+      },
+      {
+        "club": "LPR",
+        "id": 92,
+        "lastFirstName": "Giertych Roman"
+      },
+      {
+        "club": "PiS",
+        "id": 99,
+        "lastFirstName": "Gosiewski Przemysław"
+      },
+      {
+        "club": "PO",
+        "id": 102,
+        "lastFirstName": "Grabarczyk Cezary"
+      },
+      {
+        "club": "SLD",
+        "id": 142,
+        "lastFirstName": "Jasztal Teresa"
+      },
+      {
+        "club": "SLD",
+        "id": 173,
+        "lastFirstName": "Knapik Jan"
+      },
+      {
+        "club": "niez.",
+        "id": 179,
+        "lastFirstName": "Kopczyński Bohdan"
+      },
+      {
+        "club": "SLD",
+        "id": 185,
+        "lastFirstName": "Kozłowska Bożena"
+      },
+      {
+        "club": "PiS",
+        "id": 233,
+        "lastFirstName": "Marcinkiewicz Kazimierz"
+      },
+      {
+        "club": "PO",
+        "id": 350,
+        "lastFirstName": "Skowrońska Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 352,
+        "lastFirstName": "Skrzyński Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 384,
+        "lastFirstName": "Szparaga Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 419,
+        "lastFirstName": "Widuch Marek"
+      },
+      {
+        "club": "SDPL",
+        "id": 423,
+        "lastFirstName": "Winiarczyk-Kossakowska Małgorzata"
+      },
+      {
+        "club": "PSL",
+        "id": 427,
+        "lastFirstName": "Woda Wiesław"
+      },
+      {
+        "club": "niez.",
+        "id": 468,
+        "lastFirstName": "Zdrojewski Jacek"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do spraw zmian w Regulaminie Sejmu Rzeczypospolitej Polskiej",
+    "nameGenitive": "Komisji Nadzwyczajnej do spraw zmian w Regulaminie Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+    "appointmentDate": "2003-01-10",
+    "code": "SRTV",
+    "compositionDate": "2003-01-10",
+    "members": [
+      {
+        "club": "SDPL",
+        "function": "przewodniczący",
+        "id": 261,
+        "lastFirstName": "Nałęcz Tomasz"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 179,
+        "lastFirstName": "Kopczyński Bohdan"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "SLD",
+        "id": 19,
+        "lastFirstName": "Błochowiak Anita"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 218,
+        "lastFirstName": "Łączny Jan"
+      },
+      {
+        "club": "PO",
+        "id": 332,
+        "lastFirstName": "Rokita Jan"
+      },
+      {
+        "club": "SLD",
+        "id": 337,
+        "lastFirstName": "Rydzoń Stanisław"
+      },
+      {
+        "club": "PSL",
+        "id": 378,
+        "lastFirstName": "Szczepańczyk Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 386,
+        "lastFirstName": "Szteliga Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 455,
+        "lastFirstName": "Ziobro Zbigniew"
+      }
+    ],
+    "name": "Komisja Śledcza do zbadania ujawnionych w mediach zarzutów dotyczących przypadków korupcji podczas prac nad nowelizacją ustawy o radiofonii i telewizji",
+    "nameGenitive": "Komisji Śledczej do zbadania ujawnionych w mediach zarzutów dotyczących przypadków korupcji podczas prac nad nowelizacją ustawy o radiofonii i telewizji"
+  },
+  {
+    "appointmentDate": "2003-09-12",
+    "code": "NIF",
+    "compositionDate": "2003-09-12",
+    "members": [
+      {
+        "club": "SDPL",
+        "function": "przewodniczący",
+        "id": 174,
+        "lastFirstName": "Kobielusz Antoni"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 138,
+        "lastFirstName": "Jarmuziewicz Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 233,
+        "lastFirstName": "Marcinkiewicz Kazimierz"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 291,
+        "lastFirstName": "Pawlak Waldemar"
+      },
+      {
+        "club": "RKN",
+        "id": 56,
+        "lastFirstName": "Czerwiński Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 100,
+        "lastFirstName": "Górna-Kubacka Anna"
+      },
+      {
+        "club": "SLD",
+        "id": 119,
+        "lastFirstName": "Hayn Ryszard"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 186,
+        "lastFirstName": "Kozłowski Piotr"
+      },
+      {
+        "club": "PiS",
+        "id": 243,
+        "lastFirstName": "Mężydło Antoni"
+      },
+      {
+        "club": "LPR",
+        "id": 254,
+        "lastFirstName": "Murias Halina"
+      },
+      {
+        "club": "SLD",
+        "id": 270,
+        "lastFirstName": "Nowicki Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 281,
+        "lastFirstName": "Osik Wiktor"
+      },
+      {
+        "club": "SLD",
+        "id": 306,
+        "lastFirstName": "Piosik Stanisław"
+      },
+      {
+        "club": "UP",
+        "id": 318,
+        "lastFirstName": "Polak Danuta"
+      },
+      {
+        "club": "SLD",
+        "id": 340,
+        "lastFirstName": "Sas Kazimierz"
+      },
+      {
+        "club": "PO",
+        "id": 380,
+        "lastFirstName": "Szczypiński Tomasz"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia rządowego projektu ustawy o informatyzacji działalności niektórych podmiotów realizujących zadania publiczne",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia rządowego projektu ustawy o informatyzacji działalności niektórych podmiotów realizujących zadania publiczne"
+  },
+  {
+    "appointmentDate": "2003-12-18",
+    "code": "NDL",
+    "compositionDate": "2004-01-09",
+    "members": [
+      {
+        "club": "PO",
+        "function": "przewodniczący",
+        "id": 67,
+        "lastFirstName": "Dolniak Grzegorz"
+      },
+      {
+        "club": "niez.",
+        "function": "zastępca przewodniczącego",
+        "id": 83,
+        "lastFirstName": "Firak Witold"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 213,
+        "lastFirstName": "Lipiński Adam"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 306,
+        "lastFirstName": "Piosik Stanisław"
+      },
+      {
+        "club": "SDPL",
+        "id": 35,
+        "lastFirstName": "Celiński Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 41,
+        "lastFirstName": "Chrzanowski Kazimierz"
+      },
+      {
+        "club": "LPR",
+        "id": 66,
+        "lastFirstName": "Dobrosz Janusz"
+      },
+      {
+        "club": "PiS",
+        "id": 69,
+        "lastFirstName": "Dorn Ludwik"
+      },
+      {
+        "club": "UP",
+        "id": 187,
+        "lastFirstName": "Kralkowska Ewa"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 224,
+        "lastFirstName": "Łyżwińska Wanda"
+      },
+      {
+        "club": "PO",
+        "id": 380,
+        "lastFirstName": "Szczypiński Tomasz"
+      },
+      {
+        "club": "niez.",
+        "id": 442,
+        "lastFirstName": "Zagórski Marek"
+      },
+      {
+        "club": "SLD",
+        "id": 445,
+        "lastFirstName": "Zarzycki Kazimierz"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia rządowego projektu ustawy o działalności lobbingowej",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia rządowego projektu ustawy o działalności lobbingowej"
+  },
+  {
+    "appointmentDate": "2004-03-11",
+    "code": "NUW",
+    "compositionDate": "2004-03-11",
+    "members": [
+      {
+        "club": "niez.",
+        "function": "przewodniczący",
+        "id": 148,
+        "lastFirstName": "Kaczmarek Wiesław"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 38,
+        "lastFirstName": "Chlebowski Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 270,
+        "lastFirstName": "Nowicki Józef"
+      },
+      {
+        "club": "SDPL",
+        "id": 10,
+        "lastFirstName": "Banach Jolanta"
+      },
+      {
+        "club": "SLD",
+        "id": 41,
+        "lastFirstName": "Chrzanowski Kazimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 51,
+        "lastFirstName": "Cymański Tadeusz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 52,
+        "lastFirstName": "Czechowski Włodzimierz"
+      },
+      {
+        "club": "PiS",
+        "id": 63,
+        "lastFirstName": "Diakonow Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 81,
+        "lastFirstName": "Filek Anna"
+      },
+      {
+        "club": "PiS",
+        "id": 140,
+        "lastFirstName": "Jasiński Wojciech"
+      },
+      {
+        "club": "PSL",
+        "id": 161,
+        "lastFirstName": "Kasprzak Mieczysław"
+      },
+      {
+        "club": "SDPL",
+        "id": 162,
+        "lastFirstName": "Kasprzyk Jacek"
+      },
+      {
+        "club": "SLD",
+        "id": 183,
+        "lastFirstName": "Kowalik Jacek"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 201,
+        "lastFirstName": "Kuropatwiński Lech"
+      },
+      {
+        "club": "niez.",
+        "id": 229,
+        "lastFirstName": "Mamiński Tomasz"
+      },
+      {
+        "club": "niez.",
+        "id": 259,
+        "lastFirstName": "Müller Jerzy"
+      },
+      {
+        "club": "PO",
+        "id": 479,
+        "lastFirstName": "Samborski Leszek"
+      },
+      {
+        "club": "SLD",
+        "id": 384,
+        "lastFirstName": "Szparaga Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 404,
+        "lastFirstName": "Tomaszewski Tadeusz"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 463,
+        "lastFirstName": "Tuderek Grzegorz"
+      },
+      {
+        "club": "SLD",
+        "id": 408,
+        "lastFirstName": "Turkiewicz Michał"
+      },
+      {
+        "club": "PO",
+        "id": 438,
+        "lastFirstName": "Wycisło Eugeniusz"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia projektów ustaw związanych z rządowym \"Programem uporządkowania i ograniczenia wydatków publicznych\"",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw związanych z rządowym \"Programem uporządkowania i ograniczenia wydatków publicznych\""
+  },
+  {
+    "appointmentDate": "2004-03-15",
+    "code": "SUE",
+    "compositionDate": "2004-05-14",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 355,
+        "lastFirstName": "Smoleń Robert"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 36,
+        "lastFirstName": "Cepil Józef"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 53,
+        "lastFirstName": "Czepułkowski Jerzy"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 107,
+        "lastFirstName": "Grad Aleksander"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 114,
+        "lastFirstName": "Grzyb Andrzej"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 182,
+        "lastFirstName": "Kotlinowski Marek"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 326,
+        "lastFirstName": "Pusz Sylwia"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 379,
+        "lastFirstName": "Szczygło Aleksander"
+      },
+      {
+        "club": "SLD",
+        "id": 44,
+        "lastFirstName": "Ciemniak Grażyna"
+      },
+      {
+        "club": "SLD",
+        "id": 57,
+        "lastFirstName": "Czuż Aleksander"
+      },
+      {
+        "club": "SLD",
+        "id": 62,
+        "lastFirstName": "Derwich Bogdan"
+      },
+      {
+        "club": "SLD",
+        "id": 86,
+        "lastFirstName": "Gadzinowski Piotr"
+      },
+      {
+        "club": "PO",
+        "id": 89,
+        "lastFirstName": "Gałażewski Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 90,
+        "lastFirstName": "Gawłowski Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 95,
+        "lastFirstName": "Giżyński Szymon"
+      },
+      {
+        "club": "PO",
+        "id": 98,
+        "lastFirstName": "Gorczyca Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 112,
+        "lastFirstName": "Grzebisz-Nowicka Zofia"
+      },
+      {
+        "club": "RP",
+        "id": 135,
+        "lastFirstName": "Janowski Gabriel"
+      },
+      {
+        "club": "SLD",
+        "id": 144,
+        "lastFirstName": "Jędrusik Wiesław"
+      },
+      {
+        "club": "PSL",
+        "id": 151,
+        "lastFirstName": "Kalemba Stanisław"
+      },
+      {
+        "club": "PSL",
+        "id": 153,
+        "lastFirstName": "Kalinowski Jarosław"
+      },
+      {
+        "club": "SDPL",
+        "id": 163,
+        "lastFirstName": "Kasznia Arkadiusz"
+      },
+      {
+        "club": "SLD",
+        "id": 183,
+        "lastFirstName": "Kowalik Jacek"
+      },
+      {
+        "club": "PiS",
+        "id": 191,
+        "lastFirstName": "Kruk Elżbieta"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 218,
+        "lastFirstName": "Łączny Jan"
+      },
+      {
+        "club": "PP",
+        "id": 219,
+        "lastFirstName": "Łopuszański Jan"
+      },
+      {
+        "club": "PO",
+        "id": 237,
+        "lastFirstName": "Markowiak Andrzej"
+      },
+      {
+        "club": "SLD",
+        "id": 240,
+        "lastFirstName": "Marzec Czesław"
+      },
+      {
+        "club": "SLD",
+        "id": 245,
+        "lastFirstName": "Michalski Jerzy"
+      },
+      {
+        "club": "SLD",
+        "id": 262,
+        "lastFirstName": "Namysło Andrzej"
+      },
+      {
+        "club": "PiS",
+        "id": 320,
+        "lastFirstName": "Poncyljusz Paweł"
+      },
+      {
+        "club": "SLD",
+        "id": 325,
+        "lastFirstName": "Prządka Stanisława"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 330,
+        "lastFirstName": "Rochnowska Renata"
+      },
+      {
+        "club": "KL",
+        "id": 331,
+        "lastFirstName": "Rohde Małgorzata"
+      },
+      {
+        "club": "PO",
+        "id": 350,
+        "lastFirstName": "Skowrońska Krystyna"
+      },
+      {
+        "club": "SDPL",
+        "id": 369,
+        "lastFirstName": "Stryjak Cezary"
+      },
+      {
+        "club": "SLD",
+        "id": 419,
+        "lastFirstName": "Widuch Marek"
+      },
+      {
+        "club": "PO",
+        "id": 487,
+        "lastFirstName": "Wojciechowicz Jacek"
+      },
+      {
+        "club": "LPR",
+        "id": 437,
+        "lastFirstName": "Wrzodak Zygmunt"
+      },
+      {
+        "club": "PSL",
+        "id": 446,
+        "lastFirstName": "Zarzycki Wojciech Szczęsny"
+      },
+      {
+        "club": "PiS",
+        "id": 467,
+        "lastFirstName": "Zieliński Jarosław"
+      }
+    ],
+    "name": "Komisja do Spraw Unii Europejskiej",
+    "nameGenitive": "Komisji do Spraw Unii Europejskiej"
+  },
+  {
+    "appointmentDate": "2004-05-28",
+    "code": "SORN",
+    "compositionDate": "2004-07-02",
+    "members": [
+      {
+        "club": "UP",
+        "function": "przewodniczący",
+        "id": 6,
+        "lastFirstName": "Aumiller Andrzej"
+      },
+      {
+        "club": "LPR",
+        "function": "zastępca przewodniczącego",
+        "id": 92,
+        "lastFirstName": "Giertych Roman"
+      },
+      {
+        "club": "PiS",
+        "function": "zastępca przewodniczącego",
+        "id": 417,
+        "lastFirstName": "Wassermann Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 31,
+        "lastFirstName": "Bujak Bogdan"
+      },
+      {
+        "club": "SDPL",
+        "id": 35,
+        "lastFirstName": "Celiński Andrzej"
+      },
+      {
+        "club": "PSL",
+        "id": 111,
+        "lastFirstName": "Gruszka Józef"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 113,
+        "lastFirstName": "Grzesik Andrzej"
+      },
+      {
+        "club": "RKN",
+        "id": 226,
+        "lastFirstName": "Macierewicz Antoni"
+      },
+      {
+        "club": "PO",
+        "id": 248,
+        "lastFirstName": "Miodowicz Konstanty"
+      },
+      {
+        "club": "niez.",
+        "id": 425,
+        "lastFirstName": "Witaszek Zbigniew"
+      }
+    ],
+    "name": "Komisja Śledcza do zbadania zarzutu nieprawidłowości w nadzorze Ministerstwa Skarbu Państwa nad przedstawicielami Skarbu Państwa w spółce PKN Orlen S.A. oraz zarzutu wykorzystania służb specjalnych (d. UOP) do nielegalnych nacisków na organa wymiaru sprawiedliwości w celu uzyskania postanowień służących do wywierania presji na członków Zarządu PKN Orlen S.A.",
+    "nameGenitive": "Komisji Śledczej do zbadania zarzutu nieprawidłowości w nadzorze Ministerstwa Skarbu Państwa nad przedstawicielami Skarbu Państwa w spółce PKN Orlen S.A. oraz zarzutu wykorzystania służb specjalnych (d. UOP) do nielegalnych nacisków na organa wymiaru sprawiedliwości w celu uzyskania postanowień służących do wywierania presji na członków Zarządu PKN Orlen S.A."
+  },
+  {
+    "appointmentDate": "2004-12-22",
+    "code": "NPS",
+    "compositionDate": "2005-01-07",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 112,
+        "lastFirstName": "Grzebisz-Nowicka Zofia"
+      },
+      {
+        "club": "SDPL",
+        "function": "zastępca przewodniczącego",
+        "id": 2,
+        "lastFirstName": "Ajchler Romuald"
+      },
+      {
+        "club": "Samoobrona",
+        "function": "zastępca przewodniczącego",
+        "id": 5,
+        "lastFirstName": "Aszkiełowicz Mieczysław"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 23,
+        "lastFirstName": "Borawski Edmund"
+      },
+      {
+        "club": "PO",
+        "id": 1,
+        "lastFirstName": "Abgarowicz Łukasz"
+      },
+      {
+        "club": "SLD",
+        "id": 3,
+        "lastFirstName": "Antochowski Jan"
+      },
+      {
+        "club": "PO",
+        "id": 7,
+        "lastFirstName": "Bachalski Dariusz Jacek"
+      },
+      {
+        "club": "SLD",
+        "id": 8,
+        "lastFirstName": "Badach Tadeusz"
+      },
+      {
+        "club": "PSL",
+        "id": 470,
+        "lastFirstName": "Balcerowski Tadeusz"
+      },
+      {
+        "club": "PiS",
+        "id": 480,
+        "lastFirstName": "Borucka-Cieślewicz Anna"
+      },
+      {
+        "club": "PSL",
+        "id": 151,
+        "lastFirstName": "Kalemba Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 164,
+        "lastFirstName": "Kawa Marian"
+      },
+      {
+        "club": "UP",
+        "id": 187,
+        "lastFirstName": "Kralkowska Ewa"
+      },
+      {
+        "club": "SLD",
+        "id": 193,
+        "lastFirstName": "Krutczenko Zbigniew"
+      },
+      {
+        "club": "SLD",
+        "id": 236,
+        "lastFirstName": "Markiewicz Adam"
+      },
+      {
+        "club": "LPR",
+        "id": 241,
+        "lastFirstName": "Masłowska Gabriela"
+      },
+      {
+        "club": "PiS",
+        "id": 317,
+        "lastFirstName": "Polaczek Jerzy"
+      },
+      {
+        "club": "PiS",
+        "id": 320,
+        "lastFirstName": "Poncyljusz Paweł"
+      },
+      {
+        "club": "SLD",
+        "id": 337,
+        "lastFirstName": "Rydzoń Stanisław"
+      },
+      {
+        "club": "SLD",
+        "id": 349,
+        "lastFirstName": "Skomra Szczepan"
+      },
+      {
+        "club": "PO",
+        "id": 350,
+        "lastFirstName": "Skowrońska Krystyna"
+      },
+      {
+        "club": "SLD",
+        "id": 373,
+        "lastFirstName": "Suchecki Benedykt"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 374,
+        "lastFirstName": "Sułek Leszek"
+      },
+      {
+        "club": "SDPL",
+        "id": 429,
+        "lastFirstName": "Wojtalik Edward"
+      }
+    ],
+    "name": "Komisja Nadzwyczajna do rozpatrzenia projektu ustawy - Prawo spółdzielcze",
+    "nameGenitive": "Komisji Nadzwyczajnej do rozpatrzenia projektu ustawy - Prawo spółdzielcze"
+  },
+  {
+    "appointmentDate": "2005-01-07",
+    "code": "SPZU",
+    "compositionDate": "2005-01-21",
+    "members": [
+      {
+        "club": "LPR",
+        "function": "przewodniczący",
+        "id": 66,
+        "lastFirstName": "Dobrosz Janusz"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 33,
+        "lastFirstName": "Bury Jan"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 53,
+        "lastFirstName": "Czepułkowski Jerzy"
+      },
+      {
+        "club": "UP",
+        "function": "zastępca przewodniczącego",
+        "id": 316,
+        "lastFirstName": "Pol Marek"
+      },
+      {
+        "club": "PiS",
+        "id": 99,
+        "lastFirstName": "Gosiewski Przemysław"
+      },
+      {
+        "club": "PO",
+        "id": 102,
+        "lastFirstName": "Grabarczyk Cezary"
+      },
+      {
+        "club": "D_OJCZYSTY",
+        "id": 160,
+        "lastFirstName": "Kantor Ewa"
+      },
+      {
+        "club": "SDPL",
+        "id": 208,
+        "lastFirstName": "Lewandowski Bogdan"
+      },
+      {
+        "club": "SLD",
+        "id": 464,
+        "lastFirstName": "Tomczyk Ryszard"
+      },
+      {
+        "club": "SLD",
+        "id": 449,
+        "lastFirstName": "Zbrzyzny Ryszard"
+      }
+    ],
+    "name": "Komisja Śledcza do zbadania prawidłowości prywatyzacji Powszechnego Zakładu Ubezpieczeń Spółka Akcyjna",
+    "nameGenitive": "Komisji Śledczej do zbadania prawidłowości prywatyzacji Powszechnego Zakładu Ubezpieczeń Spółka Akcyjna"
+  },
+  {
+    "appointmentDate": "2005-03-11",
+    "code": "RKM",
+    "compositionDate": "2005-04-15",
+    "members": [
+      {
+        "club": "SLD",
+        "function": "przewodniczący",
+        "id": 142,
+        "lastFirstName": "Jasztal Teresa"
+      },
+      {
+        "club": "SLD",
+        "function": "zastępca przewodniczącego",
+        "id": 120,
+        "lastFirstName": "Herman Krystyna"
+      },
+      {
+        "club": "PO",
+        "function": "zastępca przewodniczącego",
+        "id": 221,
+        "lastFirstName": "Łukacijewska Elżbieta"
+      },
+      {
+        "club": "PSL",
+        "function": "zastępca przewodniczącego",
+        "id": 249,
+        "lastFirstName": "Mioduszewski Józef"
+      },
+      {
+        "club": "SLD",
+        "id": 21,
+        "lastFirstName": "Bolek Elżbieta"
+      },
+      {
+        "club": "SLD",
+        "id": 44,
+        "lastFirstName": "Ciemniak Grażyna"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 82,
+        "lastFirstName": "Filipek Krzysztof"
+      },
+      {
+        "club": "SLD",
+        "id": 124,
+        "lastFirstName": "Iwiński Tadeusz"
+      },
+      {
+        "club": "PO",
+        "id": 181,
+        "lastFirstName": "Korzeniowski Leszek"
+      },
+      {
+        "club": "UP",
+        "id": 187,
+        "lastFirstName": "Kralkowska Ewa"
+      },
+      {
+        "club": "PSL",
+        "id": 204,
+        "lastFirstName": "Kwaśniewska Dorota"
+      },
+      {
+        "club": "SLD",
+        "id": 220,
+        "lastFirstName": "Łuczak Krystian"
+      },
+      {
+        "club": "SLD",
+        "id": 483,
+        "lastFirstName": "Napieralski Grzegorz"
+      },
+      {
+        "club": "PO",
+        "id": 307,
+        "lastFirstName": "Piotrowska Teresa"
+      },
+      {
+        "club": "SLD",
+        "id": 344,
+        "lastFirstName": "Senyszyn Joanna"
+      },
+      {
+        "club": "SDPL",
+        "id": 348,
+        "lastFirstName": "Sierakowska Izabella"
+      },
+      {
+        "club": "SDPL",
+        "id": 358,
+        "lastFirstName": "Sosnowska Joanna"
+      },
+      {
+        "club": "Samoobrona",
+        "id": 424,
+        "lastFirstName": "Wiśniowska Genowefa"
+      },
+      {
+        "club": "SLD",
+        "id": 445,
+        "lastFirstName": "Zarzycki Kazimierz"
+      }
+    ],
+    "name": "Komisja Równego Statusu Kobiet i Mężczyzn",
+    "nameGenitive": "Komisji Równego Statusu Kobiet i Mężczyzn"
+  }
+]

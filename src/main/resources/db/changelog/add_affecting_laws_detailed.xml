@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="add_affecting_laws_detailed" author="asoos">
+        <createTable tableName="affecting_laws_detailed">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="record_id" type="int">
+                <constraints nullable="false"
+                             foreignKeyName="fk_affecting_detail_modified_record"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="modified_article"
+                    type="varchar"/>
+            <column name="affecting_record_id" type="int">
+                <constraints nullable="true"
+                             foreignKeyName="fk_affecting_detail_affecting_record"
+                             references="bill_main_table(id)"/>
+            </column>
+            <column name="affecting_law_id" type="varchar"/>
+            <column name="affecting_article" type="varchar"/>
+            <column name="affecting_date" type="date"/>
+        </createTable>
+    </changeSet>
+
+</databaseChangeLog>

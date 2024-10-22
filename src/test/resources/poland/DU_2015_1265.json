@@ -1,0 +1,214 @@
+{
+  "ELI": "DU/2015/1265",
+  "address": "WDU20150001265",
+  "announcementDate": "2015-07-24",
+  "changeDate": "2023-09-22T11:26:49",
+  "displayAddress": "Dz.U. 2015 poz. 1265",
+  "pos": 1265,
+  "promulgation": "2015-08-31",
+  "publisher": "DU",
+  "status": "akt posiada tekst jednolity",
+  "textHTML": true,
+  "textPDF": true,
+  "title": "Ustawa z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych",
+  "type": "Ustawa",
+  "volume": 0,
+  "year": 2015,
+  "authorizedBody": [],
+  "directives": [],
+  "entryIntoForce": "2015-09-15",
+  "expirationDate": "2025-12-31",
+  "inForce": "IN_FORCE",
+  "keywords": [
+    "budowlane prawo",
+    "energetyczna gospodarka",
+    "energetyka",
+    "finansowanie",
+    "geodezja i kartografia",
+    "energetyczne prawo",
+    "inwestycje",
+    "nieruchomości"
+  ],
+  "keywordsNames": [],
+  "obligated": [],
+  "previousTitle": [],
+  "prints": [
+    {
+      "link": "https://www.sejm.gov.pl/Sejm7.nsf/PrzebiegProc.xsp?nr=3475",
+      "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term7/prints/3475",
+      "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term7/processes/3475",
+      "number": "3475",
+      "term": 7
+    }
+  ],
+  "references": {
+    "Akty zmieniające": [
+      {
+        "id": "DU/2023/595",
+        "date": "2023-04-13"
+      },
+      {
+        "id": "DU/2023/1688",
+        "date": "2023-09-24"
+      },
+      {
+        "id": "DU/2023/1506",
+        "date": "2023-09-03"
+      },
+      {
+        "id": "DU/2022/1846",
+        "date": "2022-10-02"
+      },
+      {
+        "id": "DU/2021/922",
+        "date": "2021-05-27"
+      },
+      {
+        "id": "DU/2021/784",
+        "date": "2021-05-13"
+      },
+      {
+        "id": "DU/2021/234",
+        "date": "2021-02-18"
+      },
+      {
+        "id": "DU/2020/284",
+        "date": "2020-02-29"
+      },
+      {
+        "id": "DU/2020/1086",
+        "date": "2020-06-24"
+      },
+      {
+        "id": "DU/2019/630",
+        "date": "2019-04-18"
+      },
+      {
+        "id": "DU/2017/635",
+        "date": "2017-04-08"
+      },
+      {
+        "id": "DU/2017/1566",
+        "date": "2018-01-01"
+      },
+      {
+        "id": "DU/2016/266",
+        "date": "2016-03-17"
+      },
+      {
+        "id": "DU/2016/1250",
+        "date": "2016-08-31"
+      },
+      {
+        "id": "DU/2015/1753",
+        "date": "2015-11-14"
+      }
+    ],
+    "Akty zmienione": [
+      {
+        "id": "DU/2008/1227",
+        "date": "2015-09-15"
+      },
+      {
+        "id": "DU/2003/717",
+        "date": "2015-09-15"
+      },
+      {
+        "id": "DU/1997/741",
+        "date": "2015-09-15"
+      },
+      {
+        "id": "DU/1994/414",
+        "date": "2015-09-15"
+      }
+    ],
+    "Inf. o tekście jednolitym": [
+      {
+        "id": "DU/2023/1680"
+      },
+      {
+        "id": "DU/2022/273"
+      },
+      {
+        "id": "DU/2021/428"
+      },
+      {
+        "id": "DU/2020/191"
+      },
+      {
+        "id": "DU/2018/404"
+      },
+      {
+        "id": "DU/2016/1812"
+      }
+    ],
+    "Odesłania": [
+      {
+        "id": "DU/2010/963"
+      },
+      {
+        "id": "DU/2009/700"
+      },
+      {
+        "id": "DU/2008/1227"
+      },
+      {
+        "id": "DU/2004/880"
+      },
+      {
+        "id": "DU/2002/1270"
+      },
+      {
+        "id": "DU/2002/1112"
+      },
+      {
+        "id": "DU/2001/1229"
+      },
+      {
+        "id": "DU/1997/348"
+      },
+      {
+        "id": "DU/1991/444"
+      },
+      {
+        "id": "DU/1991/131"
+      },
+      {
+        "id": "DU/1989/163"
+      },
+      {
+        "id": "DU/1964/93"
+      }
+    ]
+  },
+  "releasedBy": [
+    "SEJM"
+  ],
+  "texts": [
+    {
+      "fileName": "text.html",
+      "type": "H"
+    },
+    {
+      "fileName": "D20151265.pdf",
+      "type": "O"
+    },
+    {
+      "fileName": "D20151265.pdf",
+      "type": "I"
+    },
+    {
+      "fileName": "D20151265L.pdf",
+      "type": "T"
+    },
+    {
+      "fileName": "D20151265Lj.pdf",
+      "type": "U"
+    },
+    {
+      "fileName": "D20151265.docx",
+      "type": "W"
+    }
+  ],
+  "validFrom": "2015-09-15"
+}

@@ -1,0 +1,203 @@
+{
+  "ELI": "DU/2023/2029",
+  "address": "WDU20230002029",
+  "announcementDate": "2023-06-16",
+  "changeDate": "2023-09-29T12:12:46",
+  "displayAddress": "Dz.U. 2023 poz. 2029",
+  "pos": 2029,
+  "promulgation": "2023-09-27",
+  "publisher": "DU",
+  "status": "obowiązujący",
+  "textHTML": false,
+  "textPDF": true,
+  "title": "Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz niektórych innych ustaw",
+  "type": "Ustawa",
+  "volume": 0,
+  "year": 2023,
+  "authorizedBody": [],
+  "comments": "1) art. 23 pkt 14 i 15 wchodzi w życie z dniem 31 grudnia 2023 r.;\n2) art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1-13 i 16 wchodzą w życie z dniem 1 stycznia 2024 r.",
+  "directives": [
+    {
+      "address": "32018R2066",
+      "date": "2018-12-19",
+      "title": "Rozporządzenie wykonawcze Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniające rozporządzenie Komisji (UE) nr 601/2012 (Tekst mający znaczenie dla EOG.)"
+    },
+    {
+      "address": "32019R1122",
+      "date": "2019-03-12",
+      "title": "Rozporządzenie delegowane Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniające dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Tekst mający znaczenie dla EOG.)"
+    }
+  ],
+  "entryIntoForce": "2023-10-28",
+  "inForce": "IN_FORCE",
+  "keywords": [
+    "żegluga śródlądowa",
+    "odpady",
+    "budowlane prawo",
+    "administracja morska",
+    "wodne prawo",
+    "administracja rządowa",
+    "transport kolejowy",
+    "gazociągi i sieci gazowe",
+    "górnicze prawo",
+    "ochrona środowiska",
+    "porty lotnicze",
+    "energetyczne prawo",
+    "inwestycje",
+    "prawo o ruchu drogowym",
+    "geologiczne prawo",
+    "nieruchomości",
+    "planowanie społeczno-gospodarcze"
+  ],
+  "keywordsNames": [],
+  "obligated": [
+    "MIN. WŁAŚCIWY DS GOSPODARKI WODNEJ",
+    "MIN. WŁAŚCIWY DS ŻEGLUGI ŚRÓDLĄDOWEJ",
+    "MIN. WŁAŚCIWY DS ŚRODOWISKA"
+  ],
+  "previousTitle": [],
+  "prints": [
+    {
+      "link": "https://www.sejm.gov.pl/Sejm9.nsf/PrzebiegProc.xsp?nr=3238",
+      "linkPrintAPI": "https://api.sejm.gov.pl/sejm/term9/prints/3238",
+      "linkProcessAPI": "https://api.sejm.gov.pl/sejm/term9/processes/3238",
+      "number": "3238",
+      "term": 9
+    }
+  ],
+  "references": {
+    "Akty uznane za uchylone": [
+      {
+        "id": "DU/2012/101",
+        "date": "2023-10-28"
+      }
+    ],
+    "Akty zmienione": [
+      {
+        "id": "DU/2020/374",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2019/630",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2018/646",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2018/1496",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2017/1566",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2015/1265",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2015/1223",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2014/1133",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2013/21",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2013/1238",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2011/981",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2010/963",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2009/700",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2009/340",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2008/1227",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2003/789",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2003/721",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2003/717",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2003/449",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2001/627",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/2001/43",
+        "date": "2024-01-01"
+      },
+      {
+        "id": "DU/1997/943",
+        "date": "2024-01-01"
+      },
+      {
+        "id": "DU/1997/741",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/1997/602",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/1997/348",
+        "date": "2023-10-28"
+      },
+      {
+        "id": "DU/1994/414",
+        "date": "2024-01-01"
+      },
+      {
+        "id": "DU/1991/131",
+        "date": "2023-10-28"
+      }
+    ]
+  },
+  "releasedBy": [
+    "SEJM"
+  ],
+  "texts": [
+    {
+      "fileName": "D20232029.pdf",
+      "type": "O"
+    },
+    {
+      "fileName": "D20232029.pdf",
+      "type": "I"
+    },
+    {
+      "fileName": "D20232029L.pdf",
+      "type": "T"
+    }
+  ]
+}

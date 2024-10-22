@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd">
+
+    <changeSet id="colombian_originator_adding_columns" author="asoos">
+        <addColumn tableName="originators">
+            <column name="originator_education"
+                    type="varchar"/>
+            <column name="originator_age"
+                    type="int"/>
+            <column name="originator_gender"
+                    type="varchar"/>
+            <column name="originator_constituency"
+                    type="varchar"/>
+            <column name="originator_investigations_dummy"
+                    type="boolean"/>
+            <column name="originator_investigations_count"
+                    type="int"/>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>
