@@ -1,6 +1,26 @@
+## Overview
+This is a standalone module to scrape the parliamentary bills of certain countries for the Legislative project. It has no dependency on the [Python codebase](https://github.com/Global-Corruption-Observatory/legislative-data-collector-python-public) for the same project. 
+
+The full list of countries handled by this codebase is the following:
+- Australia
+- Brazil
+- Bulgaria
+- Chile
+- Colombia
+- Georgia
+- Hungary
+- India
+- Jordan
+- Poland
+- Russia
+- South Africa
+- Sweden
+- UK
+- USA
+
 ## Important documentation
 - Explanation of core legislative variables: https://docs.google.com/spreadsheets/d/1eaKGA1OQB9O--ojl6k7i42UG45Ag80p3RqcW8vJXsUk/edit?gid=0#gid=0
-- Annotations by country: https://drive.google.com/drive/folders/1aeMTFyErbBqnaxkoHDg8xx8v7p183jZ9
+- Scraping guides (annotations) by country: https://drive.google.com/drive/folders/1aeMTFyErbBqnaxkoHDg8xx8v7p183jZ9
 
 ## Architecture
 Scraping is implemented in Java with a Spring Boot application. The collected data is stored in PostgreSQL. We used APIs or plain HTTP requests + JSoup where possible, and Selenium where pages were rendered with Javascript. Some tests are implemented in Kotlin. 
@@ -12,7 +32,7 @@ Scraping is implemented in Java with a Spring Boot application. The collected da
 - Chromedriver (matching version with Chromium): `sudo apt-get install chromium-chromedriver`
 - PostgreSQL database running separately from the application: Install docker (https://docs.docker.com/engine/install/ubuntu/), then the database can be started based on the `docker-compose.yml` file in the root folder of the project
 
-### Guide to upgrade Chrome and Chromedriver
+### Guide to upgrading Chrome and Chromedriver
 - [Chrome & Chromedriver upgrade](docs/CHROMEDRIVER_UPGRADE)
 
 ## Build
